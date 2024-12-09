@@ -1,0 +1,1156 @@
+bairro,endereco,area,quartos,banheiros,vaga,aluguel,condominio,endereco_completo,latitude,longitude,aluguel_num
+Centro,Rua Aurora,38.0,1.0,1.0,0,R$ 1.450,R$ 576 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,1450.0
+Centro,Avenida Senador Queirós 101,41.0,1.0,1.0,0,R$ 1.450,R$ 990 Condominio,"Avenida Senador Queirós 101, Centro, São Paulo, São Paulo, Brasil",-23.5388665,-46.6351773,1450.0
+Vila Buarque,"rua das Palmeiras, 381",58.0,2.0,1.0,0,R$ 1.450,R$ 595 Condominio,"rua das Palmeiras, 381, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5365629,-46.6523893,1450.0
+Centro,AV NOVE DE JULHO,80.0,1.0,1.0,0,R$ 1.450,R$ 650 Condominio,"AV NOVE DE JULHO, Centro, São Paulo, São Paulo, Brasil",-23.5665948,-46.6587092,1450.0
+Vila Buarque,Rua Marquês de Itu,31.0,1.0,1.0,1,R$ 1.459,R$ 720 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,1459.0
+Vila Buarque,Rua Amaral Gurgel,29.0,1.0,1.0,0,R$ 1.460,R$ 500 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,1460.0
+Centro,Rua Álvaro de Carvalho,35.0,1.0,1.0,1,R$ 1.460,R$ 720 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,1460.0
+Centro,Rua Martins Fontes,30.0,1.0,1.0,0,R$ 1.475,R$ 370 Condominio,"Rua Martins Fontes, Centro, São Paulo, São Paulo, Brasil",-23.5492334,-46.6442819,1475.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,24.0,1.0,1.0,0,R$ 1.480,R$ 450 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,1480.0
+Vila Buarque,Rua Major Sertório,31.0,1.0,1.0,1,R$ 1.489,R$ 510 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,1489.0
+Centro,Avenida Cásper Líbero,50.0,1.0,1.0,0,R$ 1.490,R$ 488 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,1490.0
+Vila Buarque,Largo santa cecilia,48.0,1.0,1.0,0,R$ 1.490,,"Largo santa cecilia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5391771,-46.6500331,1490.0
+Centro,Rua Álvaro de Carvalho,35.0,1.0,1.0,1,R$ 1.495,R$ 716 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,1495.0
+Centro,Rua dos Andradas,30.0,1.0,1.0,0,R$ 1.497,R$ 483 Condominio,"Rua dos Andradas, Centro, São Paulo, São Paulo, Brasil",-23.5384537,-46.6378847,1497.0
+Santa Efigênia,"AV Duque de Caxias, 20",58.0,1.0,1.0,0,R$ 1.500,R$ 508 Condominio,"AV Duque de Caxias, 20, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5413254,-46.64650349999999,1500.0
+Vila Buarque,Rua Amaral Gurgel,42.0,1.0,1.0,1,R$ 1.500,R$ 750 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,1500.0
+Centro,Rua dos Carmelitas,50.0,1.0,1.0,0,R$ 1.500,R$ 675 Condominio,"Rua dos Carmelitas, Centro, São Paulo, São Paulo, Brasil",-23.5512062,-46.6291981,1500.0
+Vila Buarque,Rua Santa Isabel,45.0,1.0,1.0,0,R$ 1.500,R$ 508 Condominio,"Rua Santa Isabel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5427715,-46.6482353,1500.0
+Centro,Avenida Senador Queirós,20.0,1.0,1.0,0,R$ 1.500,R$ 550 Condominio,"Avenida Senador Queirós, Centro, São Paulo, São Paulo, Brasil",-23.5393987,-46.6327896,1500.0
+Luz,Rua Dutra Rodrigues,28.0,1.0,1.0,0,R$ 1.500,R$ 100 Condominio,"Rua Dutra Rodrigues, Luz, São Paulo, São Paulo, Brasil",-23.534234,-46.6316975,1500.0
+Centro,Rua Aurora,38.0,1.0,1.0,0,R$ 1.450,R$ 576 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,1450.0
+Centro,Avenida Senador Queirós 101,41.0,1.0,1.0,0,R$ 1.450,R$ 990 Condominio,"Avenida Senador Queirós 101, Centro, São Paulo, São Paulo, Brasil",-23.5388665,-46.6351773,1450.0
+Vila Buarque,"rua das Palmeiras, 381",58.0,2.0,1.0,0,R$ 1.450,R$ 595 Condominio,"rua das Palmeiras, 381, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5365629,-46.6523893,1450.0
+Centro,AV NOVE DE JULHO,80.0,1.0,1.0,0,R$ 1.450,R$ 650 Condominio,"AV NOVE DE JULHO, Centro, São Paulo, São Paulo, Brasil",-23.5665948,-46.6587092,1450.0
+Vila Buarque,Rua Marquês de Itu,31.0,1.0,1.0,1,R$ 1.459,R$ 720 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,1459.0
+Vila Buarque,Rua Amaral Gurgel,29.0,1.0,1.0,0,R$ 1.460,R$ 500 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,1460.0
+Centro,Rua Álvaro de Carvalho,35.0,1.0,1.0,1,R$ 1.460,R$ 720 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,1460.0
+Centro,Rua Martins Fontes,30.0,1.0,1.0,0,R$ 1.475,R$ 370 Condominio,"Rua Martins Fontes, Centro, São Paulo, São Paulo, Brasil",-23.5492334,-46.6442819,1475.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,24.0,1.0,1.0,0,R$ 1.480,R$ 450 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,1480.0
+Vila Buarque,Rua Major Sertório,31.0,1.0,1.0,1,R$ 1.489,R$ 510 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,1489.0
+Centro,Avenida Cásper Líbero,50.0,1.0,1.0,0,R$ 1.490,R$ 488 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,1490.0
+Vila Buarque,Largo santa cecilia,48.0,1.0,1.0,0,R$ 1.490,,"Largo santa cecilia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5391771,-46.6500331,1490.0
+Centro,Rua Álvaro de Carvalho,35.0,1.0,1.0,1,R$ 1.495,R$ 716 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,1495.0
+Centro,Rua dos Andradas,30.0,1.0,1.0,0,R$ 1.497,R$ 483 Condominio,"Rua dos Andradas, Centro, São Paulo, São Paulo, Brasil",-23.5384537,-46.6378847,1497.0
+Santa Efigênia,"AV Duque de Caxias, 20",58.0,1.0,1.0,0,R$ 1.500,R$ 508 Condominio,"AV Duque de Caxias, 20, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5413254,-46.64650349999999,1500.0
+Vila Buarque,Rua Amaral Gurgel,42.0,1.0,1.0,1,R$ 1.500,R$ 750 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,1500.0
+Centro,Rua dos Carmelitas,50.0,1.0,1.0,0,R$ 1.500,R$ 675 Condominio,"Rua dos Carmelitas, Centro, São Paulo, São Paulo, Brasil",-23.5512062,-46.6291981,1500.0
+Vila Buarque,Rua Santa Isabel,45.0,1.0,1.0,0,R$ 1.500,R$ 508 Condominio,"Rua Santa Isabel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5427715,-46.6482353,1500.0
+Centro,Avenida Senador Queirós,20.0,1.0,1.0,0,R$ 1.500,R$ 550 Condominio,"Avenida Senador Queirós, Centro, São Paulo, São Paulo, Brasil",-23.5393987,-46.6327896,1500.0
+Luz,Rua Dutra Rodrigues,28.0,1.0,1.0,0,R$ 1.500,R$ 100 Condominio,"Rua Dutra Rodrigues, Luz, São Paulo, São Paulo, Brasil",-23.534234,-46.6316975,1500.0
+Centro,rua vitoria,42.0,1.0,1.0,0,R$ 1.500,R$ 500 Condominio,"rua vitoria, Centro, São Paulo, São Paulo, Brasil",-23.5373514,-46.6380855,1500.0
+Vila Buarque,Rua Amaral Gurgel,30.0,1.0,1.0,0,R$ 1.500,R$ 352 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,1500.0
+Centro,Avenida Cásper Líbero,50.0,2.0,1.0,0,R$ 1.500,R$ 700 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,1500.0
+Centro,Viaduto Dona Paulina,29.0,1.0,1.0,0,R$ 1.500,R$ 480 Condominio,"Viaduto Dona Paulina, Centro, São Paulo, São Paulo, Brasil",-23.5521441,-46.6363563,1500.0
+Centro,Avenida Ipiranga,32.0,1.0,1.0,0,R$ 1.500,R$ 420 Condominio,"Avenida Ipiranga, Centro, São Paulo, São Paulo, Brasil",-23.5405282,-46.6379755,1500.0
+Centro,Rua Amaral Gurgel,40.0,1.0,1.0,0,R$ 1.500,,"Rua Amaral Gurgel, Centro, São Paulo, São Paulo, Brasil",-23.5446857,-46.6479239,1500.0
+Vila Buarque,R. Amaral Gurgel - Vila Buarque São Paulo - Sp 01221-001 Brasil,30.0,,1.0,0,R$ 1.500,R$ 476 Condominio,"R. Amaral Gurgel - Vila Buarque São Paulo - Sp 01221-001 Brasil, Vila Buarque, São Paulo, São Paulo, Brasil",-23.54441,-46.64768000000001,1500.0
+Sé,Rua Conde de Sarzedas,24.0,1.0,1.0,0,R$ 1.500,R$ 396 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,1500.0
+Centro,Rua Antônio de Godói,49.0,1.0,1.0,0,R$ 1.500,R$ 350 Condominio,"Rua Antônio de Godói, Centro, São Paulo, São Paulo, Brasil",-23.5422341,-46.6375569,1500.0
+Sé,Rua Tabatinguera,24.0,1.0,1.0,0,R$ 1.500,R$ 500 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,1500.0
+Santa Efigênia,Rua Aurora,40.0,1.0,1.0,0,R$ 1.500,R$ 280 Condominio,"Rua Aurora, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,1500.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,25.0,1.0,1.0,0,R$ 1.500,R$ 390 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,1500.0
+Sé,Rua Tabatinguera,24.0,1.0,1.0,0,R$ 1.500,R$ 500 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,1500.0
+Centro,Avenida Senador Queirós,38.0,1.0,1.0,0,R$ 1.500,R$ 777 Condominio,"Avenida Senador Queirós, Centro, São Paulo, São Paulo, Brasil",-23.5393987,-46.6327896,1500.0
+Centro,Praça Carlos Gomes,37.0,1.0,1.0,0,R$ 1.500,R$ 325 Condominio,"Praça Carlos Gomes, Centro, São Paulo, São Paulo, Brasil",-23.5533344,-46.6357701,1500.0
+Centro,Rua Major Quedinho,50.0,1.0,1.0,0,R$ 1.500,R$ 410 Condominio,"Rua Major Quedinho, Centro, São Paulo, São Paulo, Brasil",-23.5497655,-46.6430772,1500.0
+Centro,Rua Brigadeiro Tobias,42.0,1.0,1.0,0,R$ 1.500,R$ 520 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,1500.0
+Santa Efigênia,Rua dos Andradas,30.0,1.0,1.0,0,R$ 1.500,,"Rua dos Andradas, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5376248,-46.6385392,1500.0
+Vila Buarque,Rua Frederico Abranches,53.0,1.0,1.0,0,R$ 1.500,R$ 465 Condominio,"Rua Frederico Abranches, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5398099,-46.6499741,1500.0
+Centro,Rua Washington Luís 98,25.0,1.0,1.0,0,R$ 1.500,R$ 424 Condominio,"Rua Washington Luís 98, Centro, São Paulo, São Paulo, Brasil",-23.5377539,-46.6342368,1500.0
+Centro,Avenida Cásper Líbero,50.0,2.0,1.0,0,R$ 1.500,R$ 700 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,1500.0
+Centro,rua vitoria,42.0,1.0,1.0,0,R$ 1.500,R$ 500 Condominio,"rua vitoria, Centro, São Paulo, São Paulo, Brasil",-23.5373514,-46.6380855,1500.0
+Sé,Rua Tabatinguera,24.0,1.0,1.0,0,R$ 1.500,R$ 500 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,1500.0
+Vila Buarque,Rua Amaral Gurgel,30.0,1.0,1.0,0,R$ 1.500,R$ 352 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,1500.0
+Sé,Rua Tabatinguera,24.0,1.0,1.0,0,R$ 1.500,R$ 500 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,1500.0
+Santa Efigênia,Rua dos Andradas,30.0,1.0,1.0,0,R$ 1.500,,"Rua dos Andradas, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5376248,-46.6385392,1500.0
+Santa Efigênia,Rua Aurora,40.0,1.0,1.0,0,R$ 1.500,R$ 280 Condominio,"Rua Aurora, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,1500.0
+Centro,Rua dos Carmelitas,50.0,1.0,1.0,0,R$ 1.500,R$ 675 Condominio,"Rua dos Carmelitas, Centro, São Paulo, São Paulo, Brasil",-23.5512062,-46.6291981,1500.0
+Vila Buarque,R. Amaral Gurgel - Vila Buarque São Paulo - Sp 01221-001 Brasil,30.0,,1.0,0,R$ 1.500,R$ 476 Condominio,"R. Amaral Gurgel - Vila Buarque São Paulo - Sp 01221-001 Brasil, Vila Buarque, São Paulo, São Paulo, Brasil",-23.54441,-46.64768000000001,1500.0
+Centro,Rua Brigadeiro Tobias,42.0,1.0,1.0,0,R$ 1.500,R$ 520 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,1500.0
+Centro,Avenida Senador Queirós,38.0,1.0,1.0,0,R$ 1.500,R$ 777 Condominio,"Avenida Senador Queirós, Centro, São Paulo, São Paulo, Brasil",-23.5393987,-46.6327896,1500.0
+Centro,Praça Carlos Gomes,37.0,1.0,1.0,0,R$ 1.500,R$ 325 Condominio,"Praça Carlos Gomes, Centro, São Paulo, São Paulo, Brasil",-23.5533344,-46.6357701,1500.0
+Vila Buarque,Rua Santa Isabel,45.0,1.0,1.0,0,R$ 1.500,R$ 508 Condominio,"Rua Santa Isabel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5427715,-46.6482353,1500.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,25.0,1.0,1.0,0,R$ 1.500,R$ 390 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,1500.0
+Centro,Avenida Senador Queirós,20.0,1.0,1.0,0,R$ 1.500,R$ 550 Condominio,"Avenida Senador Queirós, Centro, São Paulo, São Paulo, Brasil",-23.5393987,-46.6327896,1500.0
+Centro,Viaduto Dona Paulina,29.0,1.0,1.0,0,R$ 1.500,R$ 480 Condominio,"Viaduto Dona Paulina, Centro, São Paulo, São Paulo, Brasil",-23.5521441,-46.6363563,1500.0
+Vila Buarque,Rua Amaral Gurgel,42.0,1.0,1.0,1,R$ 1.500,R$ 750 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,1500.0
+Centro,Rua Major Quedinho,50.0,1.0,1.0,0,R$ 1.500,R$ 410 Condominio,"Rua Major Quedinho, Centro, São Paulo, São Paulo, Brasil",-23.5497655,-46.6430772,1500.0
+Vila Buarque,Rua Frederico Abranches,53.0,1.0,1.0,0,R$ 1.500,R$ 465 Condominio,"Rua Frederico Abranches, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5398099,-46.6499741,1500.0
+Centro,Rua Washington Luís 98,25.0,1.0,1.0,0,R$ 1.500,R$ 424 Condominio,"Rua Washington Luís 98, Centro, São Paulo, São Paulo, Brasil",-23.5377539,-46.6342368,1500.0
+Centro,"R Avanhandava, 65",33.0,1.0,1.0,0,R$ 1.500,R$ 1.300 Condominio,"R Avanhandava, 65, Centro, São Paulo, São Paulo, Brasil",-23.5502603,-46.6448808,1500.0
+Centro,"AV RIO BRANCO, 1658",40.0,1.0,1.0,1,R$ 1.500,R$ 900 Condominio,"AV RIO BRANCO, 1658, Centro, São Paulo, São Paulo, Brasil",-23.529866,-46.6467677,1500.0
+Centro,Avenida Senador Queirós 6,33.0,1.0,1.0,0,R$ 1.500,R$ 350 Condominio,"Avenida Senador Queirós 6, Centro, São Paulo, São Paulo, Brasil",-23.5390569,-46.6358111,1500.0
+Vila Buarque,Doutor Cesário Mota Júnior,30.0,1.0,1.0,0,R$ 1.500,R$ 627 Condominio,"Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,1500.0
+Sé,Rua Benjamim Constant 68,35.0,1.0,1.0,0,R$ 1.500,,"Rua Benjamim Constant 68, Sé, São Paulo, São Paulo, Brasil",-23.54983,-46.6347181,1500.0
+Sé,Rua dos Estudantes 242,55.0,1.0,1.0,0,R$ 1.500,R$ 800 Condominio,"Rua dos Estudantes 242, Sé, São Paulo, São Paulo, Brasil",-23.5555321,-46.6328231,1500.0
+Sé,"Rua Tabatinguera,",44.0,1.0,1.0,1,R$ 1.500,R$ 496 Condominio,"Rua Tabatinguera,, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,1500.0
+Vila Buarque,Endereço não informado,39.0,1.0,1.0,0,R$ 1.500,R$ 598 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,1500.0
+Luz,Avenida Cásper Líbero,26.0,1.0,1.0,0,R$ 1.500,R$ 534 Condominio,"Avenida Cásper Líbero, Luz, São Paulo, São Paulo, Brasil",-23.5370939,-46.6356899,1500.0
+Centro,RUA JOAO PESSOA,48.0,1.0,1.0,1,R$ 1.500,R$ 1.937 Condominio,"RUA JOAO PESSOA, Centro, São Paulo, São Paulo, Brasil",-23.7102301,-46.5485903,1500.0
+Vila Buarque,Rua Jaguaribe 55,45.0,1.0,1.0,0,R$ 1.500,R$ 180 Condominio,"Rua Jaguaribe 55, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5418157,-46.6483571,1500.0
+Sé,Avenida Rangel Pestana 1088,32.0,1.0,1.0,0,R$ 1.500,R$ 280 Condominio,"Avenida Rangel Pestana 1088, Sé, São Paulo, São Paulo, Brasil",-23.5477101,-46.6233878,1500.0
+Sé,Endereço não informado,44.0,2.0,1.0,0,R$ 1.500,R$ 131 Condominio,"Endereço não informado, Sé, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,1500.0
+Centro,Rua Doutor Falcão Filho 151,45.0,1.0,1.0,0,R$ 1.500,R$ 454 Condominio,"Rua Doutor Falcão Filho 151, Centro, São Paulo, São Paulo, Brasil",-23.5484362,-46.63812009999999,1500.0
+Centro,Rua dos Andradas,30.0,1.0,1.0,0,R$ 1.500,R$ 480 Condominio,"Rua dos Andradas, Centro, São Paulo, São Paulo, Brasil",-23.5384537,-46.6378847,1500.0
+Centro,Avenida Cásper Líbero,36.0,1.0,1.0,0,R$ 1.500,R$ 450 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,1500.0
+Centro,Endereço não informado,53.0,1.0,1.0,0,R$ 1.500,R$ 380 Condominio,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,1500.0
+Centro,Endereço não informado,24.0,1.0,1.0,0,R$ 1.500,,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,1500.0
+Vila Buarque,"R AMARAL GURGEL, 452",40.0,1.0,1.0,0,R$ 1.500,R$ 448 Condominio,"R AMARAL GURGEL, 452, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5458619,-46.6480272,1500.0
+Centro,Rua Florêncio de Abreu,25.0,1.0,1.0,0,R$ 1.500,R$ 436 Condominio,"Rua Florêncio de Abreu, Centro, São Paulo, São Paulo, Brasil",-23.5398983,-46.6328623,1500.0
+Centro,Rua Álvaro de Carvalho,27.0,1.0,1.0,1,R$ 1.502,R$ 688 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,1502.0
+Vila Buarque,Rua General Jardim,37.0,1.0,1.0,0,R$ 1.529,R$ 990 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,1529.0
+Sé,Rua Riachuelo,50.0,2.0,1.0,0,R$ 1.530,R$ 800 Condominio,"Rua Riachuelo, Sé, São Paulo, São Paulo, Brasil",-23.5506284,-46.6367381,1530.0
+Centro,Avenida Duque de Caxias,35.0,1.0,1.0,0,R$ 1.530,R$ 250 Condominio,"Avenida Duque de Caxias, Centro, São Paulo, São Paulo, Brasil",-23.5378316,-46.6442562,1530.0
+Centro,Rua dos Andradas,30.0,1.0,1.0,0,R$ 1.530,R$ 495 Condominio,"Rua dos Andradas, Centro, São Paulo, São Paulo, Brasil",-23.5384537,-46.6378847,1530.0
+Vila Buarque,Rua Marquês de Itu,29.0,1.0,1.0,1,R$ 1.530,R$ 579 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,1530.0
+Sé,Rua Riachuelo,36.0,1.0,1.0,0,R$ 1.530,R$ 819 Condominio,"Rua Riachuelo, Sé, São Paulo, São Paulo, Brasil",-23.5506284,-46.6367381,1530.0
+Sé,Rua Tabatinguera,23.0,1.0,1.0,0,R$ 1.535,R$ 453 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,1535.0
+Santa Efigênia,Largo do Arouche,33.0,1.0,1.0,0,R$ 1.540,R$ 545 Condominio,"Largo do Arouche, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5409853,-46.646582,1540.0
+Centro,Rua dos Timbiras,37.0,1.0,1.0,1,R$ 1.540,R$ 906 Condominio,"Rua dos Timbiras, Centro, São Paulo, São Paulo, Brasil",-23.5396764,-46.6382299,1540.0
+Vila Buarque,Rua Major Sertório,46.0,1.0,1.0,0,R$ 1.541,R$ 490 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,1541.0
+Centro,Rua Brigadeiro Tobias,30.0,1.0,1.0,0,R$ 1.544,R$ 550 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,1544.0
+Sé,Rua Tabatinguera,23.0,1.0,1.0,0,R$ 1.549,R$ 550 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,1549.0
+Vila Buarque,"Rua Marquês de Itu, 392",48.0,1.0,1.0,0,R$ 1.550,R$ 660 Condominio,"Rua Marquês de Itu, 392, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5435712,-46.6481885,1550.0
+Vila Buarque,Rua Maria Antônia,38.0,1.0,1.0,0,R$ 1.550,R$ 628 Condominio,"Rua Maria Antônia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5467645,-46.6504256,1550.0
+Vila Buarque,Rua Marquês de Itu,26.0,1.0,1.0,0,R$ 1.550,R$ 650 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,1550.0
+Vila Buarque,Rua Marquês de Itu,26.0,1.0,1.0,0,R$ 1.550,R$ 700 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,1550.0
+Centro,Rua Brigadeiro Tobias,52.0,1.0,1.0,0,R$ 1.550,R$ 300 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,1550.0
+Centro,"Rua Cásper Libero ,501 Apto  11",26.0,1.0,1.0,0,R$ 1.550,R$ 475 Condominio,"Rua Cásper Libero ,501 Apto  11, Centro, São Paulo, São Paulo, Brasil",-23.5370144,-46.6361536,1550.0
+Luz,Avenida Tiradentes,30.0,1.0,1.0,0,R$ 1.550,R$ 180 Condominio,"Avenida Tiradentes, Luz, São Paulo, São Paulo, Brasil",-23.5290926,-46.631703,1550.0
+Centro,Rua Álvaro de Carvalho,27.0,1.0,1.0,1,R$ 1.502,R$ 688 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,1502.0
+Vila Buarque,Rua General Jardim,37.0,1.0,1.0,0,R$ 1.529,R$ 990 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,1529.0
+Sé,Rua Riachuelo,50.0,2.0,1.0,0,R$ 1.530,R$ 800 Condominio,"Rua Riachuelo, Sé, São Paulo, São Paulo, Brasil",-23.5506284,-46.6367381,1530.0
+Centro,Avenida Duque de Caxias,35.0,1.0,1.0,0,R$ 1.530,R$ 250 Condominio,"Avenida Duque de Caxias, Centro, São Paulo, São Paulo, Brasil",-23.5378316,-46.6442562,1530.0
+Centro,Rua dos Andradas,30.0,1.0,1.0,0,R$ 1.530,R$ 495 Condominio,"Rua dos Andradas, Centro, São Paulo, São Paulo, Brasil",-23.5384537,-46.6378847,1530.0
+Vila Buarque,Rua Marquês de Itu,29.0,1.0,1.0,1,R$ 1.530,R$ 579 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,1530.0
+Sé,Rua Riachuelo,36.0,1.0,1.0,0,R$ 1.530,R$ 819 Condominio,"Rua Riachuelo, Sé, São Paulo, São Paulo, Brasil",-23.5506284,-46.6367381,1530.0
+Sé,Rua Tabatinguera,23.0,1.0,1.0,0,R$ 1.535,R$ 453 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,1535.0
+Santa Efigênia,Largo do Arouche,33.0,1.0,1.0,0,R$ 1.540,R$ 545 Condominio,"Largo do Arouche, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5409853,-46.646582,1540.0
+Centro,Rua dos Timbiras,37.0,1.0,1.0,1,R$ 1.540,R$ 906 Condominio,"Rua dos Timbiras, Centro, São Paulo, São Paulo, Brasil",-23.5396764,-46.6382299,1540.0
+Vila Buarque,Rua Major Sertório,46.0,1.0,1.0,0,R$ 1.541,R$ 490 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,1541.0
+Centro,Rua Brigadeiro Tobias,30.0,1.0,1.0,0,R$ 1.544,R$ 550 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,1544.0
+Sé,Rua Tabatinguera,23.0,1.0,1.0,0,R$ 1.549,R$ 550 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,1549.0
+Vila Buarque,"Rua Marquês de Itu, 392",48.0,1.0,1.0,0,R$ 1.550,R$ 660 Condominio,"Rua Marquês de Itu, 392, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5435712,-46.6481885,1550.0
+Vila Buarque,Rua Maria Antônia,38.0,1.0,1.0,0,R$ 1.550,R$ 628 Condominio,"Rua Maria Antônia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5467645,-46.6504256,1550.0
+Vila Buarque,Rua Marquês de Itu,26.0,1.0,1.0,0,R$ 1.550,R$ 650 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,1550.0
+Vila Buarque,Rua Marquês de Itu,26.0,1.0,1.0,0,R$ 1.550,R$ 700 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,1550.0
+Centro,Rua Brigadeiro Tobias,52.0,1.0,1.0,0,R$ 1.550,R$ 300 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,1550.0
+Centro,"Rua Cásper Libero ,501 Apto  11",26.0,1.0,1.0,0,R$ 1.550,R$ 475 Condominio,"Rua Cásper Libero ,501 Apto  11, Centro, São Paulo, São Paulo, Brasil",-23.5370144,-46.6361536,1550.0
+Luz,Avenida Tiradentes,30.0,1.0,1.0,0,R$ 1.550,R$ 180 Condominio,"Avenida Tiradentes, Luz, São Paulo, São Paulo, Brasil",-23.5290926,-46.631703,1550.0
+Centro,Avenida Senador Queirós,37.0,1.0,1.0,0,R$ 1.550,R$ 743 Condominio,"Avenida Senador Queirós, Centro, São Paulo, São Paulo, Brasil",-23.5393987,-46.6327896,1550.0
+Centro,Avenida Cásper Líbero,26.0,1.0,1.0,0,R$ 1.550,R$ 472 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,1550.0
+Luz,Avenida Tiradentes,26.0,1.0,1.0,0,R$ 1.550,R$ 154 Condominio,"Avenida Tiradentes, Luz, São Paulo, São Paulo, Brasil",-23.5290926,-46.631703,1550.0
+Centro,"Rua Cásper Libero ,501 Apto  11",26.0,1.0,1.0,0,R$ 1.550,R$ 475 Condominio,"Rua Cásper Libero ,501 Apto  11, Centro, São Paulo, São Paulo, Brasil",-23.5370144,-46.6361536,1550.0
+Centro,Avenida Cásper Líbero 501,26.0,1.0,1.0,0,R$ 1.550,R$ 475 Condominio,"Avenida Cásper Líbero 501, Centro, São Paulo, São Paulo, Brasil",-23.5370144,-46.6361536,1550.0
+Vila Buarque,Rua Frederico Abranches,58.0,1.0,1.0,0,R$ 1.550,R$ 510 Condominio,"Rua Frederico Abranches, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5398099,-46.6499741,1550.0
+Centro,Endereço não informado,50.0,1.0,1.0,0,R$ 1.550,R$ 475 Condominio,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,1550.0
+Sé,Rua dos Estudantes,24.0,1.0,1.0,0,R$ 1.552,R$ 294 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,1552.0
+Santa Efigênia,Avenida Duque de Caxias,45.0,1.0,1.0,0,R$ 1.559,R$ 548 Condominio,"Avenida Duque de Caxias, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5359339,-46.6415808,1559.0
+Centro,Avenida Cásper Líbero,26.0,1.0,1.0,0,R$ 1.560,R$ 420 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,1560.0
+Centro,Avenida São João,32.0,1.0,1.0,0,R$ 1.563,R$ 195 Condominio,"Avenida São João, Centro, São Paulo, São Paulo, Brasil",-23.5437201,-46.6378763,1563.0
+Sé,Rua Tabatinguera,22.0,1.0,1.0,0,R$ 1.568,R$ 385 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,1568.0
+Centro,Rua Florêncio de Abreu,23.0,1.0,1.0,0,R$ 1.570,R$ 543 Condominio,"Rua Florêncio de Abreu, Centro, São Paulo, São Paulo, Brasil",-23.5398983,-46.6328623,1570.0
+Canindé,Rua Azurita,35.0,2.0,1.0,0,R$ 1.571,R$ 350 Condominio,"Rua Azurita, Canindé, São Paulo, São Paulo, Brasil",-23.5218631,-46.6178192,1571.0
+Sé,Rua Tabatinguera,23.0,1.0,1.0,0,R$ 1.579,R$ 440 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,1579.0
+Vila Buarque,Rua Marquês de Itu,28.0,1.0,1.0,0,R$ 1.588,R$ 320 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,1588.0
+Centro,Rua Washington Luís,22.0,1.0,1.0,0,R$ 1.590,R$ 398 Condominio,"Rua Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,1590.0
+Sé,Rua dos Estudantes,24.0,1.0,1.0,0,R$ 1.590,R$ 240 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,1590.0
+Centro,Rua Martins Fontes,32.0,1.0,1.0,0,R$ 1.595,R$ 370 Condominio,"Rua Martins Fontes, Centro, São Paulo, São Paulo, Brasil",-23.5492334,-46.6442819,1595.0
+Luz,Rua Dutra Rodrigues,28.0,1.0,1.0,0,R$ 1.600,R$ 100 Condominio,"Rua Dutra Rodrigues, Luz, São Paulo, São Paulo, Brasil",-23.534234,-46.6316975,1600.0
+Vila Buarque,Rua das Palmeiras,11.0,1.0,1.0,0,R$ 1.600,R$ 350 Condominio,"Rua das Palmeiras, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5373143,-46.6512558,1600.0
+Sé,Rua Santa Luzia,57.0,1.0,1.0,0,R$ 1.600,R$ 369 Condominio,"Rua Santa Luzia, Sé, São Paulo, São Paulo, Brasil",-23.5547015,-46.6331491,1600.0
+Luz,Rua Dutra Rodrigues,28.0,1.0,1.0,0,R$ 1.600,R$ 100 Condominio,"Rua Dutra Rodrigues, Luz, São Paulo, São Paulo, Brasil",-23.534234,-46.6316975,1600.0
+Canindé,Rua Azurita,35.0,2.0,1.0,0,R$ 1.600,R$ 350 Condominio,"Rua Azurita, Canindé, São Paulo, São Paulo, Brasil",-23.5218631,-46.6178192,1600.0
+Sé,Rua dos Estudantes,27.0,1.0,1.0,0,R$ 1.600,R$ 400 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,1600.0
+Centro,Rua dos Timbiras,30.0,1.0,1.0,0,R$ 1.600,R$ 450 Condominio,"Rua dos Timbiras, Centro, São Paulo, São Paulo, Brasil",-23.5396764,-46.6382299,1600.0
+Vila Buarque,Rua Amaral Gurgel,24.0,1.0,1.0,0,R$ 1.600,R$ 429 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,1600.0
+Canindé,Avenida Bom Jardim,50.0,1.0,1.0,0,R$ 1.600,R$ 250 Condominio,"Avenida Bom Jardim, Canindé, São Paulo, São Paulo, Brasil",-23.5250154,-46.6150544,1600.0
+Canindé,Avenida Bom Jardim,50.0,1.0,1.0,0,R$ 1.600,R$ 250 Condominio,"Avenida Bom Jardim, Canindé, São Paulo, São Paulo, Brasil",-23.5250154,-46.6150544,1600.0
+Centro,Avenida Prestes Maia,37.0,1.0,1.0,0,R$ 1.600,R$ 670 Condominio,"Avenida Prestes Maia, Centro, São Paulo, São Paulo, Brasil",-23.5396645,-46.6340752,1600.0
+Luz,Avenida Santos Dumont,80.0,2.0,1.0,0,R$ 1.600,R$ 600 Condominio,"Avenida Santos Dumont, Luz, São Paulo, São Paulo, Brasil",-23.5230772,-46.6307696,1600.0
+Centro,Rua Álvaro de Carvalho,28.0,1.0,1.0,1,R$ 1.600,R$ 620 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,1600.0
+Canindé,Avenida Bom Jardim,50.0,1.0,1.0,0,R$ 1.600,R$ 250 Condominio,"Avenida Bom Jardim, Canindé, São Paulo, São Paulo, Brasil",-23.5250154,-46.6150544,1600.0
+Canindé,Rua Azurita,35.0,2.0,1.0,0,R$ 1.600,R$ 396 Condominio,"Rua Azurita, Canindé, São Paulo, São Paulo, Brasil",-23.5218631,-46.6178192,1600.0
+Canindé,Avenida Bom Jardim,50.0,1.0,1.0,0,R$ 1.600,R$ 250 Condominio,"Avenida Bom Jardim, Canindé, São Paulo, São Paulo, Brasil",-23.5250154,-46.6150544,1600.0
+Santa Efigênia,Rua Aurora,40.0,1.0,1.0,0,R$ 1.600,R$ 516 Condominio,"Rua Aurora, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,1600.0
+Sé,Rua Doutor Bettencourt Rodrigues,84.0,2.0,1.0,0,R$ 1.600,R$ 589 Condominio,"Rua Doutor Bettencourt Rodrigues, Sé, São Paulo, São Paulo, Brasil",-23.5492748,-46.6310497,1600.0
+Sé,Rua dos Carmelitas,42.0,1.0,1.0,0,R$ 1.600,R$ 486 Condominio,"Rua dos Carmelitas, Sé, São Paulo, São Paulo, Brasil",-23.5514146,-46.6292111,1600.0
+Centro,"Avenida Senador Queirós, 101 apto. 123, 1° andar",37.0,1.0,1.0,0,R$ 1.600,R$ 409 Condominio,"Avenida Senador Queirós, 101 apto. 123, 1° andar, Centro, São Paulo, São Paulo, Brasil",-23.5388665,-46.6351773,1600.0
+Centro,"R Tabatinguera, 462",25.0,1.0,1.0,0,R$ 1.600,R$ 1.080 Condominio,"R Tabatinguera, 462, Centro, São Paulo, São Paulo, Brasil",-23.5522923,-46.6286231,1600.0
+Centro,"R Augusta, 1188",31.0,1.0,1.0,1,R$ 1.600,R$ 1.400 Condominio,"R Augusta, 1188, Centro, São Paulo, São Paulo, Brasil",-23.5544701,-46.656637,1600.0
+Centro,RUA JOSE COPPINI,78.0,3.0,1.0,0,R$ 1.600,R$ 452 Condominio,"RUA JOSE COPPINI, Centro, São Paulo, São Paulo, Brasil",-23.7209531,-46.5419875,1600.0
+Vila Buarque,R Doutor Vila Nova,15.0,1.0,1.0,0,R$ 1.600,R$ 240 Condominio,"R Doutor Vila Nova, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5457054,-46.6503305,1600.0
+Centro,R Martins Fontes,37.0,1.0,1.0,0,R$ 1.600,R$ 600 Condominio,"R Martins Fontes, Centro, São Paulo, São Paulo, Brasil",-23.5492334,-46.6442819,1600.0
+Centro,VIADUTO Nove de Julho,44.0,1.0,1.0,0,R$ 1.600,R$ 437 Condominio,"VIADUTO Nove de Julho, Centro, São Paulo, São Paulo, Brasil",-23.5492164,-46.6423238,1600.0
+Vila Buarque,"R GENERAL JARDIM, 294",25.0,1.0,1.0,0,R$ 1.600,R$ 1 Condominio,"R GENERAL JARDIM, 294, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446178,-46.6474225,1600.0
+Vila Buarque,"R GENERAL JARDIM, 294",25.0,1.0,1.0,0,R$ 1.600,R$ 1 Condominio,"R GENERAL JARDIM, 294, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446178,-46.6474225,1600.0
+Vila Buarque,"R General Jardim, 294",25.0,1.0,1.0,0,R$ 1.600,R$ 1 Condominio,"R General Jardim, 294, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446178,-46.6474225,1600.0
+Vila Buarque,"Rua das Palmeiras ,410",33.0,1.0,1.0,0,R$ 1.600,R$ 600 Condominio,"Rua das Palmeiras ,410, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5361961,-46.6525657,1600.0
+Vila Buarque,"R GENERAL JARDIM, 294",25.0,1.0,1.0,0,R$ 1.600,R$ 1 Condominio,"R GENERAL JARDIM, 294, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446178,-46.6474225,1600.0
+Vila Buarque,"R GENERAL JARDIM, 294",25.0,1.0,1.0,0,R$ 1.600,R$ 1 Condominio,"R GENERAL JARDIM, 294, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446178,-46.6474225,1600.0
+Centro,Rua Washington Luís,23.0,1.0,1.0,0,R$ 1.609,R$ 445 Condominio,"Rua Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,1609.0
+Centro,Rua Washington Luís,26.0,1.0,1.0,0,R$ 1.610,R$ 394 Condominio,"Rua Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,1610.0
+Vila Buarque,Rua Amaral Gurgel,40.0,1.0,1.0,0,R$ 1.612,R$ 379 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,1612.0
+Sé,Rua dos Estudantes,31.0,1.0,1.0,0,R$ 1.617,R$ 272 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,1617.0
+Centro,Avenida Prestes Maia 241,40.0,1.0,1.0,0,R$ 1.620,R$ 750 Condominio,"Avenida Prestes Maia 241, Centro, São Paulo, São Paulo, Brasil",-23.5421391,-46.6354864,1620.0
+Vila Buarque,Rua Barão Tatuí,40.0,1.0,1.0,0,R$ 1.626,R$ 505 Condominio,"Rua Barão Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,1626.0
+Centro,Rua dos Andradas,69.0,2.0,1.0,0,R$ 1.627,R$ 398 Condominio,"Rua dos Andradas, Centro, São Paulo, São Paulo, Brasil",-23.5384537,-46.6378847,1627.0
+Centro,Endereço não informado,40.0,1.0,1.0,0,R$ 1.630,,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,1630.0
+Centro,Rua 24 de Maio,59.0,1.0,1.0,0,R$ 1.632,R$ 520 Condominio,"Rua 24 de Maio, Centro, São Paulo, São Paulo, Brasil",-23.5439827,-46.6391395,1632.0
+Vila Buarque,Rua Frederico Abranches,30.0,1.0,1.0,0,R$ 1.645,R$ 325 Condominio,"Rua Frederico Abranches, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5398099,-46.6499741,1645.0
+Vila Buarque,Rua General Jardim,35.0,1.0,1.0,0,R$ 1.650,R$ 446 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,1650.0
+Centro,Rua Aurora,30.0,1.0,1.0,0,R$ 1.650,R$ 800 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,1650.0
+Centro,Rua Riskallah Jorge,34.0,1.0,1.0,0,R$ 1.650,R$ 340 Condominio,"Rua Riskallah Jorge, Centro, São Paulo, São Paulo, Brasil",-23.541838,-46.6350869,1650.0
+Centro,Rua Aurora,30.0,1.0,1.0,0,R$ 1.650,R$ 735 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,1650.0
+Sé,Rua Tabatinguera,25.0,1.0,1.0,0,R$ 1.650,R$ 500 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,1650.0
+Centro,Rua Aurora,30.0,1.0,1.0,0,R$ 1.650,R$ 864 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,1650.0
+Santa Efigênia,Avenida Duque de Caxias,70.0,2.0,1.0,0,R$ 1.650,R$ 394 Condominio,"Avenida Duque de Caxias, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5359339,-46.6415808,1650.0
+Sé,Rua São Francisco,40.0,1.0,1.0,0,R$ 1.650,R$ 480 Condominio,"Rua São Francisco, Sé, São Paulo, São Paulo, Brasil",-23.5491102,-46.6379728,1650.0
+Sé,Rua Tabatinguera,25.0,1.0,1.0,0,R$ 1.650,R$ 500 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,1650.0
+Sé,Rua Tabatinguera,22.0,1.0,1.0,0,R$ 1.650,R$ 459 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,1650.0
+Centro,Rua Aurora,30.0,1.0,1.0,0,R$ 1.650,R$ 735 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,1650.0
+Vila Buarque,BARAO DE TATUI 517,44.0,1.0,1.0,0,R$ 1.650,R$ 544 Condominio,"BARAO DE TATUI 517, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5405099,-46.6544414,1650.0
+Vila Buarque,Rua Maria Antônia,28.0,1.0,1.0,0,R$ 1.660,R$ 570 Condominio,"Rua Maria Antônia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5467645,-46.6504256,1660.0
+Sé,Rua Conde de Sarzedas,21.0,1.0,1.0,0,R$ 1.660,R$ 391 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,1660.0
+Sé,Endereço não informado,40.0,1.0,1.0,0,R$ 1.660,R$ 600 Condominio,"Endereço não informado, Sé, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,1660.0
+Sé,Rua Conde de Sarzedas 135,40.0,1.0,1.0,0,R$ 1.660,R$ 600 Condominio,"Rua Conde de Sarzedas 135, Sé, São Paulo, São Paulo, Brasil",-23.5537115,-46.63176139999999,1660.0
+Sé,Rua Conde de Sarzedas,24.0,1.0,1.0,0,R$ 1.664,R$ 400 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,1664.0
+Vila Buarque,Rua Jaguaribe,42.0,1.0,1.0,0,R$ 1.669,R$ 386 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,1669.0
+Centro,Rua Florêncio de Abreu,30.0,1.0,1.0,0,R$ 1.670,R$ 707 Condominio,"Rua Florêncio de Abreu, Centro, São Paulo, São Paulo, Brasil",-23.5398983,-46.6328623,1670.0
+Santa Efigênia,Rua dos Timbiras,32.0,1.0,1.0,1,R$ 1.684,R$ 766 Condominio,"Rua dos Timbiras, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5407477,-46.6396706,1684.0
+Centro,"R Brigadeiro Tobias, 118",40.0,1.0,1.0,0,R$ 1.690,R$ 710 Condominio,"R Brigadeiro Tobias, 118, Centro, São Paulo, São Paulo, Brasil",-23.5419808,-46.635796,1690.0
+Vila Buarque,Rua Martim Francisco,40.0,1.0,1.0,0,R$ 1.692,R$ 550 Condominio,"Rua Martim Francisco, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5400958,-46.6531879,1692.0
+Luz,R. Florêncio de Abreu,,1.0,1.0,0,R$ 1.692,,"R. Florêncio de Abreu, Luz, São Paulo, São Paulo, Brasil",-23.5366041,-46.6330549,1692.0
+Luz,R. Florêncio de Abreu,,1.0,1.0,0,R$ 1.692,,"R. Florêncio de Abreu, Luz, São Paulo, São Paulo, Brasil",-23.5366041,-46.6330549,1692.0
+Sé,Rua dos Estudantes,27.0,1.0,1.0,0,R$ 1.695,R$ 397 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,1695.0
+Vila Buarque,Rua das Palmeiras,10.0,1.0,1.0,0,R$ 1.700,R$ 300 Condominio,"Rua das Palmeiras, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5373143,-46.6512558,1700.0
+Santa Efigênia,Alameda Barão de Limeira,90.0,2.0,1.0,0,R$ 1.700,R$ 810 Condominio,"Alameda Barão de Limeira, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5344777,-46.6477062,1700.0
+Canindé,Rua Azurita,42.0,2.0,1.0,0,R$ 1.700,R$ 400 Condominio,"Rua Azurita, Canindé, São Paulo, São Paulo, Brasil",-23.5218631,-46.6178192,1700.0
+Sé,Rua dos Estudantes,24.0,1.0,1.0,0,R$ 1.700,R$ 300 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,1700.0
+Luz,Rua Dutra Rodrigues,28.0,1.0,1.0,0,R$ 1.700,R$ 100 Condominio,"Rua Dutra Rodrigues, Luz, São Paulo, São Paulo, Brasil",-23.534234,-46.6316975,1700.0
+Centro,Rua Brigadeiro Tobias,32.0,1.0,1.0,1,R$ 1.700,R$ 553 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,1700.0
+Santa Efigênia,Praça Júlio Mesquita,32.0,1.0,1.0,0,R$ 1.700,R$ 380 Condominio,"Praça Júlio Mesquita, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5408406,-46.6424277,1700.0
+Canindé,Rua Azurita,39.0,2.0,1.0,0,R$ 1.700,R$ 400 Condominio,"Rua Azurita, Canindé, São Paulo, São Paulo, Brasil",-23.5218631,-46.6178192,1700.0
+Centro,Avenida Cásper Líbero,29.0,1.0,1.0,0,R$ 1.700,R$ 410 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,1700.0
+Centro,Rua Washington Luís,27.0,1.0,1.0,0,R$ 1.700,R$ 280 Condominio,"Rua Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,1700.0
+Centro,Rua Brigadeiro Tobias,40.0,1.0,1.0,0,R$ 1.700,R$ 701 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,1700.0
+Vila Buarque,Rua Martim Francisco,32.0,1.0,1.0,0,R$ 1.700,R$ 787 Condominio,"Rua Martim Francisco, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5400958,-46.6531879,1700.0
+Centro,Avenida Cásper Líbero,48.0,1.0,1.0,0,R$ 1.700,,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,1700.0
+Centro,Avenida Ipiranga,39.0,1.0,1.0,0,R$ 1.700,R$ 422 Condominio,"Avenida Ipiranga, Centro, São Paulo, São Paulo, Brasil",-23.5405282,-46.6379755,1700.0
+Canindé,Rua Azurita,39.0,2.0,1.0,0,R$ 1.700,R$ 400 Condominio,"Rua Azurita, Canindé, São Paulo, São Paulo, Brasil",-23.5218631,-46.6178192,1700.0
+Santa Efigênia,Alameda Barão de Limeira,90.0,2.0,1.0,0,R$ 1.700,R$ 810 Condominio,"Alameda Barão de Limeira, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5344777,-46.6477062,1700.0
+Centro,Rua Brigadeiro Tobias,40.0,1.0,1.0,0,R$ 1.700,R$ 701 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,1700.0
+Centro,Avenida Senador Queirós,46.0,1.0,1.0,0,R$ 1.700,R$ 1.000 Condominio,"Avenida Senador Queirós, Centro, São Paulo, São Paulo, Brasil",-23.5393987,-46.6327896,1700.0
+Sé,Rua dos Estudantes,24.0,1.0,1.0,0,R$ 1.700,R$ 300 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,1700.0
+Centro,Praça Carlos Gomes,26.0,1.0,1.0,0,R$ 1.700,R$ 415 Condominio,"Praça Carlos Gomes, Centro, São Paulo, São Paulo, Brasil",-23.5533344,-46.6357701,1700.0
+Vila Buarque,Rua Marques de Itu 181,29.0,1.0,1.0,1,R$ 1.700,R$ 836 Condominio,"Rua Marques de Itu 181, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5440863,-46.64616609999999,1700.0
+Luz,"rua vinte e cinco de janeiro,",33.0,1.0,1.0,0,R$ 1.700,R$ 354 Condominio,"rua vinte e cinco de janeiro,, Luz, São Paulo, São Paulo, Brasil",-23.5354799,-46.6310363,1700.0
+Centro,"R ARAÚJO, 141",22.0,1.0,1.0,1,R$ 1.700,R$ 1.650 Condominio,"R ARAÚJO, 141, Centro, São Paulo, São Paulo, Brasil",-23.5450103,-46.6443249,1700.0
+Santa Efigênia,R AURORA,43.0,1.0,1.0,0,R$ 1.700,R$ 546 Condominio,"R AURORA, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,1700.0
+Sé,Praça da Sé 1,25.0,1.0,1.0,0,R$ 1.700,R$ 100 Condominio,"Praça da Sé 1, Sé, São Paulo, São Paulo, Brasil",-23.5493136,-46.6332157,1700.0
+Centro,Rua Brigadeiro Tobias,98.0,3.0,1.0,0,R$ 1.700,R$ 620 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,1700.0
+Vila Buarque,R Maria Antônia,35.0,1.0,1.0,0,R$ 1.700,R$ 433 Condominio,"R Maria Antônia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5467645,-46.6504256,1700.0
+Sé,Praça da Sé 1,23.0,1.0,1.0,0,R$ 1.700,R$ 200 Condominio,"Praça da Sé 1, Sé, São Paulo, São Paulo, Brasil",-23.5493136,-46.6332157,1700.0
+Vila Buarque,"R Maria Antônia, 173",29.0,1.0,1.0,0,R$ 1.700,R$ 455 Condominio,"R Maria Antônia, 173, Vila Buarque, São Paulo, São Paulo, Brasil",-23.547157,-46.6503719,1700.0
+Santa Efigênia,"Rua Aurora, 877",28.0,1.0,1.0,0,R$ 1.700,R$ 695 Condominio,"Rua Aurora, 877, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5422606,-46.6436891,1700.0
+Vila Buarque,R Doutor Vila Nova,22.0,1.0,1.0,0,R$ 1.700,R$ 355 Condominio,"R Doutor Vila Nova, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5457054,-46.6503305,1700.0
+Centro,Endereço não informado,44.0,1.0,1.0,0,R$ 1.700,R$ 360 Condominio,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,1700.0
+Centro,Rua Coronel Xavier de Toledo,,1.0,1.0,0,R$ 1.706,,"Rua Coronel Xavier de Toledo, Centro, São Paulo, São Paulo, Brasil",-23.5467432,-46.6393669,1706.0
+Sé,Rua Tabatinguera 462,25.0,1.0,1.0,0,R$ 1.710,R$ 1.000 Condominio,"Rua Tabatinguera 462, Sé, São Paulo, São Paulo, Brasil",-23.5522923,-46.6286231,1710.0
+Vila Buarque,Rua Maria Antônia,35.0,1.0,1.0,0,R$ 1.717,R$ 476 Condominio,"Rua Maria Antônia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5467645,-46.6504256,1717.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,40.0,1.0,1.0,0,R$ 1.720,R$ 228 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,1720.0
+Centro,Rua Washington Luís,22.0,1.0,1.0,0,R$ 1.720,R$ 420 Condominio,"Rua Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,1720.0
+Centro,"R Da Consolação, 297",29.0,1.0,1.0,0,R$ 1.720,R$ 1.000 Condominio,"R Da Consolação, 297, Centro, São Paulo, São Paulo, Brasil",-23.5479905,-46.6443257,1720.0
+Vila Buarque,Rua Major Sertório,39.0,1.0,1.0,0,R$ 1.726,R$ 475 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,1726.0
+Centro,"R Bento Freitas, 420",30.0,1.0,1.0,0,R$ 1.729,R$ 1.200 Condominio,"R Bento Freitas, 420, Centro, São Paulo, São Paulo, Brasil",-23.545707,-46.6456946,1729.0
+Centro,Rua Brigadeiro Tobias,37.0,1.0,1.0,0,R$ 1.731,R$ 780 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,1731.0
+Centro,Viaduto Dona Paulina,26.0,1.0,1.0,0,R$ 1.734,,"Viaduto Dona Paulina, Centro, São Paulo, São Paulo, Brasil",-23.5521441,-46.6363563,1734.0
+Canindé,Rua Azurita 46,41.0,2.0,1.0,0,R$ 1.740,R$ 400 Condominio,"Rua Azurita 46, Canindé, São Paulo, São Paulo, Brasil",-23.5211909,-46.6174478,1740.0
+Centro,Rua Washington Luís,22.0,1.0,1.0,0,R$ 1.742,R$ 400 Condominio,"Rua Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,1742.0
+Centro,Rua Coronel Xavier de Toledo,,1.0,1.0,0,R$ 1.743,,"Rua Coronel Xavier de Toledo, Centro, São Paulo, São Paulo, Brasil",-23.5467432,-46.6393669,1743.0
+Centro,Rua Antônio de Godói,39.0,1.0,1.0,0,R$ 1.750,R$ 370 Condominio,"Rua Antônio de Godói, Centro, São Paulo, São Paulo, Brasil",-23.5422341,-46.6375569,1750.0
+Vila Buarque,Rua Rego Freitas,42.0,1.0,1.0,0,R$ 1.750,R$ 500 Condominio,"Rua Rego Freitas, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5447316,-46.6466079,1750.0
+Centro,Rua Aurora,30.0,1.0,1.0,0,R$ 1.750,R$ 1.042 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,1750.0
+Centro,Rua Aurora,44.0,1.0,1.0,0,R$ 1.750,R$ 1.040 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,1750.0
+Vila Buarque,Rua Major Sertorio,33.0,1.0,1.0,0,R$ 1.750,R$ 500 Condominio,"Rua Major Sertorio, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,1750.0
+Centro,Rua Aurora,44.0,1.0,1.0,0,R$ 1.750,R$ 1.040 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,1750.0
+Vila Buarque,Rua Major Sertorio,34.0,1.0,1.0,0,R$ 1.750,R$ 500 Condominio,"Rua Major Sertorio, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,1750.0
+Canindé,Rua Azurita,37.0,2.0,1.0,0,R$ 1.750,R$ 420 Condominio,"Rua Azurita, Canindé, São Paulo, São Paulo, Brasil",-23.5218631,-46.6178192,1750.0
+Sé,Rua Conde de Sarzedas,42.0,1.0,1.0,0,R$ 1.750,R$ 589 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,1750.0
+Vila Buarque,Rua Major Sertorio,33.0,1.0,1.0,0,R$ 1.750,R$ 500 Condominio,"Rua Major Sertorio, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,1750.0
+Vila Buarque,"Rua Dr. Cesário Mota Junior, 291",40.0,1.0,1.0,0,R$ 1.750,R$ 350 Condominio,"Rua Dr. Cesário Mota Junior, 291, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5444439,-46.6488453,1750.0
+Santa Efigênia,Rua Vitória,76.0,1.0,1.0,0,R$ 1.760,R$ 508 Condominio,"Rua Vitória, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5373514,-46.6380855,1760.0
+Vila Buarque,R. Marquês de Itu,50.0,1.0,1.0,1,R$ 1.760,R$ 798 Condominio,"R. Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,1760.0
+Sé,Rua Tabatinguera,22.0,1.0,1.0,0,R$ 1.769,R$ 550 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,1769.0
+Canindé,Rua Azurita,40.0,2.0,1.0,0,R$ 1.770,R$ 400 Condominio,"Rua Azurita, Canindé, São Paulo, São Paulo, Brasil",-23.5218631,-46.6178192,1770.0
+Sé,Rua dos Estudantes,40.0,1.0,1.0,1,R$ 1.774,,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,1774.0
+Centro,Rua Martins Fontes,25.0,1.0,1.0,0,R$ 1.775,R$ 550 Condominio,"Rua Martins Fontes, Centro, São Paulo, São Paulo, Brasil",-23.5492334,-46.6442819,1775.0
+Centro,Rua Antônio de Godói,50.0,1.0,1.0,0,R$ 1.780,R$ 300 Condominio,"Rua Antônio de Godói, Centro, São Paulo, São Paulo, Brasil",-23.5422341,-46.6375569,1780.0
+Centro,Rua Antônio de Godói,36.0,1.0,1.0,0,R$ 1.785,R$ 240 Condominio,"Rua Antônio de Godói, Centro, São Paulo, São Paulo, Brasil",-23.5422341,-46.6375569,1785.0
+Vila Buarque,Rua Marquês de Itu,26.0,1.0,1.0,0,R$ 1.785,R$ 740 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,1785.0
+Sé,Rua Conde de Sarzedas,28.0,1.0,1.0,0,R$ 1.785,R$ 390 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,1785.0
+Vila Buarque,Rua Fortunato,35.0,1.0,1.0,0,R$ 1.788,R$ 450 Condominio,"Rua Fortunato, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5403087,-46.6517888,1788.0
+Centro,Praça Júlio Mesquita,30.0,1.0,1.0,0,R$ 1.790,R$ 305 Condominio,"Praça Júlio Mesquita, Centro, São Paulo, São Paulo, Brasil",-23.5409032,-46.6428636,1790.0
+Vila Buarque,Rua Amaral Gurgel,41.0,1.0,1.0,0,R$ 1.799,R$ 521 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,1799.0
+Centro,Avenida São João,90.0,1.0,1.0,0,R$ 1.800,R$ 571 Condominio,"Avenida São João, Centro, São Paulo, São Paulo, Brasil",-23.5437201,-46.6378763,1800.0
+Luz,Rua Vinte E Cinco de Janeiro,46.0,2.0,1.0,0,R$ 1.800,R$ 620 Condominio,"Rua Vinte E Cinco de Janeiro, Luz, São Paulo, São Paulo, Brasil",-23.5354799,-46.6310363,1800.0
+Centro,Avenida Cásper Líbero,27.0,1.0,1.0,0,R$ 1.800,R$ 488 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,1800.0
+Vila Buarque,Rua Canuto do Val,50.0,1.0,1.0,0,R$ 1.800,R$ 500 Condominio,"Rua Canuto do Val, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5403087,-46.6517888,1800.0
+Centro,Avenida Cásper Líbero,25.0,1.0,1.0,0,R$ 1.800,R$ 306 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,1800.0
+Centro,Avenida Cásper Líbero,26.0,1.0,1.0,0,R$ 1.800,R$ 350 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,1800.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,28.0,1.0,1.0,0,R$ 1.800,R$ 500 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,1800.0
+Centro,Rua Álvaro de Carvalho,32.0,1.0,1.0,1,R$ 1.800,R$ 750 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,1800.0
+Vila Buarque,Rua Major Sertório,32.0,1.0,1.0,0,R$ 1.800,R$ 485 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,1800.0
+Centro,Rua Martins Fontes,35.0,1.0,1.0,0,R$ 1.800,R$ 320 Condominio,"Rua Martins Fontes, Centro, São Paulo, São Paulo, Brasil",-23.5492334,-46.6442819,1800.0
+Sé,Rua São Francisco,40.0,1.0,1.0,0,R$ 1.800,R$ 365 Condominio,"Rua São Francisco, Sé, São Paulo, São Paulo, Brasil",-23.5491102,-46.6379728,1800.0
+Centro,Avenida Ipiranga,38.0,1.0,1.0,0,R$ 1.800,R$ 652 Condominio,"Avenida Ipiranga, Centro, São Paulo, São Paulo, Brasil",-23.5405282,-46.6379755,1800.0
+Centro,Rua Washington Luís,22.0,1.0,1.0,0,R$ 1.800,R$ 450 Condominio,"Rua Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,1800.0
+Vila Buarque,Rua Fortunato,26.0,1.0,1.0,0,R$ 1.800,R$ 600 Condominio,"Rua Fortunato, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5403087,-46.6517888,1800.0
+Santa Efigênia,Rua Aurora,40.0,1.0,1.0,0,R$ 1.800,R$ 421 Condominio,"Rua Aurora, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,1800.0
+Vila Buarque,R Doutor Cesário Mota Júnior,39.0,1.0,1.0,0,R$ 1.800,R$ 290 Condominio,"R Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,1800.0
+Centro,"AV Senador Queirós, 101",40.0,1.0,1.0,0,R$ 1.800,R$ 1.000 Condominio,"AV Senador Queirós, 101, Centro, São Paulo, São Paulo, Brasil",-23.5388665,-46.6351773,1800.0
+Centro,"R Aurora, 756",27.0,1.0,1.0,0,R$ 1.800,R$ 1.100 Condominio,"R Aurora, 756, Centro, São Paulo, São Paulo, Brasil",-23.5415671,-46.6431627,1800.0
+Centro,"R ARAÚJO, 141",30.0,1.0,1.0,1,R$ 1.800,R$ 1.400 Condominio,"R ARAÚJO, 141, Centro, São Paulo, São Paulo, Brasil",-23.5450103,-46.6443249,1800.0
+Centro,"R Gravataí, 118",30.0,1.0,1.0,0,R$ 1.800,R$ 1.100 Condominio,"R Gravataí, 118, Centro, São Paulo, São Paulo, Brasil",-23.5488874,-46.6484154,1800.0
+Centro,Praça da República,35.0,1.0,1.0,0,R$ 1.800,R$ 250 Condominio,"Praça da República, Centro, São Paulo, São Paulo, Brasil",-23.5438292,-46.6421961,1800.0
+Vila Buarque,"R Maria Antônia, 344",49.0,1.0,1.0,0,R$ 1.800,R$ 643 Condominio,"R Maria Antônia, 344, Vila Buarque, São Paulo, São Paulo, Brasil",-23.545849,-46.6513706,1800.0
+Centro,Rua Washington Luís,22.0,1.0,1.0,0,R$ 1.800,R$ 418 Condominio,"Rua Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,1800.0
+Centro,R Washington Luís,28.0,1.0,1.0,0,R$ 1.800,R$ 460 Condominio,"R Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,1800.0
+Sé,"Rua Riachuelo, 1293661",50.0,3.0,1.0,0,R$ 1.800,,"Rua Riachuelo, 1293661, Sé, São Paulo, São Paulo, Brasil",-23.5506284,-46.6367381,1800.0
+Sé,Praça da Sé 1,39.0,1.0,1.0,1,R$ 1.800,R$ 443 Condominio,"Praça da Sé 1, Sé, São Paulo, São Paulo, Brasil",-23.5493136,-46.6332157,1800.0
+Vila Buarque,"R Maria Antônia, 344",49.0,1.0,1.0,0,R$ 1.800,R$ 643 Condominio,"R Maria Antônia, 344, Vila Buarque, São Paulo, São Paulo, Brasil",-23.545849,-46.6513706,1800.0
+Vila Buarque,Rua General Jardim 382,26.0,1.0,1.0,0,R$ 1.800,R$ 1.400 Condominio,"Rua General Jardim 382, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5445692,-46.6482463,1800.0
+Santa Efigênia,Rua Aurora 756,27.0,1.0,1.0,0,R$ 1.800,R$ 1.100 Condominio,"Rua Aurora 756, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5415671,-46.6431627,1800.0
+Centro,AV Cásper Líbero,30.0,1.0,1.0,0,R$ 1.800,R$ 460 Condominio,"AV Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,1800.0
+Canindé,"Rua Azurita ,48",40.0,2.0,1.0,0,R$ 1.800,R$ 400 Condominio,"Rua Azurita ,48, Canindé, São Paulo, São Paulo, Brasil",-23.5212051,-46.6174352,1800.0
+Santa Efigênia,Endereço não informado,68.0,1.0,1.0,0,R$ 1.800,R$ 391 Condominio,"Endereço não informado, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5376549,-46.6385252,1800.0
+Centro,Endereço não informado,22.0,1.0,1.0,0,R$ 1.800,R$ 420 Condominio,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,1800.0
+Vila Buarque,Rua Amaral Gurgel 97,32.0,1.0,1.0,0,R$ 1.800,,"Rua Amaral Gurgel 97, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5426277,-46.6475263,1800.0
+Vila Buarque,"R General Jardim, 294",25.0,1.0,1.0,0,R$ 1.800,R$ 1 Condominio,"R General Jardim, 294, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446178,-46.6474225,1800.0
+Santa Efigênia,Endereço não informado,55.0,1.0,1.0,0,R$ 1.800,R$ 400 Condominio,"Endereço não informado, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5376549,-46.6385252,1800.0
+Centro,Avenida Prestes Maia,55.0,1.0,1.0,0,R$ 1.806,R$ 770 Condominio,"Avenida Prestes Maia, Centro, São Paulo, São Paulo, Brasil",-23.5396645,-46.6340752,1806.0
+Centro,Rua Antônio de Godói,51.0,2.0,1.0,0,R$ 1.812,R$ 470 Condominio,"Rua Antônio de Godói, Centro, São Paulo, São Paulo, Brasil",-23.5422341,-46.6375569,1812.0
+Centro,Viaduto Nove de Julho,68.0,1.0,1.0,0,R$ 1.814,R$ 530 Condominio,"Viaduto Nove de Julho, Centro, São Paulo, São Paulo, Brasil",-23.5492164,-46.6423238,1814.0
+Vila Buarque,Rua Marquês de Itu,61.0,1.0,1.0,1,R$ 1.819,R$ 960 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,1819.0
+Vila Buarque,R Rego Freitas,21.0,1.0,1.0,0,R$ 1.820,R$ 589 Condominio,"R Rego Freitas, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5447316,-46.6466079,1820.0
+Centro,Rua Martins Fontes,40.0,1.0,1.0,0,R$ 1.825,R$ 400 Condominio,"Rua Martins Fontes, Centro, São Paulo, São Paulo, Brasil",-23.5492334,-46.6442819,1825.0
+Vila Buarque,Rua Jesuíno Pascoal,65.0,2.0,1.0,0,R$ 1.842,R$ 1.100 Condominio,"Rua Jesuíno Pascoal, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416973,-46.650056,1842.0
+Vila Buarque,Rua das Palmeiras,11.0,1.0,1.0,0,R$ 1.847,R$ 350 Condominio,"Rua das Palmeiras, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5373143,-46.6512558,1847.0
+Centro,Rua João Adolfo,38.0,1.0,1.0,0,R$ 1.848,R$ 367 Condominio,"Rua João Adolfo, Centro, São Paulo, São Paulo, Brasil",-23.5484916,-46.6403779,1848.0
+Santa Efigênia,Avenida Duque de Caxias,47.0,1.0,1.0,0,R$ 1.850,R$ 350 Condominio,"Avenida Duque de Caxias, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5359339,-46.6415808,1850.0
+Sé,Rua dos Estudantes 388,24.0,1.0,1.0,0,R$ 1.850,R$ 300 Condominio,"Rua dos Estudantes 388, Sé, São Paulo, São Paulo, Brasil",-23.5556586,-46.631324,1850.0
+Centro,Rua Álvaro de Carvalho 127,47.0,1.0,1.0,1,R$ 1.850,R$ 750 Condominio,"Rua Álvaro de Carvalho 127, Centro, São Paulo, São Paulo, Brasil",-23.5487239,-46.6414345,1850.0
+Centro,Rua Washington Luís 98,41.0,1.0,1.0,1,R$ 1.850,R$ 645 Condominio,"Rua Washington Luís 98, Centro, São Paulo, São Paulo, Brasil",-23.5377539,-46.6342368,1850.0
+Sé,Rua dos Estudantes,26.0,1.0,1.0,0,R$ 1.856,R$ 340 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,1856.0
+Vila Buarque,Rua General Jardim,57.0,1.0,1.0,1,R$ 1.856,R$ 1.000 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,1856.0
+Santa Efigênia,R Aurora,80.0,2.0,,0,R$ 1.865,R$ 1.050 Condominio,"R Aurora, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,1865.0
+Centro,Rua dos Carmelitas,84.0,2.0,,0,R$ 1.870,R$ 551 Condominio,"Rua dos Carmelitas, Centro, São Paulo, São Paulo, Brasil",-23.5512062,-46.6291981,1870.0
+Vila Buarque,Rua Santa Isabel,49.0,1.0,1.0,0,R$ 1.870,R$ 437 Condominio,"Rua Santa Isabel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5427715,-46.6482353,1870.0
+Centro,Avenida Senador Queirós,33.0,1.0,1.0,0,R$ 1.870,R$ 350 Condominio,"Avenida Senador Queirós, Centro, São Paulo, São Paulo, Brasil",-23.5393987,-46.6327896,1870.0
+Centro,Rua Brigadeiro Tobias,52.0,1.0,,0,R$ 1.875,R$ 600 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,1875.0
+Sé,Rua dos Estudantes,24.0,1.0,1.0,0,R$ 1.876,R$ 350 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,1876.0
+Vila Buarque,Rua Fortunato,25.0,1.0,1.0,0,R$ 1.880,R$ 540 Condominio,"Rua Fortunato, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5403087,-46.6517888,1880.0
+Centro,Avenida São João,70.0,1.0,1.0,0,R$ 1.880,R$ 560 Condominio,"Avenida São João, Centro, São Paulo, São Paulo, Brasil",-23.5437201,-46.6378763,1880.0
+Centro,Avenida São João,89.0,2.0,,0,R$ 1.880,R$ 900 Condominio,"Avenida São João, Centro, São Paulo, São Paulo, Brasil",-23.5437201,-46.6378763,1880.0
+Centro,Rua Washington Luís,22.0,1.0,1.0,0,R$ 1.880,R$ 470 Condominio,"Rua Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,1880.0
+Canindé,Rua Azurita 48,38.0,2.0,1.0,0,R$ 1.880,R$ 320 Condominio,"Rua Azurita 48, Canindé, São Paulo, São Paulo, Brasil",-23.5212051,-46.6174352,1880.0
+Canindé,"R Azurita, 48",38.0,2.0,1.0,1,R$ 1.880,R$ 380 Condominio,"R Azurita, 48, Canindé, São Paulo, São Paulo, Brasil",-23.5212051,-46.6174352,1880.0
+Luz,R. Florêncio de Abreu,,1.0,1.0,0,R$ 1.881,,"R. Florêncio de Abreu, Luz, São Paulo, São Paulo, Brasil",-23.5366041,-46.6330549,1881.0
+Vila Buarque,Rua Martim Francisco,44.0,1.0,1.0,0,R$ 1.888,R$ 780 Condominio,"Rua Martim Francisco, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5400958,-46.6531879,1888.0
+Centro,Rua Aurora,50.0,1.0,1.0,0,R$ 1.890,R$ 350 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,1890.0
+Centro,Avenida Cásper Líbero,55.0,1.0,1.0,0,R$ 1.900,R$ 650 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,1900.0
+Centro,Rua Álvaro de Carvalho,22.0,1.0,1.0,0,R$ 1.900,R$ 500 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,1900.0
+Vila Buarque,Rua Maria Antônia,49.0,1.0,1.0,0,R$ 1.900,R$ 643 Condominio,"Rua Maria Antônia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5467645,-46.6504256,1900.0
+Santa Efigênia,Praça Julho Mesquita,54.0,1.0,1.0,0,R$ 1.900,R$ 613 Condominio,"Praça Julho Mesquita, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5408406,-46.6424277,1900.0
+Vila Buarque,Rua Marquês de Itu,27.0,1.0,1.0,0,R$ 1.900,R$ 670 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,1900.0
+Sé,Rua Conde de Sarzedas,90.0,2.0,1.0,1,R$ 1.900,R$ 1.012 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,1900.0
+Centro,Rua Álvaro de Carvalho,41.0,2.0,1.0,0,R$ 1.900,R$ 434 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,1900.0
+Vila Buarque,Rua Maria Antônia,35.0,1.0,1.0,0,R$ 1.900,R$ 456 Condominio,"Rua Maria Antônia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5467645,-46.6504256,1900.0
+Centro,Avenida Cásper Líbero,36.0,1.0,1.0,0,R$ 1.900,R$ 340 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,1900.0
+Centro,AV Prestes Maia,37.0,1.0,1.0,0,R$ 1.900,R$ 700 Condominio,"AV Prestes Maia, Centro, São Paulo, São Paulo, Brasil",-23.5396645,-46.6340752,1900.0
+Centro,"R Gravataí, 87",28.0,1.0,1.0,0,R$ 1.900,R$ 1.000 Condominio,"R Gravataí, 87, Centro, São Paulo, São Paulo, Brasil",-23.5491095,-46.6479717,1900.0
+Centro,Rua dos Timbiras 895,28.0,1.0,1.0,0,R$ 1.900,,"Rua dos Timbiras 895, Centro, São Paulo, São Paulo, Brasil",-23.5418745,-46.6411204,1900.0
+Vila Buarque,"Rua Fortunato, 30",55.0,51.0,1.0,0,R$ 1.900,R$ 557 Condominio,"Rua Fortunato, 30, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5391507,-46.65150089999999,1900.0
+Vila Buarque,"Rua Fortunato, 30",55.0,1.0,1.0,0,R$ 1.900,R$ 557 Condominio,"Rua Fortunato, 30, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5391507,-46.65150089999999,1900.0
+Vila Buarque,Endereço não informado,34.0,2.0,1.0,0,R$ 1.900,R$ 707 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,1900.0
+Vila Buarque,Rua Major Sertório 423,27.0,1.0,1.0,0,R$ 1.900,R$ 450 Condominio,"Rua Major Sertório 423, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5454813,-46.6483404,1900.0
+Vila Buarque,Rua Major Sertório 423,27.0,1.0,1.0,0,R$ 1.900,R$ 450 Condominio,"Rua Major Sertório 423, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5454813,-46.6483404,1900.0
+Santa Efigênia,Praça Júlio Mesquita,54.0,1.0,1.0,0,R$ 1.900,R$ 570 Condominio,"Praça Júlio Mesquita, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5408406,-46.6424277,1900.0
+Vila Buarque,Endereço não informado,33.0,2.0,1.0,0,R$ 1.900,R$ 707 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,1900.0
+Centro,Endereço não informado,28.0,1.0,1.0,1,R$ 1.900,R$ 400 Condominio,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,1900.0
+Centro,Rua Washington Luís,25.0,1.0,1.0,0,R$ 1.902,R$ 385 Condominio,"Rua Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,1902.0
+Centro,Rua Aurora,54.0,1.0,1.0,1,R$ 1.904,R$ 500 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,1904.0
+Centro,Rua Coronel Xavier de Toledo,,2.0,1.0,0,R$ 1.905,,"Rua Coronel Xavier de Toledo, Centro, São Paulo, São Paulo, Brasil",-23.5467432,-46.6393669,1905.0
+Centro,Rua Coronel Xavier de Toledo,,1.0,,0,R$ 1.905,,"Rua Coronel Xavier de Toledo, Centro, São Paulo, São Paulo, Brasil",-23.5467432,-46.6393669,1905.0
+Centro,Rua Quirino de Andrade,32.0,1.0,1.0,0,R$ 1.910,R$ 435 Condominio,"Rua Quirino de Andrade, Centro, São Paulo, São Paulo, Brasil",-23.5478396,-46.6400406,1910.0
+Vila Buarque,Rua Major Sertório,39.0,1.0,1.0,0,R$ 1.910,R$ 440 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,1910.0
+Vila Buarque,Rua Fortunato,30.0,1.0,1.0,0,R$ 1.916,R$ 510 Condominio,"Rua Fortunato, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5403087,-46.6517888,1916.0
+Vila Buarque,Rua General Jardim,26.0,1.0,1.0,0,R$ 1.920,R$ 333 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,1920.0
+Centro,Rua Aurora,28.0,1.0,1.0,0,R$ 1.940,R$ 670 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,1940.0
+Centro,Praça Pedro Lessa,37.0,1.0,1.0,0,R$ 1.940,R$ 878 Condominio,"Praça Pedro Lessa, Centro, São Paulo, São Paulo, Brasil",-23.5431624,-46.6359519,1940.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,38.0,1.0,1.0,1,R$ 1.949,R$ 420 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,1949.0
+Canindé,Rua Azurita,38.0,2.0,1.0,0,R$ 1.950,R$ 480 Condominio,"Rua Azurita, Canindé, São Paulo, São Paulo, Brasil",-23.5218631,-46.6178192,1950.0
+Centro,Rua Florêncio de Abreu,29.0,1.0,1.0,0,R$ 1.950,R$ 557 Condominio,"Rua Florêncio de Abreu, Centro, São Paulo, São Paulo, Brasil",-23.5398983,-46.6328623,1950.0
+Vila Buarque,Rua Amaral Gurgel,24.0,1.0,1.0,0,R$ 1.950,R$ 490 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,1950.0
+Luz,Avenida Tiradentes,32.0,1.0,1.0,0,R$ 1.950,R$ 215 Condominio,"Avenida Tiradentes, Luz, São Paulo, São Paulo, Brasil",-23.5290926,-46.631703,1950.0
+Centro,Rua Aurora,49.0,1.0,1.0,0,R$ 1.950,R$ 800 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,1950.0
+Luz,Avenida Tiradentes,28.0,1.0,1.0,0,R$ 1.950,R$ 215 Condominio,"Avenida Tiradentes, Luz, São Paulo, São Paulo, Brasil",-23.5290926,-46.631703,1950.0
+Canindé,R Azurita,40.0,2.0,1.0,1,R$ 1.950,R$ 330 Condominio,"R Azurita, Canindé, São Paulo, São Paulo, Brasil",-23.5218631,-46.6178192,1950.0
+Canindé,R Azurita,38.0,2.0,,1,R$ 1.950,R$ 330 Condominio,"R Azurita, Canindé, São Paulo, São Paulo, Brasil",-23.5218631,-46.6178192,1950.0
+Vila Buarque,Rua Major Sertório,26.0,1.0,1.0,0,R$ 1.955,R$ 596 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,1955.0
+Vila Buarque,Rua Maria Antônia,40.0,1.0,1.0,0,R$ 1.955,R$ 727 Condominio,"Rua Maria Antônia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5467645,-46.6504256,1955.0
+Centro,Rua Brigadeiro Tobias,40.0,2.0,1.0,0,R$ 1.956,R$ 298 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,1956.0
+Centro,Avenida Cásper Líbero,26.0,1.0,1.0,0,R$ 1.960,R$ 455 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,1960.0
+Vila Buarque,Rua Maria Antônia,32.0,1.0,1.0,0,R$ 1.964,R$ 570 Condominio,"Rua Maria Antônia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5467645,-46.6504256,1964.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,50.0,1.0,1.0,0,R$ 1.970,R$ 450 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,1970.0
+Canindé,Avenida Bom Jardim,55.0,1.0,1.0,0,R$ 1.972,R$ 250 Condominio,"Avenida Bom Jardim, Canindé, São Paulo, São Paulo, Brasil",-23.5250154,-46.6150544,1972.0
+Canindé,Avenida Bom Jardim,45.0,1.0,1.0,0,R$ 1.972,R$ 250 Condominio,"Avenida Bom Jardim, Canindé, São Paulo, São Paulo, Brasil",-23.5250154,-46.6150544,1972.0
+Sé,Rua Tabatinguera,40.0,2.0,1.0,1,R$ 1.980,R$ 510 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,1980.0
+Vila Buarque,Rua Barão de Tatuí,57.0,1.0,1.0,1,R$ 1.980,R$ 710 Condominio,"Rua Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,1980.0
+Vila Buarque,Rua Barão de Tatuí,47.0,1.0,1.0,0,R$ 1.980,R$ 576 Condominio,"Rua Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,1980.0
+Centro,Rua Mauá 738,102.0,2.0,1.0,0,R$ 1.980,R$ 530 Condominio,"Rua Mauá 738, Centro, São Paulo, São Paulo, Brasil",-23.535975,-46.632813,1980.0
+Sé,Praça da Sé 1,65.0,2.0,1.0,1,R$ 1.980,R$ 470 Condominio,"Praça da Sé 1, Sé, São Paulo, São Paulo, Brasil",-23.5493136,-46.6332157,1980.0
+Centro,Avenida Cásper Líbero,26.0,1.0,1.0,0,R$ 1.981,R$ 400 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,1981.0
+Vila Buarque,Rua Marquês de Itu,27.0,1.0,1.0,0,R$ 1.985,R$ 599 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,1985.0
+Centro,Rua Washington Luís,22.0,1.0,1.0,1,R$ 1.985,R$ 450 Condominio,"Rua Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,1985.0
+Santa Efigênia,Praça Júlio Mesquita,46.0,1.0,1.0,0,R$ 1.990,R$ 390 Condominio,"Praça Júlio Mesquita, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5408406,-46.6424277,1990.0
+Centro,Rua Dona Maria Paula 122,50.0,1.0,1.0,0,R$ 1.999,R$ 343 Condominio,"Rua Dona Maria Paula 122, Centro, São Paulo, São Paulo, Brasil",-23.5518402,-46.6386687,1999.0
+Centro,Rua Aurora,35.0,1.0,1.0,0,R$ 2.000,R$ 768 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2000.0
+Centro,Viaduto Nove de Julho,58.0,1.0,1.0,0,R$ 2.000,R$ 568 Condominio,"Viaduto Nove de Julho, Centro, São Paulo, São Paulo, Brasil",-23.5492164,-46.6423238,2000.0
+Centro,Rua Riskallah Jorge,40.0,2.0,1.0,0,R$ 2.000,R$ 367 Condominio,"Rua Riskallah Jorge, Centro, São Paulo, São Paulo, Brasil",-23.541838,-46.6350869,2000.0
+Vila Buarque,Rua Major Sertório,27.0,1.0,1.0,0,R$ 2.000,R$ 640 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,2000.0
+Centro,Rua Genebra,33.0,1.0,1.0,1,R$ 2.000,R$ 700 Condominio,"Rua Genebra, Centro, São Paulo, São Paulo, Brasil",-23.5519267,-46.6397195,2000.0
+Centro,Avenida Cásper Líbero,33.0,1.0,1.0,0,R$ 2.000,R$ 481 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,2000.0
+Centro,Rua Aurora,30.0,1.0,1.0,1,R$ 2.000,R$ 730 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2000.0
+Canindé,Rua Azurita,39.0,2.0,1.0,0,R$ 2.000,R$ 400 Condominio,"Rua Azurita, Canindé, São Paulo, São Paulo, Brasil",-23.5218631,-46.6178192,2000.0
+Centro,Rua Aurora,30.0,1.0,1.0,0,R$ 2.000,R$ 651 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2000.0
+Vila Buarque,Rua Rego Freitas,34.0,1.0,1.0,0,R$ 2.000,R$ 637 Condominio,"Rua Rego Freitas, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5447316,-46.6466079,2000.0
+Sé,Rua Conde de Sarzedas,24.0,1.0,1.0,0,R$ 2.000,R$ 400 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2000.0
+Centro,Rua Aurora,25.0,1.0,1.0,0,R$ 2.000,R$ 350 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2000.0
+Sé,Rua dos Estudantes,27.0,1.0,1.0,0,R$ 2.000,R$ 400 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,2000.0
+Sé,Rua Tabatinguera,22.0,1.0,1.0,0,R$ 2.000,R$ 460 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,2000.0
+Centro,Avenida Prestes Maia,39.0,1.0,1.0,0,R$ 2.000,R$ 701 Condominio,"Avenida Prestes Maia, Centro, São Paulo, São Paulo, Brasil",-23.5396645,-46.6340752,2000.0
+Vila Buarque,Rua General Jardim,25.0,1.0,1.0,0,R$ 2.000,R$ 558 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2000.0
+Sé,Rua Tabatinguera,23.0,1.0,1.0,0,R$ 2.000,R$ 480 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,2000.0
+Vila Buarque,Rua General Jardim,28.0,1.0,1.0,0,R$ 2.000,R$ 588 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2000.0
+Vila Buarque,Rua Marquês de Itu,28.0,1.0,1.0,1,R$ 2.000,R$ 616 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,2000.0
+Sé,Rua dos Estudantes,30.0,1.0,1.0,0,R$ 2.000,R$ 330 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,2000.0
+Centro,Rua Aurora,50.0,1.0,1.0,0,R$ 2.000,R$ 570 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2000.0
+Vila Buarque,Rua Major Sertório,27.0,1.0,1.0,0,R$ 2.000,R$ 640 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,2000.0
+Centro,Rua General Osório,48.0,1.0,1.0,0,R$ 2.000,R$ 527 Condominio,"Rua General Osório, Centro, São Paulo, São Paulo, Brasil",-23.5361044,-46.6391653,2000.0
+Centro,Rua Aurora,30.0,1.0,1.0,0,R$ 2.000,R$ 651 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2000.0
+Centro,Avenida Prestes Maia 241,40.0,1.0,1.0,0,R$ 2.000,R$ 750 Condominio,"Avenida Prestes Maia 241, Centro, São Paulo, São Paulo, Brasil",-23.5421391,-46.6354864,2000.0
+Sé,Rua Conde de Sarzedas,24.0,1.0,1.0,0,R$ 2.000,R$ 400 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2000.0
+Centro,Rua Álvaro de Carvalho 163,22.0,1.0,1.0,0,R$ 2.000,R$ 450 Condominio,"Rua Álvaro de Carvalho 163, Centro, São Paulo, São Paulo, Brasil",-23.5489638,-46.6415883,2000.0
+Vila Buarque,Rua Amaral Gurgel 245 apto. 15,34.0,2.0,1.0,0,R$ 2.000,R$ 828 Condominio,"Rua Amaral Gurgel 245 apto. 15, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5440531,-46.6476286,2000.0
+Vila Buarque,R Amaral Gurgel,34.0,2.0,,0,R$ 2.000,R$ 828 Condominio,"R Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,2000.0
+Vila Buarque,"R Amaral Gurgel, 245",35.0,2.0,1.0,0,R$ 2.000,R$ 829 Condominio,"R Amaral Gurgel, 245, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5440531,-46.6476286,2000.0
+Sé,R Tabatinguera,22.0,1.0,1.0,0,R$ 2.000,R$ 403 Condominio,"R Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,2000.0
+Centro,"R MAESTRO CARDIM, 407",35.0,1.0,1.0,1,R$ 2.000,R$ 1.700 Condominio,"R MAESTRO CARDIM, 407, Centro, São Paulo, São Paulo, Brasil",-23.5645506,-46.6410714,2000.0
+Centro,"R Álvaro de Carvalho, 163",22.0,1.0,1.0,0,R$ 2.000,R$ 500 Condominio,"R Álvaro de Carvalho, 163, Centro, São Paulo, São Paulo, Brasil",-23.5489638,-46.6415883,2000.0
+Sé,Praça da Sé 1,46.0,2.0,1.0,0,R$ 2.000,R$ 50 Condominio,"Praça da Sé 1, Sé, São Paulo, São Paulo, Brasil",-23.5493136,-46.6332157,2000.0
+Centro,Rua Riskallah Jorge,31.0,1.0,1.0,0,R$ 2.000,R$ 440 Condominio,"Rua Riskallah Jorge, Centro, São Paulo, São Paulo, Brasil",-23.541838,-46.6350869,2000.0
+Vila Buarque,Rua Marquês de Itu 836,45.0,1.0,1.0,1,R$ 2.000,R$ 2.500 Condominio,"Rua Marquês de Itu 836, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5435772,-46.6524276,2000.0
+Vila Buarque,R Jaguaribe,25.0,1.0,1.0,0,R$ 2.000,R$ 190 Condominio,"R Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,2000.0
+Centro,Rua Álvaro de Carvalho,30.0,1.0,1.0,0,R$ 2.000,R$ 632 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,2000.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,40.0,1.0,1.0,0,R$ 2.000,R$ 228 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2000.0
+Sé,Endereço não informado,43.0,2.0,1.0,0,R$ 2.000,R$ 50 Condominio,"Endereço não informado, Sé, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2000.0
+Sé,Praça da Sé 1,25.0,1.0,1.0,0,R$ 2.000,R$ 310 Condominio,"Praça da Sé 1, Sé, São Paulo, São Paulo, Brasil",-23.5493136,-46.6332157,2000.0
+Vila Buarque,Rua Amaral Gurgel 245,34.0,2.0,1.0,0,R$ 2.000,R$ 828 Condominio,"Rua Amaral Gurgel 245, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5440531,-46.6476286,2000.0
+Centro,Rua Riskallah Jorge,31.0,1.0,1.0,0,R$ 2.000,R$ 440 Condominio,"Rua Riskallah Jorge, Centro, São Paulo, São Paulo, Brasil",-23.541838,-46.6350869,2000.0
+Sé,Praça da Sé 1,46.0,2.0,1.0,0,R$ 2.000,R$ 50 Condominio,"Praça da Sé 1, Sé, São Paulo, São Paulo, Brasil",-23.5493136,-46.6332157,2000.0
+Centro,Rua Álvaro de Carvalho,30.0,1.0,1.0,0,R$ 2.000,R$ 632 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,2000.0
+Sé,Endereço não informado,43.0,2.0,1.0,0,R$ 2.000,R$ 50 Condominio,"Endereço não informado, Sé, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2000.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,40.0,1.0,1.0,0,R$ 2.000,R$ 228 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2000.0
+Vila Buarque,"R Das Palmeiras, 322",36.0,1.0,,1,R$ 2.000,R$ 750 Condominio,"R Das Palmeiras, 322, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5366161,-46.6517125,2000.0
+Vila Buarque,"Rua Amaral Gurgel,",34.0,2.0,,0,R$ 2.000,R$ 828 Condominio,"Rua Amaral Gurgel,, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,2000.0
+Vila Buarque,Endereço não informado,38.0,1.0,,1,R$ 2.000,R$ 740 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2000.0
+Santa Efigênia,Rua Aurora,54.0,1.0,1.0,0,R$ 2.000,,"Rua Aurora, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2000.0
+Centro,Endereço não informado,31.0,1.0,1.0,0,R$ 2.000,R$ 440 Condominio,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,2000.0
+Centro,Endereço não informado,45.0,1.0,1.0,1,R$ 2.000,R$ 500 Condominio,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,2000.0
+Santa Efigênia,Endereço não informado,54.0,1.0,1.0,1,R$ 2.000,R$ 567 Condominio,"Endereço não informado, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5376549,-46.6385252,2000.0
+Vila Buarque,Endereço não informado,55.0,1.0,1.0,0,R$ 2.000,R$ 557 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2000.0
+Vila Buarque,Endereço não informado,30.0,1.0,1.0,0,R$ 2.000,R$ 480 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2000.0
+Sé,Endereço não informado,34.0,2.0,1.0,0,R$ 2.000,R$ 480 Condominio,"Endereço não informado, Sé, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2000.0
+Santa Efigênia,Rua Aurora,70.0,1.0,1.0,0,R$ 2.000,R$ 500 Condominio,"Rua Aurora, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2000.0
+Sé,Rua Conde de Sarzedas,25.0,1.0,1.0,0,R$ 2.010,R$ 308 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2010.0
+Centro,Rua Álvaro de Carvalho,35.0,1.0,1.0,0,R$ 2.020,R$ 350 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,2020.0
+Vila Buarque,Rua General Jardim,27.0,1.0,1.0,0,R$ 2.029,R$ 500 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2029.0
+Sé,Praça da Sé 1,82.0,3.0,,2,R$ 2.031,R$ 1.038 Condominio,"Praça da Sé 1, Sé, São Paulo, São Paulo, Brasil",-23.5493136,-46.6332157,2031.0
+Vila Buarque,Rua Major Sertório,27.0,1.0,1.0,0,R$ 2.040,R$ 550 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,2040.0
+Centro,Rua Brigadeiro Tobias,32.0,1.0,1.0,1,R$ 2.040,R$ 510 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,2040.0
+Vila Buarque,Barão Tatuí,30.0,1.0,1.0,1,R$ 2.042,R$ 789 Condominio,"Barão Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,2042.0
+Centro,"R ARAÚJO, 141",22.0,1.0,1.0,1,R$ 2.050,R$ 1.300 Condominio,"R ARAÚJO, 141, Centro, São Paulo, São Paulo, Brasil",-23.5450103,-46.6443249,2050.0
+Vila Buarque,Rua General Jardim,38.0,1.0,1.0,0,R$ 2.050,R$ 500 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2050.0
+Vila Buarque,Rua Jaguaribe,55.0,1.0,1.0,1,R$ 2.050,R$ 604 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,2050.0
+Centro,"R ARAÚJO, 141",22.0,1.0,1.0,1,R$ 2.050,R$ 1.300 Condominio,"R ARAÚJO, 141, Centro, São Paulo, São Paulo, Brasil",-23.5450103,-46.6443249,2050.0
+Centro,"R ARAÚJO, 141",22.0,1.0,1.0,1,R$ 2.050,R$ 1.300 Condominio,"R ARAÚJO, 141, Centro, São Paulo, São Paulo, Brasil",-23.5450103,-46.6443249,2050.0
+Centro,"R ARAÚJO, 141",29.0,1.0,1.0,1,R$ 2.050,R$ 1.300 Condominio,"R ARAÚJO, 141, Centro, São Paulo, São Paulo, Brasil",-23.5450103,-46.6443249,2050.0
+Sé,Rua dos Estudantes,28.0,1.0,1.0,0,R$ 2.051,R$ 248 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,2051.0
+Sé,Rua dos Estudantes,24.0,1.0,1.0,0,R$ 2.058,R$ 275 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,2058.0
+Vila Buarque,Rua Barão de Tatuí,36.0,1.0,1.0,1,R$ 2.059,R$ 670 Condominio,"Rua Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,2059.0
+Centro,Rua Martins Fontes,33.0,1.0,1.0,0,R$ 2.063,R$ 300 Condominio,"Rua Martins Fontes, Centro, São Paulo, São Paulo, Brasil",-23.5492334,-46.6442819,2063.0
+Centro,Rua Alvaro Carvalho,42.0,1.0,1.0,1,R$ 2.070,R$ 700 Condominio,"Rua Alvaro Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,2070.0
+Sé,Rua Conde de Sarzedas,24.0,1.0,1.0,0,R$ 2.084,R$ 305 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2084.0
+Santa Efigênia,Rua Aurora,28.0,1.0,1.0,0,R$ 2.085,R$ 373 Condominio,"Rua Aurora, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2085.0
+Vila Buarque,Rua Maria Antônia,29.0,1.0,1.0,0,R$ 2.100,R$ 490 Condominio,"Rua Maria Antônia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5467645,-46.6504256,2100.0
+Vila Buarque,Rua Maria Antônia,40.0,1.0,1.0,1,R$ 2.100,R$ 557 Condominio,"Rua Maria Antônia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5467645,-46.6504256,2100.0
+Vila Buarque,Rua Frederico Abranches,45.0,1.0,1.0,1,R$ 2.100,R$ 750 Condominio,"Rua Frederico Abranches, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5398099,-46.6499741,2100.0
+Sé,Rua Conde de Sarzedas,26.0,1.0,1.0,0,R$ 2.100,R$ 700 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2100.0
+Sé,Rua Conde de Sarzedas,26.0,1.0,1.0,0,R$ 2.100,R$ 700 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2100.0
+Vila Buarque,Rua Maria Antônia,40.0,1.0,1.0,1,R$ 2.100,R$ 557 Condominio,"Rua Maria Antônia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5467645,-46.6504256,2100.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,25.0,1.0,1.0,0,R$ 2.100,R$ 660 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2100.0
+Vila Buarque,Rua Maria Antônia,29.0,1.0,1.0,0,R$ 2.100,R$ 490 Condominio,"Rua Maria Antônia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5467645,-46.6504256,2100.0
+Vila Buarque,Rua Frederico Abranches,45.0,1.0,1.0,1,R$ 2.100,R$ 750 Condominio,"Rua Frederico Abranches, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5398099,-46.6499741,2100.0
+Vila Buarque,Rua Doutor Vila Nova 327,26.0,1.0,1.0,0,R$ 2.100,R$ 405 Condominio,"Rua Doutor Vila Nova 327, Vila Buarque, São Paulo, São Paulo, Brasil",-23.546737,-46.6502175,2100.0
+Centro,Rua João Adolfo,66.0,1.0,1.0,0,R$ 2.100,,"Rua João Adolfo, Centro, São Paulo, São Paulo, Brasil",-23.5484916,-46.6403779,2100.0
+Vila Buarque,Endereço não informado,40.0,1.0,1.0,1,R$ 2.100,R$ 707 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2100.0
+Sé,RUA TABATINGUERA,23.0,1.0,1.0,0,R$ 2.100,R$ 416 Condominio,"RUA TABATINGUERA, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,2100.0
+Vila Buarque,Endereço não informado,30.0,1.0,1.0,0,R$ 2.100,R$ 543 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2100.0
+Centro,Endereço não informado,47.0,1.0,1.0,0,R$ 2.100,,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,2100.0
+Sé,Rua Senador Feijó,95.0,2.0,,0,R$ 2.108,R$ 750 Condominio,"Rua Senador Feijó, Sé, São Paulo, São Paulo, Brasil",-23.5505635,-46.6352727,2108.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,45.0,1.0,1.0,0,R$ 2.115,R$ 707 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2115.0
+Vila Buarque,Rua Marquês Itu,28.0,1.0,1.0,0,R$ 2.125,R$ 385 Condominio,"Rua Marquês Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,2125.0
+Centro,Rua Aurora,42.0,1.0,1.0,0,R$ 2.125,R$ 350 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2125.0
+Centro,Rua Florêncio de Abreu,24.0,1.0,1.0,0,R$ 2.125,R$ 695 Condominio,"Rua Florêncio de Abreu, Centro, São Paulo, São Paulo, Brasil",-23.5398983,-46.6328623,2125.0
+Sé,Rua Riachuelo,70.0,2.0,,0,R$ 2.125,R$ 800 Condominio,"Rua Riachuelo, Sé, São Paulo, São Paulo, Brasil",-23.5506284,-46.6367381,2125.0
+Sé,Rua dos Estudantes,30.0,1.0,1.0,0,R$ 2.125,R$ 300 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,2125.0
+Centro,Avenida Cásper Líbero,32.0,1.0,1.0,0,R$ 2.127,R$ 291 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,2127.0
+Sé,Rua Conde de Sarzedas,37.0,2.0,1.0,0,R$ 2.141,R$ 442 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2141.0
+Vila Buarque,Rua Amaral Gurgel,39.0,1.0,1.0,0,R$ 2.143,R$ 700 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,2143.0
+Vila Buarque,Rua Fortunato,36.0,1.0,1.0,0,R$ 2.150,R$ 571 Condominio,"Rua Fortunato, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5403087,-46.6517888,2150.0
+Centro,Rua Riskallah Jorge,70.0,2.0,1.0,0,R$ 2.150,R$ 470 Condominio,"Rua Riskallah Jorge, Centro, São Paulo, São Paulo, Brasil",-23.541838,-46.6350869,2150.0
+Vila Buarque,Rua Marquês de Itu,26.0,1.0,1.0,0,R$ 2.150,R$ 600 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,2150.0
+Santa Efigênia,Rua Aurora,40.0,1.0,1.0,1,R$ 2.150,R$ 1.000 Condominio,"Rua Aurora, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2150.0
+Santa Efigênia,Rua Aurora,23.0,1.0,1.0,0,R$ 2.150,R$ 450 Condominio,"Rua Aurora, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2150.0
+Canindé,Endereço não informado,35.0,2.0,1.0,0,R$ 2.150,R$ 300 Condominio,"Endereço não informado, Canindé, São Paulo, São Paulo, Brasil",-23.5274925,-46.61892719999999,2150.0
+Canindé,Endereço não informado,35.0,2.0,1.0,0,R$ 2.150,R$ 300 Condominio,"Endereço não informado, Canindé, São Paulo, São Paulo, Brasil",-23.5274925,-46.61892719999999,2150.0
+Centro,Endereço não informado,22.0,1.0,1.0,0,R$ 2.150,R$ 375 Condominio,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,2150.0
+Vila Buarque,R General Jardim,30.0,1.0,1.0,0,R$ 2.153,R$ 546 Condominio,"R General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2153.0
+Centro,Largo do Arouche,29.0,1.0,1.0,0,R$ 2.154,R$ 404 Condominio,"Largo do Arouche, Centro, São Paulo, São Paulo, Brasil",-23.5409853,-46.646582,2154.0
+Centro,Avenida Cásper Líbero,25.0,1.0,1.0,0,R$ 2.160,R$ 400 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,2160.0
+Vila Buarque,Rua Jaguaribe,29.0,1.0,1.0,0,R$ 2.160,R$ 430 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,2160.0
+Vila Buarque,Rua General Jardim,27.0,1.0,1.0,0,R$ 2.167,R$ 350 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2167.0
+Centro,Rua Major Quedinho,74.0,2.0,1.0,0,R$ 2.175,R$ 680 Condominio,"Rua Major Quedinho, Centro, São Paulo, São Paulo, Brasil",-23.5497655,-46.6430772,2175.0
+Vila Buarque,Rua Maria Antônia,50.0,1.0,1.0,0,R$ 2.180,R$ 880 Condominio,"Rua Maria Antônia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5467645,-46.6504256,2180.0
+Vila Buarque,Rua General Jardim,27.0,1.0,1.0,0,R$ 2.180,R$ 450 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2180.0
+Vila Buarque,Rua das Palmeiras,37.0,1.0,1.0,0,R$ 2.180,R$ 288 Condominio,"Rua das Palmeiras, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5373143,-46.6512558,2180.0
+Vila Buarque,Rua General Jardim,26.0,1.0,1.0,0,R$ 2.180,R$ 600 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2180.0
+Vila Buarque,Rua General Jardim,23.0,1.0,1.0,0,R$ 2.184,R$ 500 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2184.0
+Centro,Viaduto Nove de Julho,25.0,1.0,1.0,0,R$ 2.199,R$ 518 Condominio,"Viaduto Nove de Julho, Centro, São Paulo, São Paulo, Brasil",-23.5492164,-46.6423238,2199.0
+Sé,Rua Riachuelo,106.0,2.0,1.0,1,R$ 2.200,R$ 660 Condominio,"Rua Riachuelo, Sé, São Paulo, São Paulo, Brasil",-23.5506284,-46.6367381,2200.0
+Sé,Rua Tabatinguera,22.0,1.0,1.0,0,R$ 2.200,R$ 450 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,2200.0
+Vila Buarque,Rua General Jardim,51.0,1.0,1.0,0,R$ 2.200,R$ 604 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2200.0
+Vila Buarque,Rua Amaral Gurgel,22.0,1.0,1.0,0,R$ 2.200,R$ 450 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,2200.0
+Centro,Rua Florêncio de Abreu,24.0,1.0,1.0,0,R$ 2.200,R$ 694 Condominio,"Rua Florêncio de Abreu, Centro, São Paulo, São Paulo, Brasil",-23.5398983,-46.6328623,2200.0
+Sé,Rua São Francisco,50.0,2.0,1.0,0,R$ 2.200,,"Rua São Francisco, Sé, São Paulo, São Paulo, Brasil",-23.5491102,-46.6379728,2200.0
+Centro,Rua João Adolfo,60.0,2.0,1.0,0,R$ 2.200,R$ 603 Condominio,"Rua João Adolfo, Centro, São Paulo, São Paulo, Brasil",-23.5484916,-46.6403779,2200.0
+Vila Buarque,Rua Maria Antônia,45.0,1.0,1.0,0,R$ 2.200,R$ 610 Condominio,"Rua Maria Antônia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5467645,-46.6504256,2200.0
+Luz,Rua Doutor Pedro Arbues,58.0,2.0,1.0,0,R$ 2.200,R$ 166 Condominio,"Rua Doutor Pedro Arbues, Luz, São Paulo, São Paulo, Brasil",-23.5349096,-46.6303623,2200.0
+Centro,Avenida Cásper Líbero,30.0,1.0,1.0,0,R$ 2.200,R$ 450 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,2200.0
+Centro,Rua Brigadeiro Tobias,32.0,1.0,1.0,0,R$ 2.200,R$ 650 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,2200.0
+Centro,Avenida do Estado,70.0,2.0,1.0,0,R$ 2.200,R$ 330 Condominio,"Avenida do Estado, Centro, São Paulo, São Paulo, Brasil",-23.5437048,-46.6288197,2200.0
+Santa Efigênia,Praça Júlio Mesquita,50.0,1.0,1.0,1,R$ 2.200,R$ 500 Condominio,"Praça Júlio Mesquita, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5408406,-46.6424277,2200.0
+Centro,R Paim,32.0,1.0,1.0,1,R$ 2.200,R$ 522 Condominio,"R Paim, Centro, São Paulo, São Paulo, Brasil",-23.5540332,-46.6502354,2200.0
+Centro,"R Genebra, 151",30.0,1.0,1.0,0,R$ 2.200,R$ 1.500 Condominio,"R Genebra, 151, Centro, São Paulo, São Paulo, Brasil",-23.5521325,-46.6394866,2200.0
+Vila Buarque,R Marquês de Itu,30.0,1.0,1.0,1,R$ 2.200,R$ 660 Condominio,"R Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,2200.0
+Centro,Endereço não informado,30.0,1.0,1.0,0,R$ 2.200,R$ 385 Condominio,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,2200.0
+Vila Buarque,Rua Marques de Itu,30.0,1.0,1.0,1,R$ 2.200,R$ 660 Condominio,"Rua Marques de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,2200.0
+Vila Buarque,Rua Marquês de Itu 836,55.0,1.0,1.0,1,R$ 2.200,R$ 1.500 Condominio,"Rua Marquês de Itu 836, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5435772,-46.6524276,2200.0
+Vila Buarque,"R Doutor Cesário Mota Júnior, 568",26.0,1.0,1.0,1,R$ 2.200,R$ 400 Condominio,"R Doutor Cesário Mota Júnior, 568, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5468959,-46.6490873,2200.0
+Vila Buarque,R General Jardim,27.0,1.0,1.0,0,R$ 2.200,R$ 350 Condominio,"R General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2200.0
+Sé,Rua Conde de Sarzedas,25.0,1.0,1.0,0,R$ 2.200,R$ 300 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2200.0
+Vila Buarque,Endereço não informado,50.0,1.0,1.0,0,R$ 2.200,R$ 684 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2200.0
+Centro,RUA AMERICO BRASILIENSE,95.0,3.0,,2,R$ 2.200,R$ 900 Condominio,"RUA AMERICO BRASILIENSE, Centro, São Paulo, São Paulo, Brasil",-23.6328078,-46.6996412,2200.0
+Vila Buarque,Rua Maria Antônia 287,45.0,1.0,1.0,0,R$ 2.200,R$ 635 Condominio,"Rua Maria Antônia 287, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5461772,-46.6512169,2200.0
+Vila Buarque,Rua Marquês de Itu 836,55.0,1.0,1.0,1,R$ 2.200,R$ 1.500 Condominio,"Rua Marquês de Itu 836, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5435772,-46.6524276,2200.0
+Santa Efigênia,Endereço não informado,70.0,1.0,1.0,0,R$ 2.200,R$ 570 Condominio,"Endereço não informado, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5376549,-46.6385252,2200.0
+Vila Buarque,"Rua Barão de Tatuí ,369/371",109.0,3.0,,1,R$ 2.200,R$ 1.042 Condominio,"Rua Barão de Tatuí ,369/371, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5391881,-46.6540411,2200.0
+Santa Efigênia,Endereço não informado,70.0,1.0,1.0,0,R$ 2.200,R$ 570 Condominio,"Endereço não informado, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5376549,-46.6385252,2200.0
+Vila Buarque,Rua Marquês de Itu 256,30.0,1.0,1.0,1,R$ 2.200,R$ 660 Condominio,"Rua Marquês de Itu 256, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5436889,-46.6467971,2200.0
+Centro,Rua Florêncio de Abreu,30.0,1.0,1.0,1,R$ 2.210,R$ 550 Condominio,"Rua Florêncio de Abreu, Centro, São Paulo, São Paulo, Brasil",-23.5398983,-46.6328623,2210.0
+Centro,Avenida Cásper Líbero,27.0,1.0,1.0,0,R$ 2.210,R$ 300 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,2210.0
+Vila Buarque,Rua General Jardim,26.0,1.0,1.0,0,R$ 2.210,R$ 520 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2210.0
+Centro,"R Bento Freitas, 420",30.0,1.0,1.0,0,R$ 2.229,R$ 1.200 Condominio,"R Bento Freitas, 420, Centro, São Paulo, São Paulo, Brasil",-23.545707,-46.6456946,2229.0
+Sé,Rua Conde de Sarzedas,25.0,1.0,1.0,0,R$ 2.240,R$ 370 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2240.0
+Vila Buarque,Rua Maria Antônia,58.0,1.0,1.0,0,R$ 2.240,R$ 810 Condominio,"Rua Maria Antônia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5467645,-46.6504256,2240.0
+Santa Efigênia,Rua Aurora,36.0,1.0,1.0,1,R$ 2.240,R$ 1.600 Condominio,"Rua Aurora, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2240.0
+Centro,Rua Álvaro de Carvalho,33.0,1.0,1.0,0,R$ 2.244,R$ 532 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,2244.0
+Sé,Rua Conde de Sarzedas,38.0,2.0,1.0,0,R$ 2.250,R$ 430 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2250.0
+Vila Buarque,Rua Amaral Gurgel,26.0,1.0,1.0,0,R$ 2.250,R$ 430 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,2250.0
+Vila Buarque,Rua Major Sertório,42.0,1.0,1.0,0,R$ 2.250,R$ 499 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,2250.0
+Vila Buarque,Rua Jaguaribe,25.0,1.0,1.0,0,R$ 2.250,R$ 361 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,2250.0
+Vila Buarque,Rua Jaguaribe 429  apto. 82,25.0,1.0,1.0,0,R$ 2.250,R$ 361 Condominio,"Rua Jaguaribe 429  apto. 82, Vila Buarque, São Paulo, São Paulo, Brasil",-23.541723,-46.6520252,2250.0
+Vila Buarque,"R Jaguaribe, 429",25.0,1.0,1.0,0,R$ 2.250,R$ 361 Condominio,"R Jaguaribe, 429, Vila Buarque, São Paulo, São Paulo, Brasil",-23.541723,-46.6520252,2250.0
+Luz,Avenida Tiradentes,64.0,2.0,,1,R$ 2.257,R$ 558 Condominio,"Avenida Tiradentes, Luz, São Paulo, São Paulo, Brasil",-23.5290926,-46.631703,2257.0
+Sé,Rua dos Estudantes,26.0,1.0,1.0,0,R$ 2.270,,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,2270.0
+Centro,RUA PAULO KRUGER,70.0,3.0,1.0,2,R$ 2.270,R$ 777 Condominio,"RUA PAULO KRUGER, Centro, São Paulo, São Paulo, Brasil",-23.7072265,-46.5494787,2270.0
+Vila Buarque,R General Jardim,30.0,1.0,1.0,0,R$ 2.273,R$ 546 Condominio,"R General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2273.0
+Vila Buarque,Rua Marquês de Itu,29.0,1.0,1.0,1,R$ 2.277,R$ 600 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,2277.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,25.0,1.0,1.0,0,R$ 2.280,R$ 450 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2280.0
+Vila Buarque,Rua Jaguaribe,45.0,1.0,1.0,0,R$ 2.280,R$ 450 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,2280.0
+Vila Buarque,Rua Fortunato,25.0,1.0,1.0,0,R$ 2.286,R$ 550 Condominio,"Rua Fortunato, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5403087,-46.6517888,2286.0
+Vila Buarque,Rua General Jardim,65.0,1.0,1.0,0,R$ 2.288,R$ 720 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2288.0
+Vila Buarque,Rua Marquês de Itu,29.0,1.0,1.0,1,R$ 2.288,R$ 545 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,2288.0
+Centro,Avenida Prestes Maia,40.0,1.0,1.0,0,R$ 2.288,R$ 580 Condominio,"Avenida Prestes Maia, Centro, São Paulo, São Paulo, Brasil",-23.5396645,-46.6340752,2288.0
+Vila Buarque,Rua Amaral Gurgel,27.0,1.0,1.0,0,R$ 2.290,R$ 500 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,2290.0
+Vila Buarque,R General Jardim,30.0,1.0,1.0,0,R$ 2.294,R$ 526 Condominio,"R General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2294.0
+Vila Buarque,Rua Major Sertorio,28.0,1.0,1.0,0,R$ 2.298,R$ 400 Condominio,"Rua Major Sertorio, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,2298.0
+Centro,"AV RIO BRANCO, 1658",32.0,1.0,1.0,1,R$ 2.298,R$ 954 Condominio,"AV RIO BRANCO, 1658, Centro, São Paulo, São Paulo, Brasil",-23.529866,-46.6467677,2298.0
+Centro,Rua Florêncio de Abreu 1,30.0,1.0,1.0,0,R$ 2.299,R$ 600 Condominio,"Rua Florêncio de Abreu 1, Centro, São Paulo, São Paulo, Brasil",-23.544347,-46.634149,2299.0
+Centro,Rua Florêncio de Abreu,24.0,1.0,1.0,0,R$ 2.300,R$ 593 Condominio,"Rua Florêncio de Abreu, Centro, São Paulo, São Paulo, Brasil",-23.5398983,-46.6328623,2300.0
+Santa Efigênia,Praça Júlio Mesquita,58.0,2.0,,0,R$ 2.300,R$ 528 Condominio,"Praça Júlio Mesquita, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5408406,-46.6424277,2300.0
+Vila Buarque,Rua Amaral Gurgel,25.0,1.0,1.0,0,R$ 2.300,R$ 490 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,2300.0
+Centro,Praça Pedro Lessa,37.0,1.0,1.0,0,R$ 2.300,R$ 736 Condominio,"Praça Pedro Lessa, Centro, São Paulo, São Paulo, Brasil",-23.5431624,-46.6359519,2300.0
+Vila Buarque,Rua Jaguaribe,57.0,2.0,1.0,0,R$ 2.300,R$ 748 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,2300.0
+Sé,Rua dos Estudantes,38.0,1.0,1.0,0,R$ 2.300,R$ 480 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,2300.0
+Santa Efigênia,Avenida Duque de Caxias,52.0,2.0,1.0,0,R$ 2.300,R$ 275 Condominio,"Avenida Duque de Caxias, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5359339,-46.6415808,2300.0
+Luz,Rua Doutor Pedro Arbues,60.0,2.0,1.0,0,R$ 2.300,R$ 165 Condominio,"Rua Doutor Pedro Arbues, Luz, São Paulo, São Paulo, Brasil",-23.5349096,-46.6303623,2300.0
+Vila Buarque,Rua General Jardim,27.0,1.0,1.0,0,R$ 2.300,R$ 450 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2300.0
+Centro,Rua Brigadeiro Tobias,30.0,1.0,1.0,0,R$ 2.300,R$ 550 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,2300.0
+Vila Buarque,Rua Barão de Tatuí,42.0,1.0,1.0,0,R$ 2.300,R$ 622 Condominio,"Rua Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,2300.0
+Centro,Rua Washington Luís 98,41.0,1.0,1.0,1,R$ 2.300,R$ 575 Condominio,"Rua Washington Luís 98, Centro, São Paulo, São Paulo, Brasil",-23.5377539,-46.6342368,2300.0
+Vila Buarque,"Rua General Jardim, 638 Apto 12",26.0,1.0,1.0,0,R$ 2.300,R$ 290 Condominio,"Rua General Jardim, 638 Apto 12, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443952,-46.6507337,2300.0
+Centro,RUA JOAO PESSOA,50.0,1.0,1.0,1,R$ 2.300,R$ 1.937 Condominio,"RUA JOAO PESSOA, Centro, São Paulo, São Paulo, Brasil",-23.7102301,-46.5485903,2300.0
+Vila Buarque,"R Aureliano Coutinho, 35",25.0,1.0,,0,R$ 2.300,R$ 1.400 Condominio,"R Aureliano Coutinho, 35, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5403404,-46.652748,2300.0
+Vila Buarque,R Martim Francisco,32.0,1.0,1.0,0,R$ 2.300,R$ 528 Condominio,"R Martim Francisco, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5400958,-46.6531879,2300.0
+Centro,"R Aureliano Coutinho, 35",25.0,1.0,,0,R$ 2.300,R$ 1.400 Condominio,"R Aureliano Coutinho, 35, Centro, São Paulo, São Paulo, Brasil",-23.5403404,-46.652748,2300.0
+Centro,Rua Bento Freitas,21.0,1.0,1.0,0,R$ 2.300,R$ 270 Condominio,"Rua Bento Freitas, Centro, São Paulo, São Paulo, Brasil",-23.5438681,-46.6455288,2300.0
+Vila Buarque,Rua General Jardim 1,24.0,1.0,,0,R$ 2.300,R$ 900 Condominio,"Rua General Jardim 1, Vila Buarque, São Paulo, São Paulo, Brasil",-23.544785,-46.6470981,2300.0
+Vila Buarque,Rua Martim Francisco 344,32.0,1.0,1.0,1,R$ 2.300,R$ 728 Condominio,"Rua Martim Francisco 344, Vila Buarque, São Paulo, São Paulo, Brasil",-23.539995,-46.6530903,2300.0
+Centro,Endereço não informado,28.0,1.0,1.0,1,R$ 2.300,R$ 450 Condominio,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,2300.0
+Vila Buarque,"Rua Martim Francisco,334 apto 908",31.0,1.0,1.0,1,R$ 2.300,R$ 528 Condominio,"Rua Martim Francisco,334 apto 908, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5397902,-46.6530562,2300.0
+Centro,RUA COMENDADOR CARLO MARIO GARDANO,71.0,2.0,1.0,2,R$ 2.300,R$ 870 Condominio,"RUA COMENDADOR CARLO MARIO GARDANO, Centro, São Paulo, São Paulo, Brasil",-23.7181695,-46.5548963,2300.0
+Centro,Rua do Boticário,128.0,2.0,,0,R$ 2.300,R$ 960 Condominio,"Rua do Boticário, Centro, São Paulo, São Paulo, Brasil",-23.541615,-46.6393155,2300.0
+Vila Buarque,R Bento Freitas,21.0,1.0,1.0,0,R$ 2.300,R$ 520 Condominio,"R Bento Freitas, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5438681,-46.6455288,2300.0
+Luz,Endereço não informado,64.0,2.0,,1,R$ 2.300,R$ 700 Condominio,"Endereço não informado, Luz, São Paulo, São Paulo, Brasil",-23.5294565,-46.6291504,2300.0
+Vila Buarque,Rua Martim Francisco 344,32.0,1.0,1.0,1,R$ 2.300,R$ 728 Condominio,"Rua Martim Francisco 344, Vila Buarque, São Paulo, São Paulo, Brasil",-23.539995,-46.6530903,2300.0
+Vila Buarque,R Aureliano Coutinho,59.0,1.0,1.0,0,R$ 2.300,R$ 676 Condominio,"R Aureliano Coutinho, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5418812,-46.6531833,2300.0
+Vila Buarque,"Rua Rego Freitas, 62",40.0,1.0,1.0,0,R$ 2.300,,"Rua Rego Freitas, 62, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5424408,-46.6466349,2300.0
+Vila Buarque,Endereço não informado,32.0,1.0,1.0,0,R$ 2.300,R$ 728 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2300.0
+Vila Buarque,Endereço não informado,32.0,1.0,,1,R$ 2.300,R$ 728 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2300.0
+Vila Buarque,Endereço não informado,68.0,1.0,1.0,0,R$ 2.300,R$ 335 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2300.0
+Vila Buarque,"R Martim Francisco, 334",32.0,1.0,1.0,1,R$ 2.300,R$ 728 Condominio,"R Martim Francisco, 334, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5397902,-46.6530562,2300.0
+Vila Buarque,Rua Barão de Tatuí,40.0,1.0,1.0,1,R$ 2.306,R$ 569 Condominio,"Rua Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,2306.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,26.0,1.0,1.0,0,R$ 2.310,R$ 446 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2310.0
+Sé,Rua Conde de Sarzedas,38.0,1.0,1.0,0,R$ 2.320,R$ 450 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2320.0
+Vila Buarque,Rua Amaral Gurgel,83.0,2.0,1.0,0,R$ 2.329,R$ 350 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,2329.0
+Vila Buarque,Rua Barão de Tatuí,27.0,1.0,1.0,0,R$ 2.340,R$ 528 Condominio,"Rua Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,2340.0
+Vila Buarque,Rua Major Sertório,27.0,1.0,1.0,0,R$ 2.349,R$ 450 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,2349.0
+Sé,Rua dos Estudantes,28.0,1.0,1.0,0,R$ 2.350,R$ 382 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,2350.0
+Canindé,Rua Canindé,56.0,2.0,1.0,1,R$ 2.350,R$ 340 Condominio,"Rua Canindé, Canindé, São Paulo, São Paulo, Brasil",-23.5277309,-46.6223305,2350.0
+Vila Buarque,Rego Freitas,27.0,1.0,,0,R$ 2.350,R$ 640 Condominio,"Rego Freitas, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5447316,-46.6466079,2350.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,25.0,1.0,1.0,0,R$ 2.370,R$ 550 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2370.0
+Centro,Rua Major Quedinho,48.0,1.0,1.0,1,R$ 2.371,R$ 700 Condominio,"Rua Major Quedinho, Centro, São Paulo, São Paulo, Brasil",-23.5497655,-46.6430772,2371.0
+Sé,Rua Conde de Sarzedas,24.0,1.0,1.0,0,R$ 2.390,R$ 380 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2390.0
+Luz,Rua Vinte E Cinco de Janeiro,47.0,2.0,1.0,1,R$ 2.390,R$ 630 Condominio,"Rua Vinte E Cinco de Janeiro, Luz, São Paulo, São Paulo, Brasil",-23.5354799,-46.6310363,2390.0
+Vila Buarque,Rua General Jardim,45.0,1.0,1.0,0,R$ 2.390,R$ 375 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2390.0
+Centro,"R General Jardim, 384",30.0,1.0,1.0,0,R$ 2.390,R$ 560 Condominio,"R General Jardim, 384, Centro, São Paulo, São Paulo, Brasil",-23.5446041,-46.6483746,2390.0
+Vila Buarque,Rua General Jardim 384,30.0,1.0,1.0,0,R$ 2.390,R$ 560 Condominio,"Rua General Jardim 384, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446041,-46.6483746,2390.0
+Sé,Rua Tabatinguera,32.0,1.0,1.0,0,R$ 2.392,R$ 500 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,2392.0
+Centro,Avenida São João,54.0,1.0,1.0,0,R$ 2.400,R$ 390 Condominio,"Avenida São João, Centro, São Paulo, São Paulo, Brasil",-23.5437201,-46.6378763,2400.0
+Centro,Avenida Prestes Maia,37.0,1.0,1.0,0,R$ 2.400,R$ 701 Condominio,"Avenida Prestes Maia, Centro, São Paulo, São Paulo, Brasil",-23.5396645,-46.6340752,2400.0
+Centro,Rua Brigadeiro Tobias,32.0,1.0,1.0,0,R$ 2.400,R$ 492 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,2400.0
+Vila Buarque,Rua Amaral Gurgel,21.0,1.0,1.0,0,R$ 2.400,R$ 195 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,2400.0
+Centro,Rua Washington Luís,24.0,1.0,1.0,1,R$ 2.400,R$ 700 Condominio,"Rua Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,2400.0
+Vila Buarque,Rua General Jardim,24.0,1.0,1.0,0,R$ 2.400,R$ 901 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2400.0
+Vila Buarque,Rua Amaral Gurgel,21.0,1.0,1.0,0,R$ 2.400,R$ 450 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,2400.0
+Sé,Rua Conde de Sarzedas,24.0,1.0,1.0,0,R$ 2.400,R$ 335 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2400.0
+Centro,Avenida São João,86.0,1.0,1.0,0,R$ 2.400,R$ 615 Condominio,"Avenida São João, Centro, São Paulo, São Paulo, Brasil",-23.5437201,-46.6378763,2400.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,47.0,1.0,1.0,0,R$ 2.400,R$ 658 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2400.0
+Vila Buarque,Rua Amaral Gurgel,21.0,1.0,1.0,0,R$ 2.400,R$ 195 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,2400.0
+Santa Efigênia,Rua Aurora,24.0,1.0,1.0,0,R$ 2.400,R$ 373 Condominio,"Rua Aurora, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2400.0
+Centro,Avenida São João,79.0,1.0,1.0,0,R$ 2.400,R$ 599 Condominio,"Avenida São João, Centro, São Paulo, São Paulo, Brasil",-23.5437201,-46.6378763,2400.0
+Vila Buarque,Rua Amaral Gurgel,21.0,1.0,1.0,0,R$ 2.400,R$ 450 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,2400.0
+Centro,Rua Álvaro de Carvalho,42.0,1.0,1.0,0,R$ 2.400,R$ 548 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,2400.0
+Vila Buarque,R Doutor Cesário Mota Júnior,40.0,1.0,1.0,0,R$ 2.400,R$ 290 Condominio,"R Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2400.0
+Centro,Avenida São João,79.0,2.0,1.0,0,R$ 2.400,R$ 594 Condominio,"Avenida São João, Centro, São Paulo, São Paulo, Brasil",-23.5437201,-46.6378763,2400.0
+Vila Buarque,Rua Major Sertório,35.0,1.0,1.0,0,R$ 2.400,R$ 500 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,2400.0
+Vila Buarque,"R. Dr. Cesário Mota Júnior - Vila Buarque, São Paulo - Sp, Brasil",47.0,1.0,1.0,0,R$ 2.400,R$ 631 Condominio,"R. Dr. Cesário Mota Júnior - Vila Buarque, São Paulo - Sp, Brasil, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2400.0
+Centro,"Rua Martins Fontes, 268",68.0,1.0,1.0,0,R$ 2.400,,"Rua Martins Fontes, 268, Centro, São Paulo, São Paulo, Brasil",-23.5494364,-46.6450585,2400.0
+Centro,Av Senador de Queirós,29.0,1.0,1.0,0,R$ 2.400,,"Av Senador de Queirós, Centro, São Paulo, São Paulo, Brasil",-23.5397479,-46.6302035,2400.0
+Centro,R Fagundes,25.0,,,0,R$ 2.400,R$ 560 Condominio,"R Fagundes, Centro, São Paulo, São Paulo, Brasil",-23.5596568,-46.6361089,2400.0
+Vila Buarque,"R Jesuíno Pascoal, 87",98.0,2.0,,1,R$ 2.400,R$ 980 Condominio,"R Jesuíno Pascoal, 87, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5408795,-46.6496089,2400.0
+Vila Buarque,"R Jesuíno Pascoal, 87",98.0,2.0,1.0,1,R$ 2.400,R$ 980 Condominio,"R Jesuíno Pascoal, 87, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5408795,-46.6496089,2400.0
+Centro,RUA MUNICIPAL,254.0,3.0,,3,R$ 2.400,R$ 1.750 Condominio,"RUA MUNICIPAL, Centro, São Paulo, São Paulo, Brasil",-23.7015514,-46.5529056,2400.0
+Vila Buarque,Largo do Arouche,28.0,1.0,1.0,0,R$ 2.400,R$ 500 Condominio,"Largo do Arouche, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5409853,-46.646582,2400.0
+Vila Buarque,Endereço não informado,143.0,2.0,1.0,1,R$ 2.400,R$ 940 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2400.0
+Vila Buarque,"Rua Jesuíno Pascoal, 87",98.0,2.0,,1,R$ 2.400,R$ 980 Condominio,"Rua Jesuíno Pascoal, 87, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5408795,-46.6496089,2400.0
+Vila Buarque,R Major Sertório,72.0,1.0,1.0,0,R$ 2.400,R$ 616 Condominio,"R Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5455333,-46.6471412,2400.0
+Vila Buarque,Endereço não informado,98.0,2.0,,1,R$ 2.400,R$ 900 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2400.0
+Vila Buarque,Endereço não informado,98.0,2.0,,1,R$ 2.400,R$ 940 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2400.0
+Vila Buarque,"Rua Jesuíno Pascoal, 87",98.0,2.0,,1,R$ 2.400,R$ 980 Condominio,"Rua Jesuíno Pascoal, 87, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5408795,-46.6496089,2400.0
+Centro,Endereço não informado,43.0,1.0,1.0,0,R$ 2.400,R$ 500 Condominio,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,2400.0
+Vila Buarque,"Rua Jesuíno Pascoal, 87",98.0,2.0,,2,R$ 2.400,R$ 980 Condominio,"Rua Jesuíno Pascoal, 87, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5408795,-46.6496089,2400.0
+Vila Buarque,Endereço não informado,98.0,2.0,,1,R$ 2.400,R$ 900 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2400.0
+Vila Buarque,Endereço não informado,98.0,2.0,,1,R$ 2.400,R$ 900 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2400.0
+Vila Buarque,Endereço não informado,98.0,2.0,,1,R$ 2.400,R$ 900 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2400.0
+Centro,Rua Major Quedinho 224,48.0,1.0,,1,R$ 2.400,R$ 852 Condominio,"Rua Major Quedinho 224, Centro, São Paulo, São Paulo, Brasil",-23.5487563,-46.6453498,2400.0
+Centro,Rua Álvaro de Carvalho,42.0,1.0,1.0,1,R$ 2.409,R$ 620 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,2409.0
+Centro,Endereço não informado,37.0,1.0,,0,R$ 2.430,,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,2430.0
+Vila Buarque,"R Major Sertório, 423",27.0,1.0,1.0,0,R$ 2.440,R$ 460 Condominio,"R Major Sertório, 423, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5454813,-46.6483404,2440.0
+Vila Buarque,R General Jardim,30.0,1.0,1.0,0,R$ 2.443,R$ 546 Condominio,"R General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2443.0
+Vila Buarque,R General Jardim,30.0,1.0,1.0,0,R$ 2.443,R$ 546 Condominio,"R General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2443.0
+Centro,Rua Álvaro de Carvalho,42.0,1.0,1.0,0,R$ 2.450,R$ 450 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,2450.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,24.0,1.0,1.0,0,R$ 2.450,R$ 480 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2450.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,30.0,1.0,1.0,0,R$ 2.450,R$ 450 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2450.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,28.0,1.0,1.0,0,R$ 2.450,R$ 500 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2450.0
+Vila Buarque,rua maor sertorio,27.0,1.0,1.0,0,R$ 2.450,R$ 380 Condominio,"rua maor sertorio, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,2450.0
+Vila Buarque,Rua Major Sertório,30.0,1.0,1.0,0,R$ 2.460,R$ 660 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,2460.0
+Vila Buarque,Rua Marquês de Itu,24.0,1.0,1.0,0,R$ 2.475,R$ 685 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,2475.0
+Centro,Rua Doutor Falcão Filho,55.0,2.0,,0,R$ 2.480,R$ 800 Condominio,"Rua Doutor Falcão Filho, Centro, São Paulo, São Paulo, Brasil",-23.5481315,-46.6375532,2480.0
+Vila Buarque,"Rua General Jardim, 638 Apto 42",26.0,1.0,1.0,0,R$ 2.480,R$ 290 Condominio,"Rua General Jardim, 638 Apto 42, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443952,-46.6507337,2480.0
+Vila Buarque,"Rua General Jardim, 638 Apto 33",28.0,,1.0,0,R$ 2.480,R$ 90 Condominio,"Rua General Jardim, 638 Apto 33, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443952,-46.6507337,2480.0
+Centro,Rua Antônio de Godói,40.0,1.0,1.0,0,R$ 2.490,R$ 380 Condominio,"Rua Antônio de Godói, Centro, São Paulo, São Paulo, Brasil",-23.5422341,-46.6375569,2490.0
+Centro,"Rua Antônio de Godói, 83",40.0,1.0,1.0,0,R$ 2.490,R$ 380 Condominio,"Rua Antônio de Godói, 83, Centro, São Paulo, São Paulo, Brasil",-23.5417893,-46.6372739,2490.0
+Vila Buarque,Rua General Jardim,30.0,1.0,1.0,0,R$ 2.500,R$ 400 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2500.0
+Sé,Rua Conde de Sarzedas,24.0,1.0,1.0,0,R$ 2.500,R$ 310 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2500.0
+Sé,Rua dos Estudantes,28.0,1.0,1.0,0,R$ 2.500,R$ 380 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,2500.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,32.0,1.0,1.0,0,R$ 2.500,R$ 526 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2500.0
+Sé,Rua Conde de Sarzedas,24.0,1.0,1.0,0,R$ 2.500,R$ 310 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2500.0
+Sé,Rua Conde de Sarzedas,24.0,1.0,1.0,0,R$ 2.500,R$ 310 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2500.0
+Vila Buarque,Rua Major Sertório,40.0,1.0,1.0,0,R$ 2.500,R$ 580 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,2500.0
+Vila Buarque,Rua Marquês de Itu,28.0,1.0,1.0,0,R$ 2.500,R$ 490 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,2500.0
+Centro,Praça Júlio Mesquita,49.0,1.0,1.0,1,R$ 2.500,R$ 630 Condominio,"Praça Júlio Mesquita, Centro, São Paulo, São Paulo, Brasil",-23.5409032,-46.6428636,2500.0
+Centro,Rua dos Gusmões,36.0,1.0,1.0,0,R$ 2.500,R$ 440 Condominio,"Rua dos Gusmões, Centro, São Paulo, São Paulo, Brasil",-23.536307,-46.6382429,2500.0
+Centro,Rua Brigadeiro Tobias 478,32.0,1.0,,0,R$ 2.500,R$ 580 Condominio,"Rua Brigadeiro Tobias 478, Centro, São Paulo, São Paulo, Brasil",-23.5388327,-46.6347701,2500.0
+Vila Buarque,Rua General Jardim,27.0,1.0,1.0,0,R$ 2.500,R$ 550 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2500.0
+Centro,Avenida Prestes Maia,40.0,1.0,1.0,0,R$ 2.500,R$ 850 Condominio,"Avenida Prestes Maia, Centro, São Paulo, São Paulo, Brasil",-23.5396645,-46.6340752,2500.0
+Santa Efigênia,Rua Aurora,24.0,1.0,1.0,0,R$ 2.500,R$ 250 Condominio,"Rua Aurora, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2500.0
+Vila Buarque,Rua General Jardim,27.0,1.0,1.0,0,R$ 2.500,R$ 550 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2500.0
+Sé,Rua Conde de Sarzedas,33.0,2.0,1.0,0,R$ 2.500,R$ 420 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2500.0
+Sé,Rua Conde de Sarzedas,33.0,2.0,1.0,0,R$ 2.500,R$ 420 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2500.0
+Sé,Rua Conde de Sarzedas,33.0,2.0,1.0,0,R$ 2.500,R$ 420 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2500.0
+Sé,Rua dos Estudantes,28.0,1.0,1.0,0,R$ 2.500,R$ 400 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,2500.0
+Vila Buarque,Rua Amaral Gurgel,26.0,1.0,1.0,0,R$ 2.500,R$ 560 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,2500.0
+Sé,Rua Conde de Sarzedas,33.0,2.0,1.0,0,R$ 2.500,R$ 420 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2500.0
+Vila Buarque,Rua General Jardim,51.0,1.0,1.0,0,R$ 2.500,R$ 693 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2500.0
+Vila Buarque,Rua Major Sertório,42.0,1.0,1.0,0,R$ 2.500,R$ 485 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,2500.0
+Sé,Rua Conde de Sarzedas,33.0,2.0,1.0,0,R$ 2.500,R$ 420 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2500.0
+Sé,Rua Conde de Sarzedas,33.0,2.0,1.0,0,R$ 2.500,R$ 420 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2500.0
+Sé,Rua Conde de Sarzedas,33.0,2.0,1.0,0,R$ 2.500,R$ 420 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2500.0
+Centro,Rua Antônio de Godói,53.0,2.0,1.0,0,R$ 2.500,R$ 490 Condominio,"Rua Antônio de Godói, Centro, São Paulo, São Paulo, Brasil",-23.5422341,-46.6375569,2500.0
+Sé,Rua dos Estudantes,34.0,2.0,1.0,0,R$ 2.500,R$ 270 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,2500.0
+Vila Buarque,Rua Frederico Abranches,44.0,1.0,1.0,0,R$ 2.500,R$ 341 Condominio,"Rua Frederico Abranches, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5398099,-46.6499741,2500.0
+Centro,"Rua Quirino de Andrade,",28.0,1.0,,0,R$ 2.500,,"Rua Quirino de Andrade,, Centro, São Paulo, São Paulo, Brasil",-23.5478396,-46.6400406,2500.0
+Sé,Rua Conde de Sarzedas,33.0,2.0,1.0,0,R$ 2.500,R$ 420 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,2500.0
+Vila Buarque,"R Martinico Prado, 361",45.0,1.0,,1,R$ 2.500,R$ 565 Condominio,"R Martinico Prado, 361, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5428117,-46.654922,2500.0
+Centro,Endereço não informado,47.0,1.0,1.0,1,R$ 2.500,R$ 850 Condominio,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,2500.0
+Vila Buarque,"rua aureliano coutinho,",80.0,3.0,1.0,0,R$ 2.500,R$ 700 Condominio,"rua aureliano coutinho,, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5418812,-46.6531833,2500.0
+Santa Efigênia,Praça Júlio Mesquita 20,70.0,2.0,1.0,0,R$ 2.500,R$ 570 Condominio,"Praça Júlio Mesquita 20, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5410019,-46.64215859999999,2500.0
+Vila Buarque,Rua Fortunato 188,29.0,1.0,1.0,0,R$ 2.500,R$ 500 Condominio,"Rua Fortunato 188, Vila Buarque, São Paulo, São Paulo, Brasil",-23.540472,-46.65215629999999,2500.0
+Centro,R PAIM,40.0,1.0,,1,R$ 2.500,R$ 812 Condominio,"R PAIM, Centro, São Paulo, São Paulo, Brasil",-23.5540332,-46.6502354,2500.0
+Vila Buarque,Jaguaribe,300.0,1.0,1.0,1,R$ 2.500,R$ 530 Condominio,"Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,2500.0
+Vila Buarque,R Major Sertório,24.0,1.0,1.0,0,R$ 2.500,R$ 360 Condominio,"R Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5455333,-46.6471412,2500.0
+Vila Buarque,Endereço não informado,70.0,2.0,,0,R$ 2.500,R$ 715 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2500.0
+Vila Buarque,Endereço não informado,25.0,1.0,1.0,0,R$ 2.500,R$ 300 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,2500.0
+Centro,RUA COMENDADOR CARLO MARIO GARDANO,,2.0,1.0,1,R$ 2.500,R$ 368 Condominio,"RUA COMENDADOR CARLO MARIO GARDANO, Centro, São Paulo, São Paulo, Brasil",-23.7181695,-46.5548963,2500.0
+Vila Buarque,Rua Doutor Vila Nova,30.0,1.0,1.0,0,R$ 2.500,R$ 470 Condominio,"Rua Doutor Vila Nova, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5457054,-46.6503305,2500.0
+Vila Buarque,Rua Jaguaribe 382,55.0,1.0,1.0,1,R$ 2.500,R$ 550 Condominio,"Rua Jaguaribe 382, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5415817,-46.65156349999999,2500.0
+Centro,"R CONSOLACAO, DA",23.0,1.0,1.0,0,R$ 2.500,R$ 634 Condominio,"R CONSOLACAO, DA, Centro, São Paulo, São Paulo, Brasil",-23.5528373,-46.6590576,2500.0
+Centro,Rua Brigadeiro Tobias 478,32.0,1.0,1.0,1,R$ 2.500,R$ 580 Condominio,"Rua Brigadeiro Tobias 478, Centro, São Paulo, São Paulo, Brasil",-23.5388327,-46.6347701,2500.0
+Centro,Rua Brigadeiro Tobias,32.0,1.0,,0,R$ 2.500,R$ 580 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,2500.0
+Centro,"R CONSOLACAO, DA",23.0,1.0,1.0,0,R$ 2.500,R$ 634 Condominio,"R CONSOLACAO, DA, Centro, São Paulo, São Paulo, Brasil",-23.5528373,-46.6590576,2500.0
+Centro,Largo do Paissandu,91.0,,1.0,0,R$ 2.500,R$ 698 Condominio,"Largo do Paissandu, Centro, São Paulo, São Paulo, Brasil",-23.542757,-46.6377366,2500.0
+Centro,"Rua Brigadeiro Tobias, 478",32.0,1.0,1.0,1,R$ 2.500,R$ 580 Condominio,"Rua Brigadeiro Tobias, 478, Centro, São Paulo, São Paulo, Brasil",-23.5388327,-46.6347701,2500.0
+Centro,Largo do Arouche,40.0,1.0,1.0,0,R$ 2.500,R$ 680 Condominio,"Largo do Arouche, Centro, São Paulo, São Paulo, Brasil",-23.5409853,-46.646582,2500.0
+Vila Buarque,"Rua Imaculada Conceição, 108",70.0,1.0,1.0,1,R$ 2.500,R$ 950 Condominio,"Rua Imaculada Conceição, 108, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5386806,-46.6532507,2500.0
+Sé,Praça da Sé 1,82.0,3.0,,1,R$ 2.500,R$ 1.000 Condominio,"Praça da Sé 1, Sé, São Paulo, São Paulo, Brasil",-23.5493136,-46.6332157,2500.0
+Centro,Praça Carlos Gomes,26.0,1.0,1.0,0,R$ 2.500,R$ 330 Condominio,"Praça Carlos Gomes, Centro, São Paulo, São Paulo, Brasil",-23.5533344,-46.6357701,2500.0
+Centro,Rua Bento Freitas,21.0,1.0,1.0,0,R$ 2.500,R$ 320 Condominio,"Rua Bento Freitas, Centro, São Paulo, São Paulo, Brasil",-23.5438681,-46.6455288,2500.0
+Centro,Largo do Paissandu 51,90.0,1.0,1.0,0,R$ 2.500,,"Largo do Paissandu 51, Centro, São Paulo, São Paulo, Brasil",-23.5428912,-46.6384899,2500.0
+Sé,Rua Tabatinguera,1.0,2.0,,0,R$ 2.500,,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,2500.0
+Centro,"Avenida Prestes Maia, 241",37.0,1.0,1.0,0,R$ 2.500,R$ 702 Condominio,"Avenida Prestes Maia, 241, Centro, São Paulo, São Paulo, Brasil",-23.5421391,-46.6354864,2500.0
+Vila Buarque,Rua Marques de Itu 95,105.0,3.0,,0,R$ 2.500,R$ 1.310 Condominio,"Rua Marques de Itu 95, Vila Buarque, São Paulo, São Paulo, Brasil",-23.544046,-46.645248,2500.0
+Centro,"Avenida São João, 563",38.0,1.0,1.0,0,R$ 2.500,,"Avenida São João, 563, Centro, São Paulo, São Paulo, Brasil",-23.5429157,-46.6395734,2500.0
+Vila Buarque,Rua Major Sertório,26.0,1.0,1.0,0,R$ 2.507,R$ 500 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,2507.0
+Vila Buarque,Rua Bento Freitas,31.0,,1.0,0,R$ 2.510,R$ 447 Condominio,"Rua Bento Freitas, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5438681,-46.6455288,2510.0
+Centro,Rua Major Quedinho,45.0,1.0,1.0,0,R$ 2.513,R$ 681 Condominio,"Rua Major Quedinho, Centro, São Paulo, São Paulo, Brasil",-23.5497655,-46.6430772,2513.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,26.0,1.0,1.0,0,R$ 2.540,R$ 446 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2540.0
+Vila Buarque,Rua Major Sertório,28.0,1.0,1.0,0,R$ 2.540,R$ 350 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,2540.0
+Centro,Avenida São João,48.0,1.0,1.0,1,R$ 2.544,R$ 553 Condominio,"Avenida São João, Centro, São Paulo, São Paulo, Brasil",-23.5437201,-46.6378763,2544.0
+Centro,Rua Brigadeiro Tobias,29.0,1.0,1.0,1,R$ 2.550,R$ 600 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,2550.0
+Vila Buarque,R Major Sertório,25.0,1.0,,0,R$ 2.550,R$ 492 Condominio,"R Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5455333,-46.6471412,2550.0
+Canindé,"Rua Azurita, 48",44.0,2.0,1.0,0,R$ 2.550,R$ 225 Condominio,"Rua Azurita, 48, Canindé, São Paulo, São Paulo, Brasil",-23.5212051,-46.6174352,2550.0
+Vila Buarque,Rua Major Sertorio 585,25.0,1.0,1.0,0,R$ 2.550,R$ 492 Condominio,"Rua Major Sertorio 585, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5455985,-46.6498222,2550.0
+Santa Efigênia,Praça Júlio Mesquita,45.0,1.0,1.0,1,R$ 2.555,R$ 450 Condominio,"Praça Júlio Mesquita, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5408406,-46.6424277,2555.0
+Vila Buarque,Rua Marquês de Itu,54.0,1.0,1.0,0,R$ 2.559,R$ 382 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,2559.0
+Centro,Praça Carlos Gomes,34.0,1.0,1.0,0,R$ 2.560,R$ 316 Condominio,"Praça Carlos Gomes, Centro, São Paulo, São Paulo, Brasil",-23.5533344,-46.6357701,2560.0
+Centro,Largo do Arouche,,1.0,1.0,0,R$ 2.561,,"Largo do Arouche, Centro, São Paulo, São Paulo, Brasil",-23.5409853,-46.646582,2561.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,38.0,1.0,1.0,0,R$ 2.566,R$ 287 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2566.0
+Luz,Rua João Teodoro,85.0,2.0,,0,R$ 2.566,,"Rua João Teodoro, Luz, São Paulo, São Paulo, Brasil",-23.5333885,-46.6288272,2566.0
+Vila Buarque,Rua das Palmeiras,72.0,2.0,1.0,0,R$ 2.570,R$ 1.180 Condominio,"Rua das Palmeiras, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5373143,-46.6512558,2570.0
+Centro,"R Major Quedinho, 224",64.0,2.0,1.0,1,R$ 2.580,R$ 640 Condominio,"R Major Quedinho, 224, Centro, São Paulo, São Paulo, Brasil",-23.5487563,-46.6453498,2580.0
+Sé,Rua dos Estudantes,25.0,1.0,1.0,0,R$ 2.600,R$ 250 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,2600.0
+Centro,Rua Antônio de Godói,34.0,1.0,1.0,0,R$ 2.600,R$ 290 Condominio,"Rua Antônio de Godói, Centro, São Paulo, São Paulo, Brasil",-23.5422341,-46.6375569,2600.0
+Centro,Avenida Cásper Líbero,59.0,1.0,1.0,0,R$ 2.600,R$ 800 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,2600.0
+Vila Buarque,Rua das Palmeiras,10.0,1.0,1.0,0,R$ 2.600,R$ 320 Condominio,"Rua das Palmeiras, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5373143,-46.6512558,2600.0
+Centro,Rua Washington Luís,40.0,1.0,1.0,1,R$ 2.600,R$ 599 Condominio,"Rua Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,2600.0
+Vila Buarque,Rua Baronesa de Itu,36.0,1.0,1.0,1,R$ 2.600,R$ 595 Condominio,"Rua Baronesa de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5398724,-46.6552276,2600.0
+Vila Buarque,Rua das Palmeiras,42.0,1.0,1.0,1,R$ 2.600,R$ 475 Condominio,"Rua das Palmeiras, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5373143,-46.6512558,2600.0
+Centro,Rua Antônio de Godói,38.0,1.0,1.0,0,R$ 2.600,R$ 550 Condominio,"Rua Antônio de Godói, Centro, São Paulo, São Paulo, Brasil",-23.5422341,-46.6375569,2600.0
+Centro,RUA BRASILIO MACHADO,69.0,2.0,1.0,1,R$ 2.600,R$ 220 Condominio,"RUA BRASILIO MACHADO, Centro, São Paulo, São Paulo, Brasil",-23.7183719,-46.5455899,2600.0
+Centro,Praça da República,39.0,1.0,1.0,1,R$ 2.600,R$ 983 Condominio,"Praça da República, Centro, São Paulo, São Paulo, Brasil",-23.5438292,-46.6421961,2600.0
+Centro,"R Major Quedinho, 6",64.0,2.0,1.0,1,R$ 2.600,R$ 844 Condominio,"R Major Quedinho, 6, Centro, São Paulo, São Paulo, Brasil",-23.5484091,-46.6427761,2600.0
+Centro,Rua Martins Fontes,45.0,1.0,1.0,1,R$ 2.600,R$ 714 Condominio,"Rua Martins Fontes, Centro, São Paulo, São Paulo, Brasil",-23.5492334,-46.6442819,2600.0
+Vila Buarque,Rua Jaguaribe,24.0,1.0,1.0,0,R$ 2.620,R$ 490 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,2620.0
+Centro,Rua Aurora,25.0,1.0,1.0,0,R$ 2.630,R$ 350 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2630.0
+Vila Buarque,Rua Martinico Prado,50.0,2.0,1.0,0,R$ 2.636,R$ 501 Condominio,"Rua Martinico Prado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5426775,-46.6543719,2636.0
+Centro,Rua Washington Luís,40.0,1.0,1.0,1,R$ 2.640,R$ 650 Condominio,"Rua Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,2640.0
+Vila Buarque,Rua Marques de Itu,70.0,2.0,1.0,1,R$ 2.641,R$ 1.450 Condominio,"Rua Marques de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,2641.0
+Vila Buarque,Rua Major Sertório,28.0,1.0,1.0,0,R$ 2.650,R$ 450 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,2650.0
+Centro,Rua Brigadeiro Tobias 334,55.0,1.0,1.0,1,R$ 2.650,R$ 580 Condominio,"Rua Brigadeiro Tobias 334, Centro, São Paulo, São Paulo, Brasil",-23.5400795,-46.6351169,2650.0
+Centro,AV Brigadeiro Luís Antônio,42.0,1.0,1.0,1,R$ 2.650,R$ 558 Condominio,"AV Brigadeiro Luís Antônio, Centro, São Paulo, São Paulo, Brasil",-23.5697557,-46.6510449,2650.0
+Centro,Rua Brigadeiro Tobias 334,55.0,1.0,1.0,1,R$ 2.650,R$ 580 Condominio,"Rua Brigadeiro Tobias 334, Centro, São Paulo, São Paulo, Brasil",-23.5400795,-46.6351169,2650.0
+Centro,Rua Brigadeiro Tobias 334,55.0,1.0,1.0,1,R$ 2.650,R$ 580 Condominio,"Rua Brigadeiro Tobias 334, Centro, São Paulo, São Paulo, Brasil",-23.5400795,-46.6351169,2650.0
+Centro,Rua Brigadeiro Tobias 334,55.0,1.0,1.0,1,R$ 2.650,R$ 580 Condominio,"Rua Brigadeiro Tobias 334, Centro, São Paulo, São Paulo, Brasil",-23.5400795,-46.6351169,2650.0
+Vila Buarque,Rua General Jardim,34.0,2.0,1.0,0,R$ 2.654,R$ 455 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2654.0
+Vila Buarque,Rua Marquês de Itu,65.0,1.0,1.0,0,R$ 2.670,R$ 479 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,2670.0
+Centro,"AV Da Liberdade, 574",26.0,1.0,1.0,0,R$ 2.670,R$ 430 Condominio,"AV Da Liberdade, 574, Centro, São Paulo, São Paulo, Brasil",-23.5577325,-46.6370289,2670.0
+Vila Buarque,Rua Cunha Horta,80.0,2.0,1.0,0,R$ 2.689,R$ 900 Condominio,"Rua Cunha Horta, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5462056,-46.6484572,2689.0
+Luz,Rua Vinte E Cinco de Janeiro,34.0,1.0,1.0,0,R$ 2.690,R$ 363 Condominio,"Rua Vinte E Cinco de Janeiro, Luz, São Paulo, São Paulo, Brasil",-23.5354799,-46.6310363,2690.0
+Vila Buarque,Rua Fortunato,29.0,1.0,1.0,0,R$ 2.700,R$ 550 Condominio,"Rua Fortunato, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5403087,-46.6517888,2700.0
+Vila Buarque,Rua Cunha Horta,80.0,2.0,,0,R$ 2.700,R$ 1.129 Condominio,"Rua Cunha Horta, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5462056,-46.6484572,2700.0
+Centro,Avenida Cásper Líbero,27.0,1.0,1.0,0,R$ 2.700,R$ 369 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,2700.0
+Vila Buarque,Rua Major Sertório,30.0,1.0,1.0,0,R$ 2.700,,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,2700.0
+Vila Buarque,Rua Marquês de Itu,62.0,1.0,1.0,1,R$ 2.700,R$ 743 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,2700.0
+Vila Buarque,Rua Marquês de Itu,90.0,3.0,,0,R$ 2.700,R$ 1.400 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,2700.0
+Sé,Rua dos Estudantes,30.0,1.0,1.0,0,R$ 2.700,R$ 220 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,2700.0
+Vila Buarque,Fortunato,56.0,1.0,1.0,1,R$ 2.700,R$ 770 Condominio,"Fortunato, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5403087,-46.6517888,2700.0
+Sé,Rua Tabatinguera 462,22.0,1.0,1.0,0,R$ 2.700,R$ 450 Condominio,"Rua Tabatinguera 462, Sé, São Paulo, São Paulo, Brasil",-23.5522923,-46.6286231,2700.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior 568,26.0,1.0,1.0,0,R$ 2.700,R$ 445 Condominio,"Rua Doutor Cesário Mota Júnior 568, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5468959,-46.6490873,2700.0
+Vila Buarque,"Rua General Jardim, 638 Apto 73",26.0,,1.0,0,R$ 2.700,R$ 290 Condominio,"Rua General Jardim, 638 Apto 73, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443952,-46.6507337,2700.0
+Centro,Rua Florêncio de Abreu,31.0,1.0,1.0,0,R$ 2.700,,"Rua Florêncio de Abreu, Centro, São Paulo, São Paulo, Brasil",-23.5398983,-46.6328623,2700.0
+Centro,Avenida Brigadeiro Luís Antônio,38.0,1.0,1.0,1,R$ 2.700,R$ 549 Condominio,"Avenida Brigadeiro Luís Antônio, Centro, São Paulo, São Paulo, Brasil",-23.5697557,-46.6510449,2700.0
+Vila Buarque,Rua Doutor Cesario Mota Junior,26.0,1.0,1.0,0,R$ 2.700,R$ 440 Condominio,"Rua Doutor Cesario Mota Junior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2700.0
+Centro,"Rua Major Quedinho,",50.0,1.0,1.0,1,R$ 2.700,R$ 800 Condominio,"Rua Major Quedinho,, Centro, São Paulo, São Paulo, Brasil",-23.5497655,-46.6430772,2700.0
+Vila Buarque,Rua Doutor Cesario Mota Junior,26.0,1.0,1.0,0,R$ 2.700,R$ 445 Condominio,"Rua Doutor Cesario Mota Junior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2700.0
+Vila Buarque,RUA DAS PALMEIRAS 104,80.0,2.0,1.0,0,R$ 2.700,R$ 216 Condominio,"RUA DAS PALMEIRAS 104, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5380083,-46.6502408,2700.0
+Centro,"R Major Quedinho, 224",50.0,1.0,1.0,1,R$ 2.716,R$ 2.001 Condominio,"R Major Quedinho, 224, Centro, São Paulo, São Paulo, Brasil",-23.5487563,-46.6453498,2716.0
+Centro,Rua Brigadeiro Tobias,64.0,1.0,1.0,0,R$ 2.723,R$ 672 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,2723.0
+Luz,Avenida Tiradentes,52.0,2.0,1.0,1,R$ 2.730,R$ 800 Condominio,"Avenida Tiradentes, Luz, São Paulo, São Paulo, Brasil",-23.5290926,-46.631703,2730.0
+Vila Buarque,Rua General Jardim,26.0,1.0,1.0,0,R$ 2.740,R$ 427 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2740.0
+Vila Buarque,Alameda Barros,36.0,1.0,1.0,1,R$ 2.740,R$ 1.050 Condominio,"Alameda Barros, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5371947,-46.6535713,2740.0
+Vila Buarque,Rua Jaguaribe,24.0,1.0,1.0,0,R$ 2.750,R$ 494 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,2750.0
+Centro,Avenida Prestes Maia,37.0,1.0,1.0,0,R$ 2.750,R$ 498 Condominio,"Avenida Prestes Maia, Centro, São Paulo, São Paulo, Brasil",-23.5396645,-46.6340752,2750.0
+Centro,Avenida Brigadeiro Luís Antônio 323,42.0,1.0,1.0,1,R$ 2.750,R$ 538 Condominio,"Avenida Brigadeiro Luís Antônio 323, Centro, São Paulo, São Paulo, Brasil",-23.5534664,-46.6380562,2750.0
+Vila Buarque,R Jaguaribe,30.0,1.0,1.0,0,R$ 2.750,R$ 580 Condominio,"R Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,2750.0
+Vila Buarque,R Jaguaribe,24.0,1.0,1.0,0,R$ 2.750,R$ 490 Condominio,"R Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,2750.0
+Vila Buarque,Rua Barão de Tatuí,70.0,2.0,1.0,0,R$ 2.755,R$ 850 Condominio,"Rua Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,2755.0
+Centro,Avenida Prestes Maia,37.0,1.0,1.0,0,R$ 2.760,R$ 498 Condominio,"Avenida Prestes Maia, Centro, São Paulo, São Paulo, Brasil",-23.5396645,-46.6340752,2760.0
+Centro,Rua Aurora,25.0,1.0,1.0,0,R$ 2.760,R$ 234 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2760.0
+Vila Buarque,Rua Major Sertório,58.0,2.0,,0,R$ 2.761,R$ 599 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,2761.0
+Vila Buarque,Rua Jaguaribe,44.0,1.0,1.0,1,R$ 2.778,R$ 701 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,2778.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,55.0,2.0,1.0,0,R$ 2.781,R$ 500 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2781.0
+Canindé,Rua Azurita 48,44.0,2.0,1.0,0,R$ 2.799,R$ 240 Condominio,"Rua Azurita 48, Canindé, São Paulo, São Paulo, Brasil",-23.5212051,-46.6174352,2799.0
+Centro,Rua Álvaro de Carvalho,37.0,2.0,1.0,0,R$ 2.800,R$ 600 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,2800.0
+Centro,Rua Aurora,25.0,1.0,1.0,0,R$ 2.800,R$ 366 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2800.0
+Centro,Rua Washington Luís,22.0,1.0,1.0,0,R$ 2.800,R$ 450 Condominio,"Rua Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,2800.0
+Vila Buarque,Rua das Palmeiras,11.0,1.0,1.0,0,R$ 2.800,R$ 350 Condominio,"Rua das Palmeiras, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5373143,-46.6512558,2800.0
+Vila Buarque,Rua Martinico Prado,52.0,2.0,1.0,0,R$ 2.800,R$ 550 Condominio,"Rua Martinico Prado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5426775,-46.6543719,2800.0
+Centro,Rua Martins Fontes,50.0,1.0,1.0,1,R$ 2.800,R$ 834 Condominio,"Rua Martins Fontes, Centro, São Paulo, São Paulo, Brasil",-23.5492334,-46.6442819,2800.0
+Centro,Rua Washington Luís,40.0,1.0,1.0,1,R$ 2.800,R$ 580 Condominio,"Rua Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,2800.0
+Vila Buarque,Rua Imaculada Conceição,80.0,1.0,1.0,1,R$ 2.800,R$ 950 Condominio,"Rua Imaculada Conceição, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5394,-46.6525046,2800.0
+Centro,Rua Florêncio de Abreu,30.0,1.0,1.0,0,R$ 2.800,R$ 600 Condominio,"Rua Florêncio de Abreu, Centro, São Paulo, São Paulo, Brasil",-23.5398983,-46.6328623,2800.0
+Centro,AV Brigadeiro Luís Antônio,42.0,1.0,1.0,1,R$ 2.800,R$ 558 Condominio,"AV Brigadeiro Luís Antônio, Centro, São Paulo, São Paulo, Brasil",-23.5697557,-46.6510449,2800.0
+Centro,AVENIDA SENADOR VERGUEIRO,52.0,2.0,1.0,1,R$ 2.800,R$ 650 Condominio,"AVENIDA SENADOR VERGUEIRO, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,2800.0
+Centro,"Viaduto Nove de Julho, 1050",90.0,2.0,,0,R$ 2.800,R$ 830 Condominio,"Viaduto Nove de Julho, 1050, Centro, São Paulo, São Paulo, Brasil",-23.5526778,-46.6478831,2800.0
+Centro,"Rua Riskallah Jorge, 80",33.0,1.0,1.0,0,R$ 2.800,R$ 380 Condominio,"Rua Riskallah Jorge, 80, Centro, São Paulo, São Paulo, Brasil",-23.5416707,-46.6353568,2800.0
+Sé,Rua Tabatinguera,100.0,2.0,1.0,0,R$ 2.800,R$ 450 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,2800.0
+Centro,Endereço não informado,45.0,1.0,1.0,1,R$ 2.800,R$ 450 Condominio,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,2800.0
+Vila Buarque,Rua Barão de Tatuí,26.0,1.0,1.0,0,R$ 2.810,R$ 535 Condominio,"Rua Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,2810.0
+Vila Buarque,Rua Barão de Tatuí,26.0,1.0,1.0,0,R$ 2.810,R$ 539 Condominio,"Rua Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,2810.0
+Vila Buarque,Rua Martinico Prado,55.0,1.0,1.0,1,R$ 2.810,R$ 1.018 Condominio,"Rua Martinico Prado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5426775,-46.6543719,2810.0
+Centro,Rua Álvaro de Carvalho,65.0,2.0,1.0,1,R$ 2.810,R$ 1.270 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,2810.0
+Centro,Rua Major Quedinho,45.0,1.0,,1,R$ 2.816,R$ 650 Condominio,"Rua Major Quedinho, Centro, São Paulo, São Paulo, Brasil",-23.5497655,-46.6430772,2816.0
+Centro,Rua Aurora,24.0,1.0,1.0,0,R$ 2.830,R$ 366 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2830.0
+Santa Efigênia,Rua Aurora,28.0,1.0,1.0,0,R$ 2.845,R$ 350 Condominio,"Rua Aurora, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,2845.0
+Vila Buarque,Rua Jaguaribe,73.0,2.0,1.0,0,R$ 2.850,R$ 350 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,2850.0
+Vila Buarque,Rua Major Sertório 423,26.0,1.0,1.0,0,R$ 2.850,R$ 319 Condominio,"Rua Major Sertório 423, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5454813,-46.6483404,2850.0
+Vila Buarque,R General Jardim,45.0,1.0,1.0,0,R$ 2.854,R$ 925 Condominio,"R General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2854.0
+Centro,Rua Álvaro de Carvalho,23.0,1.0,1.0,0,R$ 2.860,R$ 550 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,2860.0
+Vila Buarque,Rua Major Sertório,82.0,2.0,,0,R$ 2.879,R$ 800 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,2879.0
+Centro,Rua Álvaro de Carvalho,49.0,2.0,,1,R$ 2.881,R$ 700 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,2881.0
+Vila Buarque,Rua General Jardim,37.0,2.0,1.0,0,R$ 2.900,R$ 600 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2900.0
+Sé,Rua Tabatinguera,98.0,2.0,1.0,0,R$ 2.900,R$ 450 Condominio,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,2900.0
+Centro,Viaduto nove de julho,30.0,1.0,1.0,1,R$ 2.900,R$ 695 Condominio,"Viaduto nove de julho, Centro, São Paulo, São Paulo, Brasil",-23.5492164,-46.6423238,2900.0
+Vila Buarque,Rua Barão de Tatuí,26.0,1.0,1.0,0,R$ 2.900,R$ 573 Condominio,"Rua Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,2900.0
+Vila Buarque,Rua Fortunato,54.0,1.0,,1,R$ 2.900,R$ 771 Condominio,"Rua Fortunato, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5403087,-46.6517888,2900.0
+Vila Buarque,Rua Major Sertório,39.0,2.0,1.0,0,R$ 2.900,R$ 775 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,2900.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,25.0,1.0,1.0,0,R$ 2.900,R$ 440 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2900.0
+Vila Buarque,"Rua Major Sertório, 423",37.0,1.0,1.0,0,R$ 2.900,R$ 480 Condominio,"Rua Major Sertório, 423, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5454813,-46.6483404,2900.0
+Centro,Endereço não informado,53.0,1.0,,1,R$ 2.900,R$ 800 Condominio,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,2900.0
+Vila Buarque,"Rua Jaguaribe, 495",30.0,1.0,1.0,0,R$ 2.900,R$ 384 Condominio,"Rua Jaguaribe, 495, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5417018,-46.6526879,2900.0
+Vila Buarque,"Rua Jaguaribe, 429",57.0,2.0,1.0,0,R$ 2.900,R$ 779 Condominio,"Rua Jaguaribe, 429, Vila Buarque, São Paulo, São Paulo, Brasil",-23.541723,-46.6520252,2900.0
+Centro,Rua Álvaro de Carvalho 429,40.0,1.0,1.0,0,R$ 2.900,R$ 420 Condominio,"Rua Álvaro de Carvalho 429, Centro, São Paulo, São Paulo, Brasil",-23.549668,-46.6445342,2900.0
+Centro,Rua Washington Luís,40.0,1.0,,0,R$ 2.900,,"Rua Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,2900.0
+Centro,Praça Júlio Mesquita,45.0,1.0,1.0,1,R$ 2.910,R$ 560 Condominio,"Praça Júlio Mesquita, Centro, São Paulo, São Paulo, Brasil",-23.5409032,-46.6428636,2910.0
+Vila Buarque,Rua Jaguaribe,33.0,1.0,1.0,0,R$ 2.920,R$ 550 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,2920.0
+Vila Buarque,Rua Amaral Gurgel,110.0,2.0,1.0,0,R$ 2.925,R$ 800 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,2925.0
+Vila Buarque,Rua Maria Antônia,85.0,2.0,1.0,0,R$ 2.934,R$ 708 Condominio,"Rua Maria Antônia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5467645,-46.6504256,2934.0
+Vila Buarque,Rua Jaguaribe,32.0,1.0,1.0,0,R$ 2.950,R$ 416 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,2950.0
+Vila Buarque,Rua Jaguaribe,33.0,1.0,1.0,0,R$ 2.950,R$ 416 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,2950.0
+Vila Buarque,"rua Jaguaribe,",30.0,1.0,1.0,0,R$ 2.950,R$ 606 Condominio,"rua Jaguaribe,, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,2950.0
+Centro,Rua Álvaro de Carvalho,40.0,1.0,,0,R$ 2.950,R$ 371 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,2950.0
+Vila Buarque,R General Jardim,45.0,1.0,1.0,0,R$ 2.964,R$ 925 Condominio,"R General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,2964.0
+Vila Buarque,Rua Canuto do Val,59.0,2.0,1.0,1,R$ 2.970,R$ 1.350 Condominio,"Rua Canuto do Val, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5403087,-46.6517888,2970.0
+Centro,"R Tabatinguera, 462",25.0,1.0,1.0,0,R$ 2.974,R$ 550 Condominio,"R Tabatinguera, 462, Centro, São Paulo, São Paulo, Brasil",-23.5522923,-46.6286231,2974.0
+Sé,Rua Tabatinguera 462,25.0,1.0,1.0,0,R$ 2.974,R$ 550 Condominio,"Rua Tabatinguera 462, Sé, São Paulo, São Paulo, Brasil",-23.5522923,-46.6286231,2974.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,30.0,1.0,1.0,0,R$ 2.980,R$ 619 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2980.0
+Centro,Rua Álvaro de Carvalho,44.0,1.0,1.0,1,R$ 2.980,R$ 720 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,2980.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,30.0,1.0,1.0,0,R$ 2.980,R$ 619 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,2980.0
+Santa Efigênia,"Praça Júlio Mesquita, 113",32.0,1.0,1.0,0,R$ 2.990,R$ 417 Condominio,"Praça Júlio Mesquita, 113, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5408386,-46.6433753,2990.0
+Vila Buarque,Rua Martinico Prado,70.0,2.0,,1,R$ 3.000,R$ 767 Condominio,"Rua Martinico Prado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5426775,-46.6543719,3000.0
+Luz,Rua Vinte E Cinco de Janeiro,44.0,2.0,1.0,1,R$ 3.000,R$ 670 Condominio,"Rua Vinte E Cinco de Janeiro, Luz, São Paulo, São Paulo, Brasil",-23.5354799,-46.6310363,3000.0
+Sé,Rua Riachuelo,106.0,2.0,,0,R$ 3.000,R$ 660 Condominio,"Rua Riachuelo, Sé, São Paulo, São Paulo, Brasil",-23.5506284,-46.6367381,3000.0
+Vila Buarque,Rua Major Sertório,27.0,1.0,1.0,0,R$ 3.000,R$ 335 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,3000.0
+Vila Buarque,Rua Barão de Tatuí,25.0,1.0,1.0,0,R$ 3.000,R$ 500 Condominio,"Rua Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,3000.0
+Vila Buarque,Rua Major Sertório,30.0,1.0,1.0,0,R$ 3.000,R$ 400 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,3000.0
+Vila Buarque,Rua Barão de Tatuí,56.0,2.0,,1,R$ 3.000,R$ 1.017 Condominio,"Rua Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,3000.0
+Vila Buarque,Rua Santa Isabel,40.0,1.0,1.0,1,R$ 3.000,R$ 632 Condominio,"Rua Santa Isabel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5427715,-46.6482353,3000.0
+Vila Buarque,Rua Barão de Tatuí,44.0,1.0,1.0,0,R$ 3.000,R$ 560 Condominio,"Rua Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,3000.0
+Vila Buarque,Rua Barão de Tatuí,25.0,1.0,1.0,0,R$ 3.000,R$ 700 Condominio,"Rua Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,3000.0
+Vila Buarque,Rua Amaral Gurgel,82.0,2.0,,1,R$ 3.000,R$ 1.082 Condominio,"Rua Amaral Gurgel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443915,-46.647709,3000.0
+Vila Buarque,Rua das Palmeiras,44.0,2.0,1.0,0,R$ 3.000,R$ 523 Condominio,"Rua das Palmeiras, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5373143,-46.6512558,3000.0
+Vila Buarque,Rua Jesuíno Pascoal,35.0,1.0,1.0,0,R$ 3.000,R$ 530 Condominio,"Rua Jesuíno Pascoal, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416973,-46.650056,3000.0
+Sé,Avenida Ipiranga,45.0,1.0,1.0,0,R$ 3.000,R$ 850 Condominio,"Avenida Ipiranga, Sé, São Paulo, São Paulo, Brasil",-23.5432344,-46.6413864,3000.0
+Centro,Rua Florêncio de Abreu,24.0,,1.0,1,R$ 3.000,,"Rua Florêncio de Abreu, Centro, São Paulo, São Paulo, Brasil",-23.5398983,-46.6328623,3000.0
+Centro,Rua Brigadeiro Tobias Ap 104,40.0,1.0,1.0,1,R$ 3.000,R$ 640 Condominio,"Rua Brigadeiro Tobias Ap 104, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,3000.0
+Centro,Rua Major Quedinho,36.0,1.0,1.0,0,R$ 3.000,R$ 600 Condominio,"Rua Major Quedinho, Centro, São Paulo, São Paulo, Brasil",-23.5497655,-46.6430772,3000.0
+Centro,Rua Major Quedinho,36.0,1.0,1.0,0,R$ 3.000,R$ 600 Condominio,"Rua Major Quedinho, Centro, São Paulo, São Paulo, Brasil",-23.5497655,-46.6430772,3000.0
+Centro,Endereço não informado,38.0,1.0,1.0,1,R$ 3.000,R$ 570 Condominio,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,3000.0
+Centro,Praça Júlio Mesquita,54.0,1.0,1.0,1,R$ 3.000,R$ 650 Condominio,"Praça Júlio Mesquita, Centro, São Paulo, São Paulo, Brasil",-23.5409032,-46.6428636,3000.0
+Centro,Rua Bento Freitas 202,66.0,1.0,1.0,0,R$ 3.000,R$ 448 Condominio,"Rua Bento Freitas 202, Centro, São Paulo, São Paulo, Brasil",-23.5436605,-46.6456428,3000.0
+Centro,RUA DOS VIANAS,82.0,3.0,,2,R$ 3.000,R$ 581 Condominio,"RUA DOS VIANAS, Centro, São Paulo, São Paulo, Brasil",-23.7000177,-46.5439589,3000.0
+Vila Buarque,Rua Frederico Abranches,100.0,2.0,,0,R$ 3.000,R$ 500 Condominio,"Rua Frederico Abranches, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5398099,-46.6499741,3000.0
+Centro,Endereço não informado,54.0,1.0,1.0,1,R$ 3.000,R$ 1.200 Condominio,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,3000.0
+Centro,R Álvaro de Carvalho,40.0,1.0,1.0,0,R$ 3.000,R$ 420 Condominio,"R Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,3000.0
+Centro,Endereço não informado,73.0,1.0,1.0,1,R$ 3.000,R$ 800 Condominio,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,3000.0
+Centro,"R Dona Antônia de Queirós, 88",40.0,1.0,1.0,1,R$ 3.011,R$ 662 Condominio,"R Dona Antônia de Queirós, 88, Centro, São Paulo, São Paulo, Brasil",-23.5523844,-46.6523002,3011.0
+Sé,Rua Tabatinguera 462,32.0,1.0,1.0,0,R$ 3.028,R$ 547 Condominio,"Rua Tabatinguera 462, Sé, São Paulo, São Paulo, Brasil",-23.5522923,-46.6286231,3028.0
+Vila Buarque,Rua Barão de Tatuí,25.0,1.0,1.0,0,R$ 3.040,R$ 400 Condominio,"Rua Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,3040.0
+Vila Buarque,Rua Jaguaribe,33.0,1.0,1.0,0,R$ 3.060,R$ 500 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,3060.0
+Vila Buarque,Rua Santa Isabel 272,55.0,2.0,1.0,1,R$ 3.070,R$ 1.700 Condominio,"Rua Santa Isabel 272, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5424229,-46.6481651,3070.0
+Sé,Praça da Sé 1,103.0,2.0,,1,R$ 3.087,R$ 1.550 Condominio,"Praça da Sé 1, Sé, São Paulo, São Paulo, Brasil",-23.5493136,-46.6332157,3087.0
+Vila Buarque,Rua Marquês de Itu,70.0,2.0,,1,R$ 3.090,R$ 1.102 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,3090.0
+Vila Buarque,Rua Marquês de Itu,47.0,1.0,1.0,1,R$ 3.100,R$ 970 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,3100.0
+Vila Buarque,Rua Major Sertório,37.0,1.0,1.0,0,R$ 3.100,R$ 453 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,3100.0
+Sé,Rua Tabatinguera,40.0,1.0,1.0,0,R$ 3.100,,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,3100.0
+Centro,Avenida Brigadeiro Luís Antônio 323,42.0,1.0,1.0,1,R$ 3.100,R$ 558 Condominio,"Avenida Brigadeiro Luís Antônio 323, Centro, São Paulo, São Paulo, Brasil",-23.5534664,-46.6380562,3100.0
+Centro,Avenida Brigadeiro Luís Antônio 323,42.0,1.0,1.0,1,R$ 3.100,R$ 558 Condominio,"Avenida Brigadeiro Luís Antônio 323, Centro, São Paulo, São Paulo, Brasil",-23.5534664,-46.6380562,3100.0
+Vila Buarque,Rua Br. de Tatuí 245,44.0,1.0,1.0,0,R$ 3.100,R$ 560 Condominio,"Rua Br. de Tatuí 245, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5381497,-46.6537319,3100.0
+Vila Buarque,Barão de Tatuí,44.0,1.0,1.0,0,R$ 3.100,R$ 560 Condominio,"Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,3100.0
+Centro,AV Brigadeiro Luís Antônio,42.0,1.0,1.0,1,R$ 3.100,R$ 538 Condominio,"AV Brigadeiro Luís Antônio, Centro, São Paulo, São Paulo, Brasil",-23.5697557,-46.6510449,3100.0
+Sé,Praça da Sé 1,84.0,3.0,,1,R$ 3.100,R$ 1.100 Condominio,"Praça da Sé 1, Sé, São Paulo, São Paulo, Brasil",-23.5493136,-46.6332157,3100.0
+Vila Buarque,R Barão de Tatuí,50.0,1.0,1.0,0,R$ 3.100,R$ 560 Condominio,"R Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,3100.0
+Centro,RUA ÁLVARO DE CARVALHO 429,40.0,1.0,1.0,0,R$ 3.100,R$ 370 Condominio,"RUA ÁLVARO DE CARVALHO 429, Centro, São Paulo, São Paulo, Brasil",-23.549668,-46.6445342,3100.0
+Vila Buarque,Rua Fortunato,59.0,2.0,,1,R$ 3.104,R$ 1.000 Condominio,"Rua Fortunato, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5403087,-46.6517888,3104.0
+Centro,"R Dona Antônia de Queirós, 88",40.0,1.0,1.0,1,R$ 3.111,R$ 662 Condominio,"R Dona Antônia de Queirós, 88, Centro, São Paulo, São Paulo, Brasil",-23.5523844,-46.6523002,3111.0
+Centro,Rua Major Quedinho,47.0,1.0,1.0,1,R$ 3.150,R$ 700 Condominio,"Rua Major Quedinho, Centro, São Paulo, São Paulo, Brasil",-23.5497655,-46.6430772,3150.0
+Sé,Rua Tabatinguera,,1.0,1.0,0,R$ 3.150,,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,3150.0
+Sé,Rua Tabatinguera,,1.0,1.0,0,R$ 3.150,,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,3150.0
+Centro,Rua Cristóvão Colombo,,1.0,1.0,0,R$ 3.150,,"Rua Cristóvão Colombo, Centro, São Paulo, São Paulo, Brasil",-23.5506284,-46.6367381,3150.0
+Vila Buarque,Rua Major Sertório,37.0,1.0,1.0,1,R$ 3.160,R$ 343 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,3160.0
+Centro,Rua Major Quedinho,46.0,1.0,1.0,1,R$ 3.161,R$ 550 Condominio,"Rua Major Quedinho, Centro, São Paulo, São Paulo, Brasil",-23.5497655,-46.6430772,3161.0
+Vila Buarque,Rua Barão de Tatuí,26.0,1.0,1.0,0,R$ 3.200,R$ 284 Condominio,"Rua Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,3200.0
+Vila Buarque,Rua Jaguaribe,24.0,1.0,1.0,0,R$ 3.200,R$ 435 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,3200.0
+Vila Buarque,Rua Fortunato,110.0,2.0,1.0,0,R$ 3.200,R$ 1.000 Condominio,"Rua Fortunato, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5403087,-46.6517888,3200.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,30.0,2.0,1.0,0,R$ 3.200,R$ 727 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,3200.0
+Santa Efigênia,Praça Júlio Mesquita,46.0,1.0,1.0,1,R$ 3.200,R$ 411 Condominio,"Praça Júlio Mesquita, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5408406,-46.6424277,3200.0
+Centro,Rua Antônio de Godói,36.0,2.0,1.0,0,R$ 3.200,R$ 260 Condominio,"Rua Antônio de Godói, Centro, São Paulo, São Paulo, Brasil",-23.5422341,-46.6375569,3200.0
+Centro,Rua Antônio de Godói,36.0,1.0,1.0,0,R$ 3.200,R$ 280 Condominio,"Rua Antônio de Godói, Centro, São Paulo, São Paulo, Brasil",-23.5422341,-46.6375569,3200.0
+Centro,Rua Major Quedinho,48.0,1.0,1.0,0,R$ 3.200,R$ 680 Condominio,"Rua Major Quedinho, Centro, São Paulo, São Paulo, Brasil",-23.5497655,-46.6430772,3200.0
+Vila Buarque,Rua Doutor Cesario Mota Junior,30.0,2.0,1.0,0,R$ 3.200,R$ 611 Condominio,"Rua Doutor Cesario Mota Junior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,3200.0
+Centro,Rua Brigadeiro Tobias,35.0,1.0,1.0,0,R$ 3.200,R$ 491 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,3200.0
+Centro,Praça Carlos Gomes,112.0,2.0,,0,R$ 3.200,R$ 882 Condominio,"Praça Carlos Gomes, Centro, São Paulo, São Paulo, Brasil",-23.5533344,-46.6357701,3200.0
+Vila Buarque,Rua Santa Isabel,39.0,,1.0,0,R$ 3.200,R$ 580 Condominio,"Rua Santa Isabel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5427715,-46.6482353,3200.0
+Vila Buarque,"Rua das Palmeiras ,322",40.0,1.0,1.0,1,R$ 3.200,R$ 850 Condominio,"Rua das Palmeiras ,322, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5366161,-46.6517125,3200.0
+Vila Buarque,Rua Maria Antônia,36.0,1.0,1.0,1,R$ 3.230,R$ 572 Condominio,"Rua Maria Antônia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5467645,-46.6504256,3230.0
+Vila Buarque,Rua Major Sertório,26.0,1.0,1.0,0,R$ 3.250,R$ 400 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,3250.0
+Centro,Praça Carlos Gomes,110.0,2.0,1.0,0,R$ 3.250,R$ 764 Condominio,"Praça Carlos Gomes, Centro, São Paulo, São Paulo, Brasil",-23.5533344,-46.6357701,3250.0
+Santa Efigênia,Praça Júlio Mesquita,43.0,1.0,1.0,1,R$ 3.270,R$ 450 Condominio,"Praça Júlio Mesquita, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5408406,-46.6424277,3270.0
+Centro,Rua Major Quedinho,99.0,3.0,,0,R$ 3.300,R$ 750 Condominio,"Rua Major Quedinho, Centro, São Paulo, São Paulo, Brasil",-23.5497655,-46.6430772,3300.0
+Vila Buarque,Rua Martinico Prado,85.0,2.0,,1,R$ 3.300,R$ 1.123 Condominio,"Rua Martinico Prado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5426775,-46.6543719,3300.0
+Vila Buarque,Rua Jaguaribe,30.0,1.0,1.0,0,R$ 3.300,R$ 383 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,3300.0
+Centro,Rua Aurora,50.0,1.0,1.0,1,R$ 3.300,R$ 700 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,3300.0
+Vila Buarque,"R Martim Francisco, 506",45.0,2.0,,1,R$ 3.300,R$ 880 Condominio,"R Martim Francisco, 506, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5409772,-46.65430449999999,3300.0
+Centro,AV BRIGADEIRO LUÍS ANTÔNIO,42.0,1.0,,1,R$ 3.300,R$ 558 Condominio,"AV BRIGADEIRO LUÍS ANTÔNIO, Centro, São Paulo, São Paulo, Brasil",-23.5697557,-46.6510449,3300.0
+Vila Buarque,Rua Jaguaribe,34.0,1.0,1.0,1,R$ 3.375,R$ 1.300 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,3375.0
+Vila Buarque,Rua Doutor Vila Nova,59.0,1.0,1.0,1,R$ 3.390,R$ 1.122 Condominio,"Rua Doutor Vila Nova, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5457054,-46.6503305,3390.0
+Canindé,Rua Carnot,110.0,2.0,1.0,0,R$ 3.390,,"Rua Carnot, Canindé, São Paulo, São Paulo, Brasil",-23.5313102,-46.6223271,3390.0
+Sé,Rua Tabatinguera,,1.0,1.0,0,R$ 3.390,,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,3390.0
+Ponte Pequena,Rua Americanos,58.0,2.0,,1,R$ 3.394,R$ 680 Condominio,"Rua Americanos, Ponte Pequena, São Paulo, São Paulo, Brasil",-23.5227572,-46.6554847,3394.0
+Vila Buarque,R General Jardim,70.0,2.0,,1,R$ 3.394,R$ 1.345 Condominio,"R General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,3394.0
+Centro,Praça Pedro Lessa,38.0,1.0,1.0,0,R$ 3.400,R$ 700 Condominio,"Praça Pedro Lessa, Centro, São Paulo, São Paulo, Brasil",-23.5431624,-46.6359519,3400.0
+Centro,Rua Dom Francisco de Sousa,130.0,3.0,,0,R$ 3.400,R$ 1.070 Condominio,"Rua Dom Francisco de Sousa, Centro, São Paulo, São Paulo, Brasil",-23.5403663,-46.6344295,3400.0
+Centro,Rua Álvaro de Carvalho 429,38.0,1.0,1.0,0,R$ 3.400,R$ 450 Condominio,"Rua Álvaro de Carvalho 429, Centro, São Paulo, São Paulo, Brasil",-23.549668,-46.6445342,3400.0
+Centro,RUA ÁLVARO DE CARVALHO,36.0,1.0,,0,R$ 3.400,R$ 370 Condominio,"RUA ÁLVARO DE CARVALHO, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,3400.0
+Vila Buarque,"Rua Imaculada Conceição ,28",113.0,3.0,,1,R$ 3.400,R$ 1.150 Condominio,"Rua Imaculada Conceição ,28, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5391725,-46.65264519999999,3400.0
+Centro,Rua Washington Luís,40.0,1.0,1.0,1,R$ 3.400,R$ 530 Condominio,"Rua Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,3400.0
+Centro,Avenida Ipiranga,32.0,1.0,1.0,0,R$ 3.450,R$ 550 Condominio,"Avenida Ipiranga, Centro, São Paulo, São Paulo, Brasil",-23.5405282,-46.6379755,3450.0
+Vila Buarque,Rua das palmeiras,58.0,1.0,1.0,1,R$ 3.450,,"Rua das palmeiras, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5373143,-46.6512558,3450.0
+Santa Efigênia,Praça Júlio Mesquita,45.0,1.0,1.0,1,R$ 3.465,R$ 500 Condominio,"Praça Júlio Mesquita, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5408406,-46.6424277,3465.0
+Centro,Praça Júlio Mesquita,48.0,1.0,1.0,1,R$ 3.500,R$ 550 Condominio,"Praça Júlio Mesquita, Centro, São Paulo, São Paulo, Brasil",-23.5409032,-46.6428636,3500.0
+Vila Buarque,Largo Santa Cecília,98.0,2.0,,0,R$ 3.500,R$ 450 Condominio,"Largo Santa Cecília, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5391771,-46.6500331,3500.0
+Canindé,Endereço não informado,45.0,2.0,1.0,1,R$ 3.500,R$ 300 Condominio,"Endereço não informado, Canindé, São Paulo, São Paulo, Brasil",-23.5274925,-46.61892719999999,3500.0
+Centro,Avenida Brigadeiro Luís Antônio,40.0,1.0,1.0,1,R$ 3.500,R$ 538 Condominio,"Avenida Brigadeiro Luís Antônio, Centro, São Paulo, São Paulo, Brasil",-23.5697557,-46.6510449,3500.0
+Centro,Avenida Brigadeiro Luís Antônio 339,42.0,1.0,1.0,1,R$ 3.500,R$ 538 Condominio,"Avenida Brigadeiro Luís Antônio 339, Centro, São Paulo, São Paulo, Brasil",-23.5538099,-46.6377426,3500.0
+Centro,TRAVESSA MARECHAL DEODORO,60.0,2.0,1.0,2,R$ 3.500,R$ 419 Condominio,"TRAVESSA MARECHAL DEODORO, Centro, São Paulo, São Paulo, Brasil",-23.7008683,-46.5511942,3500.0
+Vila Buarque,Endereço não informado,80.0,2.0,1.0,1,R$ 3.500,R$ 1.700 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,3500.0
+Centro,RUA SILVA JARDIM,270.0,4.0,1.0,2,R$ 3.500,R$ 2.300 Condominio,"RUA SILVA JARDIM, Centro, São Paulo, São Paulo, Brasil",-23.5431795,-46.5930865,3500.0
+Vila Buarque,Endereço não informado,,,,0,R$ 3.500,,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,3500.0
+Vila Buarque,Jesuíno Pascoal,92.0,2.0,,0,R$ 3.500,R$ 950 Condominio,"Jesuíno Pascoal, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416973,-46.650056,3500.0
+Centro,RUA BRASILIO MACHADO,80.0,3.0,1.0,2,R$ 3.500,R$ 649 Condominio,"RUA BRASILIO MACHADO, Centro, São Paulo, São Paulo, Brasil",-23.7183719,-46.5455899,3500.0
+Vila Buarque,Jesuíno Pascoal,92.0,2.0,,1,R$ 3.500,R$ 950 Condominio,"Jesuíno Pascoal, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416973,-46.650056,3500.0
+Centro,RUA SANTOS DUMONT,70.0,2.0,1.0,2,R$ 3.500,R$ 620 Condominio,"RUA SANTOS DUMONT, Centro, São Paulo, São Paulo, Brasil",-23.4763958,-46.7646662,3500.0
+Centro,TRAVESSA MARECHAL DEODORO,60.0,2.0,1.0,2,R$ 3.500,R$ 419 Condominio,"TRAVESSA MARECHAL DEODORO, Centro, São Paulo, São Paulo, Brasil",-23.7008683,-46.5511942,3500.0
+Centro,Rua Washington Luís,40.0,1.0,1.0,1,R$ 3.500,R$ 500 Condominio,"Rua Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,3500.0
+Canindé,"Rua Canindé, 131",45.0,2.0,1.0,1,R$ 3.500,R$ 300 Condominio,"Rua Canindé, 131, Canindé, São Paulo, São Paulo, Brasil",-23.5333553,-46.624173,3500.0
+Vila Buarque,Endereço não informado,54.0,1.0,,1,R$ 3.500,,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,3500.0
+Vila Buarque,Endereço não informado,42.0,1.0,1.0,1,R$ 3.500,R$ 700 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,3500.0
+Vila Buarque,Rua Marques de Itu 495,105.0,2.0,,0,R$ 3.500,R$ 1.310 Condominio,"Rua Marques de Itu 495, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5439204,-46.6491672,3500.0
+Vila Buarque,R Major Sertório,27.0,1.0,1.0,0,R$ 3.500,R$ 420 Condominio,"R Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5455333,-46.6471412,3500.0
+Centro,Avenida Cásper Líbero,44.0,1.0,1.0,0,R$ 3.525,R$ 550 Condominio,"Avenida Cásper Líbero, Centro, São Paulo, São Paulo, Brasil",-23.539054,-46.636087,3525.0
+Sé,Rua Conde de Sarzedas,24.0,1.0,1.0,0,R$ 3.525,R$ 350 Condominio,"Rua Conde de Sarzedas, Sé, São Paulo, São Paulo, Brasil",-23.5539785,-46.6310649,3525.0
+Vila Buarque,Rua Martim Francisco,78.0,2.0,1.0,0,R$ 3.600,R$ 766 Condominio,"Rua Martim Francisco, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5400958,-46.6531879,3600.0
+Sé,Rua Tabatinguera 430,30.0,1.0,1.0,1,R$ 3.600,R$ 400 Condominio,"Rua Tabatinguera 430, Sé, São Paulo, São Paulo, Brasil",-23.5523693,-46.6287883,3600.0
+Sé,Tabatinguera,30.0,1.0,1.0,1,R$ 3.600,R$ 400 Condominio,"Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,3600.0
+Centro,Rua Major Quedinho 224,47.0,1.0,,1,R$ 3.600,R$ 998 Condominio,"Rua Major Quedinho 224, Centro, São Paulo, São Paulo, Brasil",-23.5487563,-46.6453498,3600.0
+Vila Buarque,Endereço não informado,54.0,1.0,1.0,0,R$ 3.600,R$ 400 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,3600.0
+Vila Buarque,Rua Santa Isabel nº 272 apto 001,50.0,1.0,1.0,1,R$ 3.650,R$ 615 Condominio,"Rua Santa Isabel nº 272 apto 001, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5424229,-46.6481651,3650.0
+Centro,Rua Major Quedinho,47.0,1.0,,1,R$ 3.660,R$ 850 Condominio,"Rua Major Quedinho, Centro, São Paulo, São Paulo, Brasil",-23.5497655,-46.6430772,3660.0
+Vila Buarque,Rua Santa Isabel,40.0,1.0,1.0,1,R$ 3.698,R$ 515 Condominio,"Rua Santa Isabel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5427715,-46.6482353,3698.0
+Centro,AV BRIGADEIRO LUÍS ANTÔNIO,42.0,1.0,1.0,1,R$ 3.700,R$ 538 Condominio,"AV BRIGADEIRO LUÍS ANTÔNIO, Centro, São Paulo, São Paulo, Brasil",-23.5697557,-46.6510449,3700.0
+Vila Buarque,"Rua Duarte de Freitas,",37.0,1.0,,1,R$ 3.700,,"Rua Duarte de Freitas,, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5417051,-46.650918,3700.0
+Centro,Endereço não informado,42.0,1.0,1.0,1,R$ 3.700,R$ 538 Condominio,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,3700.0
+Sé,Rua dos Estudantes,28.0,1.0,1.0,0,R$ 3.750,R$ 380 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,3750.0
+Vila Buarque,Rua Áureliano Coutinho,90.0,2.0,,1,R$ 3.760,R$ 1.100 Condominio,"Rua Áureliano Coutinho, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5418812,-46.6531833,3760.0
+Vila Buarque,Rua General Jardim,33.0,1.0,1.0,0,R$ 3.780,R$ 650 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,3780.0
+Vila Buarque,Rua General Jardim,34.0,2.0,1.0,0,R$ 3.800,R$ 750 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,3800.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,47.0,1.0,1.0,0,R$ 3.800,R$ 650 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,3800.0
+Vila Buarque,Rua Jaguaribe,48.0,1.0,,1,R$ 3.800,R$ 780 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,3800.0
+Centro,AV Brigadeiro Luís Antônio,42.0,1.0,1.0,1,R$ 3.800,R$ 538 Condominio,"AV Brigadeiro Luís Antônio, Centro, São Paulo, São Paulo, Brasil",-23.5697557,-46.6510449,3800.0
+Centro,Washington Luís,22.0,1.0,1.0,0,R$ 3.800,R$ 420 Condominio,"Washington Luís, Centro, São Paulo, São Paulo, Brasil",-23.5378587,-46.6341964,3800.0
+Sé,Rua Tabatinguera,,1.0,1.0,0,R$ 3.840,,"Rua Tabatinguera, Sé, São Paulo, São Paulo, Brasil",-23.5524974,-46.6296068,3840.0
+Vila Buarque,Rua Santa Isabel 272 APTO 02,55.0,1.0,,1,R$ 3.850,R$ 515 Condominio,"Rua Santa Isabel 272 APTO 02, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5424229,-46.6481651,3850.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,25.0,1.0,1.0,1,R$ 3.867,,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,3867.0
+Vila Buarque,Rua das Palmeiras,33.0,1.0,1.0,0,R$ 3.900,R$ 896 Condominio,"Rua das Palmeiras, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5373143,-46.6512558,3900.0
+Centro,R Aguiar de Barros,48.0,1.0,1.0,1,R$ 3.900,R$ 476 Condominio,"R Aguiar de Barros, Centro, São Paulo, São Paulo, Brasil",-23.553852,-46.6396003,3900.0
+Vila Buarque,Jaguaribe,47.0,1.0,,1,R$ 3.900,R$ 882 Condominio,"Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,3900.0
+Centro,AV BRIGADEIRO LUÍS ANTÔNIO,58.0,2.0,1.0,1,R$ 3.900,R$ 715 Condominio,"AV BRIGADEIRO LUÍS ANTÔNIO, Centro, São Paulo, São Paulo, Brasil",-23.5697557,-46.6510449,3900.0
+Centro,Endereço não informado,58.0,2.0,1.0,1,R$ 3.900,R$ 715 Condominio,"Endereço não informado, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,3900.0
+Vila Buarque,Rua Marquês Itu,73.0,2.0,,1,R$ 3.940,R$ 1.009 Condominio,"Rua Marquês Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,3940.0
+Santa Efigênia,Julio Mesquita,70.0,1.0,1.0,0,R$ 4.000,R$ 562 Condominio,"Julio Mesquita, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.554823,-46.6436255,4000.0
+Centro,Rua Brigadeiro Tobias,30.0,1.0,1.0,0,R$ 4.000,R$ 550 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,4000.0
+Centro,Praça Júlio Mesquita,45.0,1.0,1.0,1,R$ 4.000,R$ 800 Condominio,"Praça Júlio Mesquita, Centro, São Paulo, São Paulo, Brasil",-23.5409032,-46.6428636,4000.0
+Centro,Rua Brigadeiro Tobias,30.0,1.0,1.0,1,R$ 4.000,R$ 520 Condominio,"Rua Brigadeiro Tobias, Centro, São Paulo, São Paulo, Brasil",-23.539384,-46.6350407,4000.0
+Vila Buarque,Rua Major Sertório,35.0,1.0,1.0,0,R$ 4.000,R$ 453 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,4000.0
+Centro,Rua Álvaro de Carvalho,25.0,1.0,1.0,0,R$ 4.000,R$ 510 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,4000.0
+Santa Efigênia,Endereço não informado,54.0,1.0,1.0,1,R$ 4.000,R$ 567 Condominio,"Endereço não informado, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5376549,-46.6385252,4000.0
+Centro,Avenida Duque de Caxias 20,113.0,2.0,,0,R$ 4.000,R$ 1.000 Condominio,"Avenida Duque de Caxias 20, Centro, São Paulo, São Paulo, Brasil",-23.5413254,-46.64650349999999,4000.0
+Vila Buarque,Rua Marquês de Itu 836,85.0,2.0,1.0,1,R$ 4.000,R$ 2.500 Condominio,"Rua Marquês de Itu 836, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5435772,-46.6524276,4000.0
+Sé,Praça da Sé 1,110.0,3.0,,2,R$ 4.000,R$ 1.815 Condominio,"Praça da Sé 1, Sé, São Paulo, São Paulo, Brasil",-23.5493136,-46.6332157,4000.0
+Centro,PRAÇA JÚLIO MESQUITA,54.0,2.0,1.0,0,R$ 4.000,R$ 562 Condominio,"PRAÇA JÚLIO MESQUITA, Centro, São Paulo, São Paulo, Brasil",-23.5409032,-46.6428636,4000.0
+Santa Efigênia,Praça Júlio Mesquita 20,54.0,2.0,1.0,0,R$ 4.000,R$ 562 Condominio,"Praça Júlio Mesquita 20, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5410019,-46.64215859999999,4000.0
+Centro,Rua Aurora,102.0,,,0,R$ 4.000,R$ 2.200 Condominio,"Rua Aurora, Centro, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,4000.0
+Centro,rua martins fontes 379,61.0,,1.0,1,R$ 4.000,R$ 568 Condominio,"rua martins fontes 379, Centro, São Paulo, São Paulo, Brasil",-23.5499868,-46.6456215,4000.0
+Santa Efigênia,Praça Júlio Mesquita 20,54.0,2.0,1.0,0,R$ 4.000,R$ 562 Condominio,"Praça Júlio Mesquita 20, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5410019,-46.64215859999999,4000.0
+Santa Efigênia,Rua Aurora,69.0,2.0,,1,R$ 4.050,R$ 856 Condominio,"Rua Aurora, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5390208,-46.6387669,4050.0
+Centro,Parque Anhangabaú,74.0,1.0,1.0,0,R$ 4.050,R$ 440 Condominio,"Parque Anhangabaú, Centro, São Paulo, São Paulo, Brasil",-23.5473843,-46.6395454,4050.0
+Vila Buarque,Rua Jaguaribe,130.0,3.0,,0,R$ 4.070,R$ 647 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,4070.0
+Vila Buarque,Rua Martinico Prado,70.0,2.0,,1,R$ 4.100,R$ 990 Condominio,"Rua Martinico Prado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5426775,-46.6543719,4100.0
+Centro,AV Brigadeiro Luís Antônio,58.0,1.0,1.0,1,R$ 4.100,R$ 714 Condominio,"AV Brigadeiro Luís Antônio, Centro, São Paulo, São Paulo, Brasil",-23.5697557,-46.6510449,4100.0
+Centro,Rua Álvaro de Carvalho,42.0,1.0,1.0,0,R$ 4.200,R$ 530 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,4200.0
+Vila Buarque,Rua Doutor Cesário Mota Júnior,35.0,2.0,1.0,0,R$ 4.200,R$ 626 Condominio,"Rua Doutor Cesário Mota Júnior, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453759,-46.6489592,4200.0
+Centro,R Aguiar de Barros,67.0,2.0,,1,R$ 4.200,R$ 1.010 Condominio,"R Aguiar de Barros, Centro, São Paulo, São Paulo, Brasil",-23.553852,-46.6396003,4200.0
+Centro,Rua Álvaro de Carvalho 429,55.0,2.0,1.0,0,R$ 4.200,R$ 520 Condominio,"Rua Álvaro de Carvalho 429, Centro, São Paulo, São Paulo, Brasil",-23.549668,-46.6445342,4200.0
+Centro,Praça Júlio Mesquita,60.0,2.0,,1,R$ 4.220,R$ 650 Condominio,"Praça Júlio Mesquita, Centro, São Paulo, São Paulo, Brasil",-23.5409032,-46.6428636,4220.0
+Vila Buarque,Rua Martinico Prado,62.0,2.0,,1,R$ 4.274,R$ 1.020 Condominio,"Rua Martinico Prado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5426775,-46.6543719,4274.0
+Vila Buarque,Marques De Itu,70.0,2.0,1.0,1,R$ 4.300,,"Marques De Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,4300.0
+Vila Buarque,Rua Santa Isabel nº 272 apto 004,70.0,2.0,1.0,1,R$ 4.450,R$ 700 Condominio,"Rua Santa Isabel nº 272 apto 004, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5424229,-46.6481651,4450.0
+Vila Buarque,Rua Santa Isabel,52.0,2.0,1.0,1,R$ 4.470,R$ 500 Condominio,"Rua Santa Isabel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5427715,-46.6482353,4470.0
+Centro,Rua Martins Fontes,63.0,2.0,,1,R$ 4.500,R$ 1.000 Condominio,"Rua Martins Fontes, Centro, São Paulo, São Paulo, Brasil",-23.5492334,-46.6442819,4500.0
+Centro,AV Nove de Julho,35.0,1.0,1.0,1,R$ 4.500,R$ 550 Condominio,"AV Nove de Julho, Centro, São Paulo, São Paulo, Brasil",-23.5665948,-46.6587092,4500.0
+Centro,AV Nove de Julho,40.0,1.0,1.0,0,R$ 4.500,R$ 550 Condominio,"AV Nove de Julho, Centro, São Paulo, São Paulo, Brasil",-23.5665948,-46.6587092,4500.0
+Vila Buarque,R Marquês de Itu,73.0,2.0,,1,R$ 4.500,R$ 1.200 Condominio,"R Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,4500.0
+Vila Buarque,Rua Major Sertório 1,56.0,2.0,1.0,0,R$ 4.500,R$ 560 Condominio,"Rua Major Sertório 1, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5455236,-46.6442577,4500.0
+Centro,R ANDRÉ DREYFUS,105.0,2.0,,1,R$ 4.500,R$ 900 Condominio,"R ANDRÉ DREYFUS, Centro, São Paulo, São Paulo, Brasil",-23.5423421,-46.6786137,4500.0
+Vila Buarque,Rua Major Sertório,56.0,2.0,1.0,0,R$ 4.500,R$ 560 Condominio,"Rua Major Sertório, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5453915,-46.6487475,4500.0
+Centro,RUA AMERICO BRASILIENSE,84.0,2.0,,2,R$ 4.500,R$ 891 Condominio,"RUA AMERICO BRASILIENSE, Centro, São Paulo, São Paulo, Brasil",-23.6328078,-46.6996412,4500.0
+Centro,Largo do Arouche,35.0,1.0,1.0,0,R$ 4.600,R$ 650 Condominio,"Largo do Arouche, Centro, São Paulo, São Paulo, Brasil",-23.5409853,-46.646582,4600.0
+Centro,Largo do Arouche,35.0,1.0,1.0,0,R$ 4.600,R$ 650 Condominio,"Largo do Arouche, Centro, São Paulo, São Paulo, Brasil",-23.5409853,-46.646582,4600.0
+Vila Buarque,"Rua General Jardim, 638 Ap 31",57.0,2.0,1.0,0,R$ 4.600,R$ 580 Condominio,"Rua General Jardim, 638 Ap 31, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5443952,-46.6507337,4600.0
+Centro,Largo do Arouche,35.0,1.0,1.0,0,R$ 4.600,R$ 650 Condominio,"Largo do Arouche, Centro, São Paulo, São Paulo, Brasil",-23.5409853,-46.646582,4600.0
+Vila Buarque,Rua Barão de Tatuí,120.0,1.0,1.0,1,R$ 4.732,R$ 1.017 Condominio,"Rua Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,4732.0
+Centro,Rua Major Quedinho,49.0,1.0,,1,R$ 4.750,R$ 800 Condominio,"Rua Major Quedinho, Centro, São Paulo, São Paulo, Brasil",-23.5497655,-46.6430772,4750.0
+Vila Buarque,"R Jaguaribe, 370",100.0,3.0,,0,R$ 4.750,R$ 647 Condominio,"R Jaguaribe, 370, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5415831,-46.65142830000001,4750.0
+Vila Buarque,Jaguaribe,130.0,3.0,,0,R$ 4.750,R$ 647 Condominio,"Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,4750.0
+Vila Buarque,"Rua Jaguaribe, 370",130.0,2.0,1.0,0,R$ 4.750,R$ 647 Condominio,"Rua Jaguaribe, 370, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5415831,-46.65142830000001,4750.0
+Vila Buarque,Rua Jaguaribe,130.0,3.0,,0,R$ 4.750,R$ 647 Condominio,"Rua Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,4750.0
+Centro,Praça Pedro Lessa,76.0,1.0,,0,R$ 4.800,R$ 1.400 Condominio,"Praça Pedro Lessa, Centro, São Paulo, São Paulo, Brasil",-23.5431624,-46.6359519,4800.0
+Centro,AVENIDA DUQUE DE CAXIAS,222.0,3.0,,0,R$ 4.800,R$ 1.100 Condominio,"AVENIDA DUQUE DE CAXIAS, Centro, São Paulo, São Paulo, Brasil",-23.5378316,-46.6442562,4800.0
+Santa Efigênia,Praça Júlio Mesquita,65.0,2.0,,1,R$ 4.813,R$ 750 Condominio,"Praça Júlio Mesquita, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5408406,-46.6424277,4813.0
+Vila Buarque,"Rua Jaguaribe, 649 5ºandar",34.0,1.0,1.0,1,R$ 4.863,R$ 670 Condominio,"Rua Jaguaribe, 649 5ºandar, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5418047,-46.6543313,4863.0
+Sé,Rua dos Estudantes,27.0,1.0,1.0,0,R$ 4.875,R$ 390 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,4875.0
+Vila Buarque,Rua Jaguaribe 463,140.0,2.0,,1,R$ 4.900,R$ 1.100 Condominio,"Rua Jaguaribe 463, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5418336,-46.6524339,4900.0
+Santa Efigênia,Praça Júlio Mesquita,47.0,1.0,1.0,1,R$ 5.000,R$ 500 Condominio,"Praça Júlio Mesquita, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5408406,-46.6424277,5000.0
+Vila Buarque,Rua Santa Isabel,162.0,2.0,,0,R$ 5.000,R$ 1.020 Condominio,"Rua Santa Isabel, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5427715,-46.6482353,5000.0
+Santa Efigênia,Praça Júlio Mesquita,62.0,1.0,1.0,1,R$ 5.000,R$ 521 Condominio,"Praça Júlio Mesquita, Santa Efigênia, São Paulo, São Paulo, Brasil",-23.5408406,-46.6424277,5000.0
+Centro,"AV São Luís 268, 268",174.0,3.0,,0,R$ 5.000,R$ 1.698 Condominio,"AV São Luís 268, 268, Centro, São Paulo, São Paulo, Brasil",-23.5474694,-46.6430534,5000.0
+Centro,R Paim,45.0,1.0,,1,R$ 5.000,R$ 520 Condominio,"R Paim, Centro, São Paulo, São Paulo, Brasil",-23.5540332,-46.6502354,5000.0
+Centro,RUA SILVA JARDIM,138.0,3.0,,2,R$ 5.000,R$ 758 Condominio,"RUA SILVA JARDIM, Centro, São Paulo, São Paulo, Brasil",-23.5431795,-46.5930865,5000.0
+Sé,Praça da Sé 219,102.0,3.0,,2,R$ 5.000,R$ 1.128 Condominio,"Praça da Sé 219, Sé, São Paulo, São Paulo, Brasil",-23.5507909,-46.6344861,5000.0
+Centro,Rua Álvaro de Carvalho,55.0,2.0,1.0,0,R$ 5.116,R$ 500 Condominio,"Rua Álvaro de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5491833,-46.6425156,5116.0
+Vila Buarque,Rua Maria Antônia,132.0,3.0,,0,R$ 5.150,R$ 1.086 Condominio,"Rua Maria Antônia, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5467645,-46.6504256,5150.0
+Centro,RUA TOME DE SOUSA,136.0,3.0,,2,R$ 5.200,R$ 877 Condominio,"RUA TOME DE SOUSA, Centro, São Paulo, São Paulo, Brasil",-23.5264278,-46.7119386,5200.0
+Centro,Avenida Ipiranga,67.0,1.0,1.0,0,R$ 5.500,R$ 1.300 Condominio,"Avenida Ipiranga, Centro, São Paulo, São Paulo, Brasil",-23.5405282,-46.6379755,5500.0
+Centro,Rua Major Quedinho,65.0,2.0,,1,R$ 5.500,R$ 1.145 Condominio,"Rua Major Quedinho, Centro, São Paulo, São Paulo, Brasil",-23.5497655,-46.6430772,5500.0
+Vila Buarque,Rua Barão de Tatuí,90.0,1.0,,1,R$ 5.700,R$ 875 Condominio,"Rua Barão de Tatuí, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5382464,-46.6538963,5700.0
+Centro,Avenida Vieira de Carvalho,283.0,4.0,,1,R$ 5.970,R$ 2.000 Condominio,"Avenida Vieira de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5414358,-46.6442346,5970.0
+Centro,Avenida Vieira de Carvalho,238.0,4.0,,0,R$ 5.970,R$ 2.000 Condominio,"Avenida Vieira de Carvalho, Centro, São Paulo, São Paulo, Brasil",-23.5414358,-46.6442346,5970.0
+Centro,Rua Augusta,145.0,2.0,1.0,0,R$ 6.000,R$ 650 Condominio,"Rua Augusta, Centro, São Paulo, São Paulo, Brasil",-23.5569581,-46.6589677,6000.0
+Sé,Rua dos Estudantes,40.0,2.0,1.0,0,R$ 6.000,R$ 360 Condominio,"Rua dos Estudantes, Sé, São Paulo, São Paulo, Brasil",-23.5553712,-46.6317971,6000.0
+Centro,AV Paulista,82.0,2.0,,0,R$ 6.000,R$ 960 Condominio,"AV Paulista, Centro, São Paulo, São Paulo, Brasil",-23.5613545,-46.6564943,6000.0
+Vila Buarque,"Rua Marquês de Itu, 836",70.0,2.0,,1,R$ 6.000,R$ 1.500 Condominio,"Rua Marquês de Itu, 836, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5435772,-46.6524276,6000.0
+Centro,"Viela dos Ingleses, 524",214.0,3.0,,2,R$ 6.000,R$ 4.599 Condominio,"Viela dos Ingleses, 524, Centro, São Paulo, São Paulo, Brasil",-23.5406338,-46.6320967,6000.0
+Sé,Praça da Sé 1,81.0,2.0,,1,R$ 6.000,R$ 590 Condominio,"Praça da Sé 1, Sé, São Paulo, São Paulo, Brasil",-23.5493136,-46.6332157,6000.0
+Sé,Praça da Sé 1,170.0,3.0,,2,R$ 6.232,R$ 1.329 Condominio,"Praça da Sé 1, Sé, São Paulo, São Paulo, Brasil",-23.5493136,-46.6332157,6232.0
+Sé,Praça da Sé 1,77.0,1.0,1.0,2,R$ 6.500,R$ 800 Condominio,"Praça da Sé 1, Sé, São Paulo, São Paulo, Brasil",-23.5493136,-46.6332157,6500.0
+Luz,AV Tiradentes,137.0,,,6,R$ 7.000,,"AV Tiradentes, Luz, São Paulo, São Paulo, Brasil",-23.5290926,-46.631703,7000.0
+Vila Buarque,Rua Aureliano Coutinho,275.0,4.0,,3,R$ 7.067,R$ 4.400 Condominio,"Rua Aureliano Coutinho, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5418812,-46.6531833,7067.0
+Vila Buarque,Rua Martinico Prado,149.0,3.0,,1,R$ 7.350,R$ 2.410 Condominio,"Rua Martinico Prado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5426775,-46.6543719,7350.0
+Vila Buarque,R Martinico Prado,149.0,3.0,,1,R$ 7.350,R$ 2.694 Condominio,"R Martinico Prado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5426775,-46.6543719,7350.0
+Vila Buarque,Rua Marquês de Itu,262.0,4.0,,2,R$ 7.500,R$ 2.120 Condominio,"Rua Marquês de Itu, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5437626,-46.6498096,7500.0
+Vila Buarque,Rua Martinico Prado,218.0,3.0,,2,R$ 7.800,R$ 2.000 Condominio,"Rua Martinico Prado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5426775,-46.6543719,7800.0
+Sé,Praça da Sé 1,116.0,2.0,,3,R$ 8.000,R$ 1.750 Condominio,"Praça da Sé 1, Sé, São Paulo, São Paulo, Brasil",-23.5493136,-46.6332157,8000.0
+Vila Buarque,Rua Aureliano Coutinho,275.0,4.0,,4,R$ 8.490,R$ 4.390 Condominio,"Rua Aureliano Coutinho, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5418812,-46.6531833,8490.0
+Vila Buarque,R. Aureliano Coutinho,275.0,4.0,,4,R$ 8.490,R$ 4.390 Condominio,"R. Aureliano Coutinho, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5418812,-46.6531833,8490.0
+Vila Buarque,Rua Aureliano Coutinho 355,275.0,4.0,,4,R$ 8.490,R$ 4.390 Condominio,"Rua Aureliano Coutinho 355, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5432981,-46.65295709999999,8490.0
+Vila Buarque,Endereço não informado,275.0,4.0,,4,R$ 8.490,R$ 4.390 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,8490.0
+Sé,Endereço não informado,100.0,3.0,,2,R$ 8.500,R$ 1.525 Condominio,"Endereço não informado, Sé, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,8500.0
+Vila Buarque,Aureliano Coutinho,275.0,4.0,,4,R$ 8.990,R$ 4.392 Condominio,"Aureliano Coutinho, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5418812,-46.6531833,8990.0
+Vila Buarque,R Aureliano Coutinho,275.0,4.0,,4,R$ 8.990,R$ 4.390 Condominio,"R Aureliano Coutinho, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5418812,-46.6531833,8990.0
+Vila Buarque,Rua Aureliano Coutinho,299.0,3.0,,3,R$ 9.225,R$ 4.400 Condominio,"Rua Aureliano Coutinho, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5418812,-46.6531833,9225.0
+Centro,Rua Mauá,300.0,3.0,,0,R$ 9.450,R$ 400 Condominio,"Rua Mauá, Centro, São Paulo, São Paulo, Brasil",-23.5357787,-46.6339497,9450.0
+Vila Buarque,Rua Áureliano Coutinho,275.0,4.0,,3,R$ 10.000,R$ 4.400 Condominio,"Rua Áureliano Coutinho, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5418812,-46.6531833,10000.0
+Vila Buarque,"R Aureliano Coutinho, 0355",275.0,4.0,,4,R$ 10.000,R$ 4.390 Condominio,"R Aureliano Coutinho, 0355, Vila Buarque, São Paulo, São Paulo, Brasil",-23.543363,-46.6530429,10000.0
+Vila Buarque,Endereço não informado,275.0,4.0,,4,R$ 10.000,R$ 4.400 Condominio,"Endereço não informado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.6349061,-46.7008844,10000.0
+Vila Buarque,Rua Aureliano Coutinho,275.0,4.0,,4,R$ 10.000,R$ 4.400 Condominio,"Rua Aureliano Coutinho, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5418812,-46.6531833,10000.0
+Centro,Praça da República,350.0,4.0,,2,R$ 10.000,R$ 3.000 Condominio,"Praça da República, Centro, São Paulo, São Paulo, Brasil",-23.5438292,-46.6421961,10000.0
+Vila Buarque,"Rua Aureliano Coutinho,",275.0,4.0,,0,R$ 10.000,R$ 4.400 Condominio,"Rua Aureliano Coutinho,, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5418812,-46.6531833,10000.0
+Vila Buarque,Rua Aureliano Coutinho,275.0,4.0,,4,R$ 11.000,R$ 4.200 Condominio,"Rua Aureliano Coutinho, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5418812,-46.6531833,11000.0
+Vila Buarque,Jaguaribe,200.0,2.0,,0,R$ 11.000,,"Jaguaribe, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5416171,-46.6529854,11000.0
+Vila Buarque,"R AURELIANO COUTINHO, 355",75.0,4.0,1.0,4,R$ 11.900,R$ 3.900 Condominio,"R AURELIANO COUTINHO, 355, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5432981,-46.65295709999999,11900.0
+Vila Buarque,Rua Martinico Prado,200.0,3.0,,1,R$ 12.000,R$ 2.529 Condominio,"Rua Martinico Prado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5426775,-46.6543719,12000.0
+Vila Buarque,Rua Martinico Prado,200.0,3.0,,1,R$ 12.000,R$ 2.529 Condominio,"Rua Martinico Prado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5426775,-46.6543719,12000.0
+Vila Buarque,Rua Martinico Prado 90,200.0,3.0,,1,R$ 12.000,R$ 2.529 Condominio,"Rua Martinico Prado 90, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5424515,-46.65204929999999,12000.0
+Vila Buarque,R Martinico Prado,200.0,3.0,,1,R$ 12.000,R$ 2.529 Condominio,"R Martinico Prado, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5426775,-46.6543719,12000.0
+Centro,Rua Major Quedinho,95.0,2.0,,2,R$ 14.000,R$ 1.500 Condominio,"Rua Major Quedinho, Centro, São Paulo, São Paulo, Brasil",-23.5497655,-46.6430772,14000.0
+Vila Buarque,Rua General Jardim,240.0,3.0,,2,R$ 15.000,R$ 3.300 Condominio,"Rua General Jardim, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5446395,-46.6489344,15000.0
+Vila Buarque,Rua Martinico Prado 90,200.0,3.0,,1,R$ 15.000,R$ 2.529 Condominio,"Rua Martinico Prado 90, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5424515,-46.65204929999999,15000.0
+Vila Buarque,Martinico Prado 590,270.0,3.0,,1,R$ 15.000,R$ 2.529 Condominio,"Martinico Prado 590, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5426054,-46.6562177,15000.0
+Centro,Parque Dom Pedro II 410,122.0,,,0,R$ 20.000,,"Parque Dom Pedro II 410, Centro, São Paulo, São Paulo, Brasil",-23.5448198,-46.6320132,20000.0
+Vila Buarque,Rua das Palmeiras 213,360.0,,,25,R$ 25.000,R$ 100 Condominio,"Rua das Palmeiras 213, Vila Buarque, São Paulo, São Paulo, Brasil",-23.5376521,-46.6513161,25000.0
+Centro,R Da Cantareira,378.0,1.0,1.0,0,R$ 90.000,,"R Da Cantareira, Centro, São Paulo, São Paulo, Brasil",-23.5388262,-46.6288375,90000.0
